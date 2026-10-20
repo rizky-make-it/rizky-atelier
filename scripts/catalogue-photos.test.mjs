@@ -7,7 +7,7 @@ import {cataloguePhoto,photoButton,referenceCard,featuredReferences} from '../di
 const manifest=JSON.parse(readFileSync(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
 const products=manifest.products;
 
-test('all 35 catalogue references use existing local images and exact 3D deep links',()=>{
+test('all 50 catalogue references use existing local images and exact 3D deep links',()=>{
   for(const p of products){
     const photo=cataloguePhoto(p),html=photoButton(p);
     assert.equal(photo.image,p.thumbnail);
@@ -50,6 +50,14 @@ test('Trianon keeps seven unique references, square table shape and shared recta
   assert.match(cataloguePhoto(pieces.find(p=>p.sku==='50476.1')).caption,/shared|accompanies both|not an isolated/i);
   assert.deepEqual(featuredReferences(products,'trianon').map(p=>p.sku),['50472.0','50475.1','50411.0']);
   const p={...pieces[0],referenceNote:'<script>alert("test")</script>'};assert.doesNotMatch(photoButton(p),/<script>/);
+});
+test('Wellington keeps fifteen distinct SKUs and discloses the shared red two-seat family image',()=>{
+  const pieces=products.filter(p=>p.collection==='wellington');assert.equal(pieces.length,15);
+  const red=pieces.filter(p=>['50490.0','50491.0'].includes(p.sku));assert.equal(red.length,2);
+  const hashes=red.map(p=>createHash('sha256').update(readFileSync(new URL('../dist/'+p.thumbnail,import.meta.url))).digest('hex'));assert.equal(hashes[0],hashes[1]);
+  const two=pieces.find(p=>p.sku==='50491.0');assert.deepEqual(two.dimensions,[1800,950,950]);assert.match(cataloguePhoto(two).note,/SHARED FAMILY IMAGE/);assert.equal(cataloguePhoto(two).label,'Shared family reference');
+  for(const p of pieces){assert.equal(cataloguePhoto(p).brand,'MARINER');assert.deepEqual(cataloguePhoto(p).size,p.imageSize);}
+  assert.deepEqual(featuredReferences(products,'wellington').map(p=>p.sku),['50292.0','50296.0','50297.0']);
 });
 test('catalogue metadata remains escaped in images, captions, requests and links',()=>{
   const p={...products[0],name:'<img src=x onerror="alert(1)">',finish:'Warm <script> & brown',sku:'A" data-x="bad'};

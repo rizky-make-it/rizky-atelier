@@ -31,6 +31,12 @@
       "products": 7,
       "placements": 10,
       "movingParts": 0
+    },
+    {
+      "id": "wellington",
+      "products": 15,
+      "placements": 20,
+      "movingParts": 0
     }
   ],
   "files": [

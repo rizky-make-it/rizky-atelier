@@ -1,0 +1,1722 @@
+{
+  "collection": "WELLINGTON",
+  "catalogue_brand": "MARINER",
+  "catalogue_title": "CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+  "sourceBrand": "MARINER",
+  "source_pdf": "C:\\Users\\Admin\\Downloads\\CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "source_pdf_sha256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "source_pdf_page_count": 139,
+  "source_pdf_pages": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "dimensions_unit": "millimetres",
+  "dimensions_order": "width, depth, height",
+  "source_material_statement": "HIGH GLOSS BLACK PIANO AND WHITE LACQUER WITH POLISHED BRASS CASTED BRONZE ORNAMENTS & CARVINGS DECORATED WITH ANTIQUE GOLD LEAF.",
+  "source_variant_note": "Blue50292.0/50293.0 and red50490.0/50491.0/50492.0 are distinct upholstery/frame-detail families, not mere material colour variants. White-frame armchair50294.2 and white-frame TV50298.2 use printed WE.W finish references. Red two-seat50491.0 has printed dimensions but no separate image; the unaltered three-seat family image is shared and explicitly disclosed.",
+  "scope_note": "Only WELLINGTON living-room pages25-31 (printed48-61) are in scope; page32 begins NANTES. Mirrors and consoles are individually dimensioned products despite sharing lifestyle compositions. Styling items and televisions are not additional catalogue product SKUs.",
+  "provenance_note": "Images are exact original embedded JPEGs, documented native-density rectangular crops, or faithful native-density composites of original JPEGs with their original PDF soft masks over the original white page background. Raw source and mask bytes and hashes are retained. No AI replacement, super-resolution, new subject segmentation, synthesized missing product photo or subject alteration was performed.",
+  "reconstruction_caveat": "Only printed dimensions and visibly documented surfaces are evidenced. Hidden joinery, exact material substrate, fabric weave, finish calibration and opening mechanisms are unverified interpretations. Source images alone do not establish whether imagery is photographed or rendered. Shared-family and lifestyle-crop limitations are disclosed per product.",
+  "rights_note": "User-supplied MARINER catalogue; original product designs and imagery remain the rights of their owners. This evidence extraction conveys no commercial reuse licence or manufacturer endorsement.",
+  "products": [
+    {
+      "sku": "50292.0",
+      "name": "Wellington Blue Three-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2500,
+        950,
+        950
+      ],
+      "weight_kg": 110,
+      "source_pdf_page": 26,
+      "finish": "WE.L / DB (535 /67)",
+      "fabric_codes": [
+        "243.030",
+        "241.201"
+      ],
+      "fabric_statement": "Suggested Fabric: 243.030 / 241.201",
+      "visible_details": [
+        "Deep midnight-blue velvet upholstery and plump piped seat/back cushions",
+        "Rigid squared U-shaped white front fascia framed in high-gloss black lacquer and narrow gold bead trim",
+        "Gold hanging ornament on each front arm upright and round central gold apron medallion",
+        "Decorative hard side panels with large circular black-and-gold medallions",
+        "Diamond-button-tufted blue outer rear upholstery",
+        "Short decorated gold feet and small gold finials above front arm corners",
+        "Three individual seat cushions and three loose back cushions",
+        "Blue and patterned dark accent pillows including two round cushions"
+      ],
+      "reference_note": "Rear tufting and external hard side-panel details are evidenced by the adjacent original lifestyle detail and page25 room image; hidden construction remains interpretative.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 26,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "50-51",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 26,
+        "source_image_xref": 131,
+        "source_native_pixels": [
+          657,
+          259
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          657,
+          259
+        ],
+        "crop_rect_pdf_points": [
+          668.2677001953125,
+          479.36639404296875,
+          1160.92919921875,
+          672.953369140625
+        ],
+        "output_pixels": [
+          657,
+          259
+        ],
+        "source_image_file": "originals/page-026-xref-131.jpeg",
+        "source_image_sha256": "f113f7f3c20044cef3599cb11c07c5ce2931c23e6404ea62600cffe40c2f1cce",
+        "file": "catalogue/50292.0.jpg",
+        "source_soft_mask_xref": 130,
+        "source_soft_mask_file": "originals/page-026-mask-130.jpeg",
+        "source_soft_mask_sha256": "141d6189ddfab7bd63105b96fd3fff39ed53a70e99fd0ad6bf9183d66c308949",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          492.66143798828125,
+          0.0,
+          -0.0,
+          193.5869598388672,
+          668.2677001953125,
+          479.36639404296875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "2986506d9919edb21ae602df339de9e94b184439973381d359629355d6d0a007"
+      }
+    },
+    {
+      "sku": "50293.0",
+      "name": "Wellington Blue Two-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        1800,
+        950,
+        950
+      ],
+      "weight_kg": 100,
+      "source_pdf_page": 26,
+      "finish": "WE.L / DB (535 /67)",
+      "fabric_codes": [
+        "243.030",
+        "241.201"
+      ],
+      "fabric_statement": "Suggested Fabric: 243.030 / 241.201",
+      "visible_details": [
+        "Deep midnight-blue velvet upholstery and plump piped seat/back cushions",
+        "Rigid squared U-shaped white front fascia framed in high-gloss black lacquer and narrow gold bead trim",
+        "Gold hanging ornament on each front arm upright and round central gold apron medallion",
+        "Decorative hard side panels with large circular black-and-gold medallions",
+        "Diamond-button-tufted blue outer rear upholstery",
+        "Short decorated gold feet and small gold finials above front arm corners",
+        "Two individual seat cushions and two loose back cushions",
+        "Blue and patterned dark accent pillows including a central round cushion"
+      ],
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 26,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "50-51",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 26,
+        "source_image_xref": 129,
+        "source_native_pixels": [
+          503,
+          256
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          503,
+          256
+        ],
+        "crop_rect_pdf_points": [
+          715.092529296875,
+          107.71673583984375,
+          1092.1175537109375,
+          299.0517578125
+        ],
+        "output_pixels": [
+          503,
+          256
+        ],
+        "source_image_file": "originals/page-026-xref-129.jpeg",
+        "source_image_sha256": "9abd535644deca6e611741c4b8153637b6a01ea2a72b0c2ecbe5335a0b961a95",
+        "file": "catalogue/50293.0.jpg",
+        "source_soft_mask_xref": 128,
+        "source_soft_mask_file": "originals/page-026-mask-128.jpeg",
+        "source_soft_mask_sha256": "20dfa4bcf401781f49140370c8860c8aa650069850d427381a96820f00be5cfe",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          377.0250549316406,
+          0.0,
+          -0.0,
+          191.33502197265625,
+          715.092529296875,
+          107.71673583984375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "9a73046b1dab5674ad2734eb01e9b7311828428fbf7b0206dd9f087f0b5ded81"
+      }
+    },
+    {
+      "sku": "50294.2",
+      "name": "Wellington White-frame Blue Armchair",
+      "type": "Armchair",
+      "dimensions_mm": [
+        1060,
+        950,
+        950
+      ],
+      "weight_kg": 60,
+      "source_pdf_page": 27,
+      "finish": "WE.W. /DB (536 /67)",
+      "fabric_codes": [
+        "243.030"
+      ],
+      "fabric_statement": "Fabric: 243.030",
+      "visible_details": [
+        "Deep blue velvet seat, one loose back cushion and a dark accent pillow",
+        "White outer frame surrounding dark brown patterned hard side panels",
+        "Large gold-rimmed circular medallion on each external hard side panel",
+        "Diamond-button-tufted blue rear panel shown in separate rear image",
+        "Narrow gold trim, gold front-upright hanging ornaments and small top finials",
+        "Four short decorated gold feet"
+      ],
+      "reference_note": "The printed WE.W finish has a white outer frame, unlike the black outer outline of the blue two/three-seat references. Dark brown patterned surfaces are visually evident but their substrate and exact material are not specified.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 27,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "52-53",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 27,
+        "source_image_xref": 135,
+        "source_native_pixels": [
+          597,
+          335
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          597,
+          335
+        ],
+        "crop_rect_pdf_points": [
+          -1.0404833555221558,
+          234.22283935546875,
+          446.22515869140625,
+          485.4141845703125
+        ],
+        "output_pixels": [
+          597,
+          335
+        ],
+        "source_image_file": "originals/page-027-xref-135.jpeg",
+        "source_image_sha256": "5bdf962c852adf58ae2dc809316a522e524dd584784fe7a7d2e420078af7656b",
+        "file": "catalogue/50294.2.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "source_image_to_pdf_transform": [
+          447.2656555175781,
+          0.0,
+          -0.0,
+          251.19134521484375,
+          -1.0404833555221558,
+          234.22283935546875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "5bdf962c852adf58ae2dc809316a522e524dd584784fe7a7d2e420078af7656b"
+      }
+    },
+    {
+      "sku": "50490.0",
+      "name": "Wellington Red Three-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2500,
+        950,
+        950
+      ],
+      "weight_kg": 80,
+      "source_pdf_page": 28,
+      "finish": "WE.L / DB (535 /67)",
+      "fabric_codes": [
+        "243.066",
+        "241.188",
+        "241.182"
+      ],
+      "fabric_statement": "Fabric: 243.066 / 241.188 / 241.182",
+      "visible_details": [
+        "Wine-red velvet upholstery with piped seat and loose back cushions",
+        "Diamond-button-tufted outer side upholstery without large hard side medallions",
+        "Smooth wine-red fabric rear panel rather than a tufted rear",
+        "Squared white U-shaped front fascia bounded by glossy black lacquer and slim gold trim",
+        "Gold hanging ornaments on the front arm uprights and short decorated gold feet",
+        "Three individual seat cushions and three back cushions",
+        "Burgundy and pale accent pillows and a front-centre round gold medallion"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50491.0"
+      ],
+      "reference_note": "The original three-seat product image is also used as a shared family reference for the separately dimensioned two-seat 50491.0; it must not be presented as an isolated two-seat catalogue photograph. Source rear view clearly shows a smooth fabric rear panel.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 28,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "54-55",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 28,
+        "source_image_xref": 142,
+        "source_native_pixels": [
+          693,
+          436
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          693,
+          436
+        ],
+        "crop_rect_pdf_points": [
+          2.32000732421875,
+          -1.06610107421875,
+          521.369873046875,
+          325.73468017578125
+        ],
+        "output_pixels": [
+          693,
+          436
+        ],
+        "source_image_file": "originals/page-028-xref-142.jpeg",
+        "source_image_sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4",
+        "file": "catalogue/50490.0.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "source_image_to_pdf_transform": [
+          -519.0498657226562,
+          -0.0,
+          -0.0,
+          326.80078125,
+          521.369873046875,
+          -1.06610107421875
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+        "sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4"
+      }
+    },
+    {
+      "sku": "50491.0",
+      "name": "Wellington Red Two-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        1800,
+        950,
+        950
+      ],
+      "weight_kg": 75,
+      "source_pdf_page": 28,
+      "finish": "WE.L / DB (535 /67)",
+      "fabric_codes": [
+        "243.066",
+        "241.188",
+        "241.182"
+      ],
+      "fabric_statement": "Fabric: 243.066 / 241.188 / 241.182",
+      "visible_details": [
+        "Wine-red velvet upholstery with piped seat and loose back cushions",
+        "Diamond-button-tufted outer side upholstery without large hard side medallions",
+        "Smooth wine-red fabric rear panel rather than a tufted rear",
+        "Squared white U-shaped front fascia bounded by glossy black lacquer and slim gold trim",
+        "Gold hanging ornaments on the front arm uprights and short decorated gold feet",
+        "Two-seat proportions follow the explicitly printed width; no isolated two-seat source view is supplied"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50490.0"
+      ],
+      "reference_note": "SHARED FAMILY IMAGE: the catalogue provides dimensions and SKU for this two-seat sofa but no separate isolated two-seat image. This is the original three-seat 50490.0 image from the same family, not a true image of 50491.0; the reconstructed two-seat cushion count/proportions are dimension-led interpretations.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 28,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "54-55",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 28,
+        "source_image_xref": 142,
+        "source_native_pixels": [
+          693,
+          436
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          693,
+          436
+        ],
+        "crop_rect_pdf_points": [
+          2.32000732421875,
+          -1.06610107421875,
+          521.369873046875,
+          325.73468017578125
+        ],
+        "output_pixels": [
+          693,
+          436
+        ],
+        "source_image_file": "originals/page-028-xref-142.jpeg",
+        "source_image_sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4",
+        "file": "catalogue/50491.0.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "source_image_to_pdf_transform": [
+          -519.0498657226562,
+          -0.0,
+          -0.0,
+          326.80078125,
+          521.369873046875,
+          -1.06610107421875
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+        "sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4"
+      }
+    },
+    {
+      "sku": "50492.0",
+      "name": "Wellington Red Armchair",
+      "type": "Armchair",
+      "dimensions_mm": [
+        1060,
+        950,
+        950
+      ],
+      "weight_kg": 50,
+      "source_pdf_page": 28,
+      "finish": "WE.L / DB (535 /67)",
+      "fabric_codes": [
+        "243.066",
+        "241.181"
+      ],
+      "fabric_statement": "Fabric: 243.066 / 241.181",
+      "visible_details": [
+        "Wine-red velvet upholstery with piped seat and loose back cushions",
+        "Diamond-button-tufted outer side upholstery without large hard side medallions",
+        "Smooth wine-red fabric rear panel rather than a tufted rear",
+        "Squared white U-shaped front fascia bounded by glossy black lacquer and slim gold trim",
+        "Gold hanging ornaments on the front arm uprights and short decorated gold feet",
+        "One plump seat cushion and one broad loose back cushion",
+        "No gold finials above the front arm corners in this reference"
+      ],
+      "reference_note": "Native-density crop of the original dark-backdrop product composition; no isolated white-background source view was created.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 28,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf",
+        "Velvet upholstery; printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "54-55",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 28,
+        "source_image_xref": 143,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          20,
+          490,
+          790,
+          1120
+        ],
+        "crop_rect_pdf_points": [
+          609.1671752929688,
+          366.28204345703125,
+          1186.41064453125,
+          838.5130615234375
+        ],
+        "output_pixels": [
+          770,
+          630
+        ],
+        "source_image_file": "originals/page-028-xref-143.jpeg",
+        "source_image_sha256": "9c86d671659cae079af9d5e381f745d61db7e39b41ee6627c7a45f90219775eb",
+        "sha256": "406c617b4b4444f03440a50001b5998879a11986153f7d99b618ebd8fe4a6e67",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50492.0.jpg",
+        "source_image_to_pdf_transform": [
+          597.4844970703125,
+          0.0,
+          -0.0,
+          844.0192260742188,
+          594.173828125,
+          -1.00872802734375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display."
+      }
+    },
+    {
+      "sku": "50280.0",
+      "name": "Wellington Crest Mirror",
+      "type": "Mirror",
+      "dimensions_mm": [
+        1120,
+        70,
+        1650
+      ],
+      "weight_kg": 42,
+      "source_pdf_page": 29,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Tall rectangular mirror surrounded by a broad pale lacquer frame",
+        "Glossy black corner blocks with small gold floral ornaments",
+        "Narrow antique-gold inner and outer frame molding",
+        "Large circular black crest with concentric gold medallion above the top edge",
+        "Small horizontal gold flourishes beside the top crest"
+      ],
+      "reference_note": "Original lifestyle crop of the mirror; lamps, decorative objects and reflections remain and partly obscure the lower frame. The associated console is 50279.0. Exact rear mounting is not visible.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 29,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "56-57",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 29,
+        "source_image_xref": 147,
+        "source_native_pixels": [
+          801,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          160,
+          70,
+          600,
+          695
+        ],
+        "crop_rect_pdf_points": [
+          118.72891235351562,
+          51.437034606933594,
+          448.4184265136719,
+          519.9103393554688
+        ],
+        "output_pixels": [
+          440,
+          625
+        ],
+        "source_image_file": "originals/page-029-xref-147.jpeg",
+        "source_image_sha256": "73322b9d8bb2a5a6e1d686245c254bffb4bd7ba4e76fe9eaedbaa258fdbdf904",
+        "sha256": "3490592d4bc6029b136fce356d5a8ac83c5a31620ef5887a00dee5a802dcef81",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50280.0.jpg",
+        "source_image_to_pdf_transform": [
+          600.1847534179688,
+          0.0,
+          -0.0,
+          844.0015869140625,
+          -1.1581778526306152,
+          -1.031982421875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display."
+      }
+    },
+    {
+      "sku": "50278.0",
+      "name": "Wellington Round Pedestal Side Table",
+      "type": "Side table",
+      "dimensions_mm": [
+        650,
+        650,
+        700
+      ],
+      "diameter_mm": 650,
+      "weight_kg": 17,
+      "source_pdf_page": 29,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Round high-gloss black top with double pale ring inlay and central pale laurel wreath",
+        "Pale top fascia with a narrow gold lower edge",
+        "Single glossy black flared pedestal with a decorated gold middle collar",
+        "Pale concave-sided base outlined in black and four small gold feet"
+      ],
+      "reference_note": "The catalogue gives diameter and height. No marble is stated for these black lacquer tabletops.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 29,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "56-57",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 29,
+        "source_image_xref": 149,
+        "source_native_pixels": [
+          311,
+          256
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          311,
+          256
+        ],
+        "crop_rect_pdf_points": [
+          820.68359375,
+          101.58851623535156,
+          1053.5198974609375,
+          293.33599853515625
+        ],
+        "output_pixels": [
+          311,
+          256
+        ],
+        "source_image_file": "originals/page-029-xref-149.jpeg",
+        "source_image_sha256": "f0c267a12a02824bf25f275577c855279f91d926912bb13f0c290b373aeba959",
+        "file": "catalogue/50278.0.jpg",
+        "source_soft_mask_xref": 148,
+        "source_soft_mask_file": "originals/page-029-mask-148.jpeg",
+        "source_soft_mask_sha256": "a17dc42931b8adde01b110895adbe08bc693a867d4cd430e8b13f31de42964bf",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          232.8362579345703,
+          0.0,
+          -0.0,
+          191.7474822998047,
+          820.68359375,
+          101.58851623535156
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "23032c963cce04f66cb6607f2983fe8bd2d6a896073264538e90894bf2939bf9"
+      }
+    },
+    {
+      "sku": "50279.0",
+      "name": "Wellington Wide Curved Console",
+      "type": "Console",
+      "dimensions_mm": [
+        1700,
+        500,
+        810
+      ],
+      "weight_kg": 36,
+      "source_pdf_page": 29,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Wide black lacquer top with softly rounded outer ends and pale perimeter inlay",
+        "Carved antique-gold apron with dark square blocks above front legs",
+        "Four tapered black legs with gold upper collars and tall gold foot sleeves",
+        "Low pale curved stretcher outlined in black with a small central finial",
+        "No full lower shelf or documented drawer"
+      ],
+      "reference_note": "Original lifestyle crop; the associated crest mirror is 50280.0. Lamps and decorative objects remain. Hidden structural joints are unverified.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 29,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "56-57",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 29,
+        "source_image_xref": 147,
+        "source_native_pixels": [
+          801,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          65,
+          700,
+          760,
+          1060
+        ],
+        "crop_rect_pdf_points": [
+          47.545955657958984,
+          523.658203125,
+          568.3054809570312,
+          793.4988403320312
+        ],
+        "output_pixels": [
+          695,
+          360
+        ],
+        "source_image_file": "originals/page-029-xref-147.jpeg",
+        "source_image_sha256": "73322b9d8bb2a5a6e1d686245c254bffb4bd7ba4e76fe9eaedbaa258fdbdf904",
+        "sha256": "99390a39028b2a5b0536d3969f31a613dbd9f77c74144c140ee06942376c98b2",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50279.0.jpg",
+        "source_image_to_pdf_transform": [
+          600.1847534179688,
+          0.0,
+          -0.0,
+          844.0015869140625,
+          -1.1581778526306152,
+          -1.031982421875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display."
+      }
+    },
+    {
+      "sku": "50295.0",
+      "name": "Wellington Square Coffee Table",
+      "type": "Coffee table",
+      "dimensions_mm": [
+        1300,
+        1300,
+        510
+      ],
+      "weight_kg": 55,
+      "source_pdf_page": 29,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "High-gloss black top with double pale inlaid perimeter lines and a pale central laurel-wreath motif",
+        "Antique-gold foliate apron edged by narrow pale bands",
+        "Tapered black legs with decorated gold capitals, middle sleeves and toes",
+        "Curved pale lower stretchers with black edging; open spans, not a solid lower shelf",
+        "Square top with softly clipped corners",
+        "Four legs and four inward-curved stretcher links"
+      ],
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 29,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "56-57",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 29,
+        "source_image_xref": 151,
+        "source_native_pixels": [
+          491,
+          261
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          491,
+          261
+        ],
+        "crop_rect_pdf_points": [
+          640.8081665039062,
+          359.13201904296875,
+          1008.5394897460938,
+          554.2459106445312
+        ],
+        "output_pixels": [
+          491,
+          261
+        ],
+        "source_image_file": "originals/page-029-xref-151.jpeg",
+        "source_image_sha256": "d3ab04e0fe69e0a9e9e03839b0c87844bce49bd120db6b969c6d356f73e8c1a2",
+        "file": "catalogue/50295.0.jpg",
+        "source_soft_mask_xref": 150,
+        "source_soft_mask_file": "originals/page-029-mask-150.jpeg",
+        "source_soft_mask_sha256": "a02f8899fbb3893bc110eae505522425f34aae57ffa8facbc94a615bacab7bd8",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          367.7313232421875,
+          0.0,
+          -0.0,
+          195.11390686035156,
+          640.8081665039062,
+          359.13201904296875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "89341eb8ea17e8e4ee6fd5f9f6faecd5a5b844200b8cb9a029934b1669b3fd64"
+      }
+    },
+    {
+      "sku": "50296.0",
+      "name": "Wellington Round Coffee Table",
+      "type": "Coffee table",
+      "dimensions_mm": [
+        1350,
+        1350,
+        510
+      ],
+      "diameter_mm": 1350,
+      "weight_kg": 57,
+      "source_pdf_page": 29,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "High-gloss black top with double pale inlaid perimeter lines and a pale central laurel-wreath motif",
+        "Antique-gold foliate apron edged by narrow pale bands",
+        "Tapered black legs with decorated gold capitals, middle sleeves and toes",
+        "Curved pale lower stretchers with black edging; open spans, not a solid lower shelf",
+        "Round top and circular apron punctuated by dark square leg blocks",
+        "Multiple curved pale stretcher links forming an open symmetrical base"
+      ],
+      "reference_note": "The catalogue gives diameter and height. Visible leg/stretcher placements guide reconstruction; precise hidden joinery is unverified.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 29,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "56-57",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 29,
+        "source_image_xref": 153,
+        "source_native_pixels": [
+          504,
+          272
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          504,
+          272
+        ],
+        "crop_rect_pdf_points": [
+          797.9526977539062,
+          576.8486328125,
+          1175.78125,
+          780.515869140625
+        ],
+        "output_pixels": [
+          504,
+          272
+        ],
+        "source_image_file": "originals/page-029-xref-153.jpeg",
+        "source_image_sha256": "ce29acc4fc211c475e9ce13f4a9291d813a8da3498d519a2b378a5b5ba162859",
+        "file": "catalogue/50296.0.jpg",
+        "source_soft_mask_xref": 152,
+        "source_soft_mask_file": "originals/page-029-mask-152.jpeg",
+        "source_soft_mask_sha256": "6088dd5445f7ab2204510fab490069f773f056fd96a7da4e314cf20c6710788a",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          377.82861328125,
+          0.0,
+          -0.0,
+          203.667236328125,
+          797.9526977539062,
+          576.8486328125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "1c9ca547ba996a9714961f131b7d9020de9a3d46f266ee9087e691aff1c3cce4"
+      }
+    },
+    {
+      "sku": "50297.0",
+      "name": "Wellington Glass Display Cabinet",
+      "type": "Cabinet",
+      "dimensions_mm": [
+        1150,
+        500,
+        2120
+      ],
+      "weight_kg": 87,
+      "source_pdf_page": 30,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Tall white lacquer glass vitrine with broad black-edged upper cornice",
+        "Carved antique-gold upper and lower apron panels and dark square corner blocks",
+        "Large glazed front with small gold handle and glazed side panels",
+        "Gold hanging ornaments on the front uprights",
+        "Two clearly visible glass shelves forming three display levels",
+        "Four tapered black legs with long gold sleeves and pale open curved stretcher base",
+        "Small central gold urn-like finial on the lower stretcher"
+      ],
+      "reference_note": "Source shows glazed front and a small handle but does not verify hinges, opening range or construction. Any animated opening would be a conceptual mechanism, not manufacturer CAD. Glassware is styling, not additional catalogue product SKUs.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 30,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "58-59",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 30,
+        "source_image_xref": 159,
+        "source_native_pixels": [
+          487,
+          836
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          487,
+          836
+        ],
+        "crop_rect_pdf_points": [
+          796.8436279296875,
+          124.72467041015625,
+          1161.6689453125,
+          751.1813354492188
+        ],
+        "output_pixels": [
+          487,
+          836
+        ],
+        "source_image_file": "originals/page-030-xref-159.jpeg",
+        "source_image_sha256": "9fb1e233195c1f1eb926a7a0225c997ba4025cb54b4ffa1b004c74c1e5607edc",
+        "file": "catalogue/50297.0.jpg",
+        "source_soft_mask_xref": 158,
+        "source_soft_mask_file": "originals/page-030-mask-158.jpeg",
+        "source_soft_mask_sha256": "5157664ae86770278db7de097e890db1d9d3acf9ed4d503aed54242756aa0c05",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "source_image_to_pdf_transform": [
+          364.82537841796875,
+          0.0,
+          -0.0,
+          626.4566650390625,
+          796.8436279296875,
+          124.72467041015625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "sha256": "6e8954c3585770ead4401a4622ff38471e9cb48932d37c514df0fcd7a8de2864"
+      }
+    },
+    {
+      "sku": "50302.0",
+      "name": "Wellington Rectangular Mirror",
+      "type": "Mirror",
+      "dimensions_mm": [
+        1100,
+        50,
+        1250
+      ],
+      "weight_kg": 33,
+      "source_pdf_page": 30,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Simple tall rectangular mirrored centre without a raised circular top crest",
+        "Broad pale lacquer frame with glossy black corner squares",
+        "Small gold corner ornaments and narrow gold inner/outer frame molding"
+      ],
+      "reference_note": "Original lifestyle crop of mirror50302.0, paired with compact console50357.0. Lamps and vase partly obscure the lower frame and remain in the reference. Exact rear mounting is not shown.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 30,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "58-59",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 30,
+        "source_image_xref": 157,
+        "source_native_pixels": [
+          796,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          175,
+          145,
+          590,
+          625
+        ],
+        "crop_rect_pdf_points": [
+          129.98963928222656,
+          107.5623779296875,
+          440.9295654296875,
+          467.4595642089844
+        ],
+        "output_pixels": [
+          415,
+          480
+        ],
+        "source_image_file": "originals/page-030-xref-157.jpeg",
+        "source_image_sha256": "eecdaf4c014a08e9011a8a9946d3d18b866c2c4b0b4b90febe714654dfb70426",
+        "sha256": "90a237ebb47574a7830914f107b3c465fbc9ddc1acc5168aeb7ce86c0e8e964a",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50302.0.jpg",
+        "source_image_to_pdf_transform": [
+          596.4052124023438,
+          0.0,
+          -0.0,
+          844.2587890625,
+          -1.1295920610427856,
+          -1.15655517578125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display."
+      }
+    },
+    {
+      "sku": "50357.0",
+      "name": "Wellington Compact Console",
+      "type": "Console",
+      "dimensions_mm": [
+        1090,
+        470,
+        820
+      ],
+      "weight_kg": 27,
+      "source_pdf_page": 30,
+      "finish": "WE.L / DB (535 /67)",
+      "visible_details": [
+        "Straight compact rectangular black lacquer top with pale edge trim",
+        "Antique-gold foliate apron with black square leg blocks",
+        "Four tapered black legs with decorated gold upper collars and long gold foot sleeves",
+        "Open curved pale stretcher base outlined in black and a central small gold finial",
+        "No full lower shelf or documented opening panel"
+      ],
+      "reference_note": "Original lifestyle crop paired with mirror50302.0; lamps and decorative objects remain. The compact console top is straight-sided rather than the visibly rounded ends of wide console50279.0.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 30,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "58-59",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 30,
+        "source_image_xref": 157,
+        "source_native_pixels": [
+          796,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          185,
+          685,
+          665,
+          1060
+        ],
+        "crop_rect_pdf_points": [
+          137.48216247558594,
+          512.4467163085938,
+          497.12353515625,
+          793.6163940429688
+        ],
+        "output_pixels": [
+          480,
+          375
+        ],
+        "source_image_file": "originals/page-030-xref-157.jpeg",
+        "source_image_sha256": "eecdaf4c014a08e9011a8a9946d3d18b866c2c4b0b4b90febe714654dfb70426",
+        "sha256": "0deab50408d617f92db6106668e8ed7d0c3007f2990914cfc41832db27c90e7b",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50357.0.jpg",
+        "source_image_to_pdf_transform": [
+          596.4052124023438,
+          0.0,
+          -0.0,
+          844.2587890625,
+          -1.1295920610427856,
+          -1.15655517578125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display."
+      }
+    },
+    {
+      "sku": "50298.2",
+      "name": "Wellington White-frame TV Cabinet",
+      "type": "TV furniture",
+      "dimensions_mm": [
+        2200,
+        500,
+        800
+      ],
+      "weight_kg": 108,
+      "source_pdf_page": 31,
+      "finish": "WE.W / DB (536 /67)",
+      "visible_details": [
+        "Long dark top with pale edge molding and continuous carved gold upper apron",
+        "White frame and front uprights with gold hanging ornaments",
+        "Two dark brown patterned outer front panels with concentric gold medallions",
+        "Open pale centre bay with one pale shelf forming two storage levels",
+        "Black lower plinth with gold edging and short decorated gold feet"
+      ],
+      "reference_note": "Native-density crop from the only supplied TV lifestyle image, retaining the embedded image orientation. The source PDF horizontally mirrors that embedded image. One outer cabinet edge is clipped by the original composition and a foreground table partly overlaps the lower cabinet. No isolated full-front source view exists here. Outer panel opening mechanics are not verified.",
+      "collection": "WELLINGTON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 31,
+      "imageShared": false,
+      "materials": [
+        "High-gloss black piano and white lacquer",
+        "Polished brass and cast bronze ornaments",
+        "Carvings decorated with antique gold leaf"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "60-61",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 31,
+        "source_image_xref": 163,
+        "source_native_pixels": [
+          1315,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          640,
+          525,
+          1315,
+          855
+        ],
+        "crop_rect_pdf_points": [
+          -1.06201171875,
+          392.46356201171875,
+          504.96368408203125,
+          639.8042602539062
+        ],
+        "output_pixels": [
+          675,
+          330
+        ],
+        "source_image_file": "originals/page-031-xref-163.jpeg",
+        "source_image_sha256": "d77e4cf6c65ea862379179cfc543ec25a71a82c5ae29c1fc5cf7d4084ebf6578",
+        "sha256": "5f3fa573dddbc43de6c37dbbaafebd8ba88c9154ba64085b38248753fd34edf3",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50298.2.jpg",
+        "source_image_to_pdf_transform": [
+          -985.81298828125,
+          -0.0,
+          -0.0,
+          843.9564819335938,
+          984.7509765625,
+          -1.03302001953125
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored."
+      }
+    }
+  ],
+  "supporting_images": [
+    {
+      "source_pdf_page": 25,
+      "source_image_xref": 124,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.288021445274353,
+        -1.10028076171875,
+        1191.5682373046875,
+        843.0432739257812
+      ],
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "source_image_file": "originals/page-025-xref-124.jpeg",
+      "source_image_sha256": "ce3ccc406e170b8123a4245d40cf49af828b7ed575fb3636f9d5096d71c6ede6",
+      "file": "room-living.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        1192.856201171875,
+        0.0,
+        -0.0,
+        844.1435546875,
+        -1.288021445274353,
+        -1.10028076171875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "ce3ccc406e170b8123a4245d40cf49af828b7ed575fb3636f9d5096d71c6ede6"
+    },
+    {
+      "source_pdf_page": 26,
+      "source_image_xref": 127,
+      "source_native_pixels": [
+        803,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        803,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.2099733352661133,
+        -1.1585693359375,
+        600.5419921875,
+        843.1177368164062
+      ],
+      "output_pixels": [
+        803,
+        1126
+      ],
+      "source_image_file": "originals/page-026-xref-127.jpeg",
+      "source_image_sha256": "63fd5a9f3add1b918970bf21bf0c9dc67551f51c47704d51d4ce2100fd25a825",
+      "file": "original-blue-sofa-back.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        601.751953125,
+        0.0,
+        -0.0,
+        844.2763061523438,
+        -1.2099733352661133,
+        -1.1585693359375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "63fd5a9f3add1b918970bf21bf0c9dc67551f51c47704d51d4ce2100fd25a825"
+    },
+    {
+      "source_pdf_page": 27,
+      "source_image_xref": 136,
+      "source_native_pixels": [
+        597,
+        424
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        597,
+        424
+      ],
+      "crop_rect_pdf_points": [
+        -1.092717170715332,
+        488.3583679199219,
+        446.1046447753906,
+        805.8900146484375
+      ],
+      "output_pixels": [
+        597,
+        424
+      ],
+      "source_image_file": "originals/page-027-xref-136.jpeg",
+      "source_image_sha256": "b7f18dd56405f49f2f56f587dd725c03ad13de61ec71374ed21cbf9b6a36e8a6",
+      "file": "original-white-armchair-rear.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        447.1973571777344,
+        0.0,
+        -0.0,
+        317.5316467285156,
+        -1.092717170715332,
+        488.3583679199219
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "b7f18dd56405f49f2f56f587dd725c03ad13de61ec71374ed21cbf9b6a36e8a6"
+    },
+    {
+      "source_pdf_page": 27,
+      "source_image_xref": 137,
+      "source_native_pixels": [
+        997,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        997,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        443.9194030761719,
+        -1.2008056640625,
+        1191.6572265625,
+        843.0910034179688
+      ],
+      "output_pixels": [
+        997,
+        1126
+      ],
+      "source_image_file": "originals/page-027-xref-137.jpeg",
+      "source_image_sha256": "b84ea333327dcb4f507bd42e6ccfb9ec5e8b9223e29b4d3e727fcb99042b641f",
+      "file": "original-blue-front-detail.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        747.7378540039062,
+        0.0,
+        -0.0,
+        844.2918090820312,
+        443.9194030761719,
+        -1.2008056640625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "b84ea333327dcb4f507bd42e6ccfb9ec5e8b9223e29b4d3e727fcb99042b641f"
+    },
+    {
+      "source_pdf_page": 28,
+      "source_image_xref": 141,
+      "source_native_pixels": [
+        688,
+        421
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        688,
+        421
+      ],
+      "crop_rect_pdf_points": [
+        -6.103515625e-05,
+        307.84124755859375,
+        515.3885498046875,
+        623.3405151367188
+      ],
+      "output_pixels": [
+        688,
+        421
+      ],
+      "source_image_file": "originals/page-028-xref-141.jpeg",
+      "source_image_sha256": "285a80fa9076f14ef28bfe372f24d9e67fecb19fb640e58e421bc2334c5b1db4",
+      "file": "original-red-sofa-rear.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        -515.3886108398438,
+        -0.0,
+        -0.0,
+        315.499267578125,
+        515.3885498046875,
+        307.84124755859375
+      ],
+      "source_pdf_horizontal_mirror": true,
+      "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+      "sha256": "285a80fa9076f14ef28bfe372f24d9e67fecb19fb640e58e421bc2334c5b1db4"
+    },
+    {
+      "source_pdf_page": 28,
+      "source_image_xref": 143,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        594.173828125,
+        -1.00872802734375,
+        1191.6583251953125,
+        843.010498046875
+      ],
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "source_image_file": "originals/page-028-xref-143.jpeg",
+      "source_image_sha256": "9c86d671659cae079af9d5e381f745d61db7e39b41ee6627c7a45f90219775eb",
+      "file": "original-red-armchair-full.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        597.4844970703125,
+        0.0,
+        -0.0,
+        844.0192260742188,
+        594.173828125,
+        -1.00872802734375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "9c86d671659cae079af9d5e381f745d61db7e39b41ee6627c7a45f90219775eb"
+    },
+    {
+      "source_pdf_page": 29,
+      "source_image_xref": 147,
+      "source_native_pixels": [
+        801,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        801,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.1581778526306152,
+        -1.031982421875,
+        599.0265502929688,
+        842.9696044921875
+      ],
+      "output_pixels": [
+        801,
+        1126
+      ],
+      "source_image_file": "originals/page-029-xref-147.jpeg",
+      "source_image_sha256": "73322b9d8bb2a5a6e1d686245c254bffb4bd7ba4e76fe9eaedbaa258fdbdf904",
+      "file": "original-wide-console-and-mirror.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        600.1847534179688,
+        0.0,
+        -0.0,
+        844.0015869140625,
+        -1.1581778526306152,
+        -1.031982421875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "73322b9d8bb2a5a6e1d686245c254bffb4bd7ba4e76fe9eaedbaa258fdbdf904"
+    },
+    {
+      "source_pdf_page": 30,
+      "source_image_xref": 157,
+      "source_native_pixels": [
+        796,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        796,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.1295920610427856,
+        -1.15655517578125,
+        595.275634765625,
+        843.1022338867188
+      ],
+      "output_pixels": [
+        796,
+        1126
+      ],
+      "source_image_file": "originals/page-030-xref-157.jpeg",
+      "source_image_sha256": "eecdaf4c014a08e9011a8a9946d3d18b866c2c4b0b4b90febe714654dfb70426",
+      "file": "original-compact-console-and-mirror.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        596.4052124023438,
+        0.0,
+        -0.0,
+        844.2587890625,
+        -1.1295920610427856,
+        -1.15655517578125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "sha256": "eecdaf4c014a08e9011a8a9946d3d18b866c2c4b0b4b90febe714654dfb70426"
+    },
+    {
+      "source_pdf_page": 31,
+      "source_image_xref": 163,
+      "source_native_pixels": [
+        1315,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1315,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.06201171875,
+        -1.03302001953125,
+        984.7509765625,
+        842.9234619140625
+      ],
+      "output_pixels": [
+        1315,
+        1126
+      ],
+      "source_image_file": "originals/page-031-xref-163.jpeg",
+      "source_image_sha256": "d77e4cf6c65ea862379179cfc543ec25a71a82c5ae29c1fc5cf7d4084ebf6578",
+      "file": "original-tv-lifestyle.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "source_image_to_pdf_transform": [
+        -985.81298828125,
+        -0.0,
+        -0.0,
+        843.9564819335938,
+        984.7509765625,
+        -1.03302001953125
+      ],
+      "source_pdf_horizontal_mirror": true,
+      "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+      "sha256": "d77e4cf6c65ea862379179cfc543ec25a71a82c5ae29c1fc5cf7d4084ebf6578"
+    },
+    {
+      "source_pdf_page": 26,
+      "source_image_xref": 127,
+      "source_native_pixels": [
+        803,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        220,
+        800,
+        1010
+      ],
+      "crop_rect_pdf_points": [
+        -1.2099733352661133,
+        163.7977294921875,
+        598.2938232421875,
+        756.1408081054688
+      ],
+      "output_pixels": [
+        800,
+        790
+      ],
+      "source_image_file": "originals/page-026-xref-127.jpeg",
+      "source_image_sha256": "63fd5a9f3add1b918970bf21bf0c9dc67551f51c47704d51d4ce2100fd25a825",
+      "sha256": "4c318f65887de87de3602da8081c8f4168310c959447cc7900acfb035351cef4",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-blue-tufting.jpg",
+      "source_image_to_pdf_transform": [
+        601.751953125,
+        0.0,
+        -0.0,
+        844.2763061523438,
+        -1.2099733352661133,
+        -1.1585693359375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display."
+    },
+    {
+      "source_pdf_page": 28,
+      "source_image_xref": 143,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        425,
+        620,
+        790,
+        1035
+      ],
+      "crop_rect_pdf_points": [
+        912.7822265625,
+        463.7265625,
+        1186.41064453125,
+        774.7993774414062
+      ],
+      "output_pixels": [
+        365,
+        415
+      ],
+      "source_image_file": "originals/page-028-xref-143.jpeg",
+      "source_image_sha256": "9c86d671659cae079af9d5e381f745d61db7e39b41ee6627c7a45f90219775eb",
+      "sha256": "8394a4c501bc9f782825ab53b4882d73440e1cd283536f4cd9b4f7b455133fb8",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-red-arm-tufting.jpg",
+      "source_image_to_pdf_transform": [
+        597.4844970703125,
+        0.0,
+        -0.0,
+        844.0192260742188,
+        594.173828125,
+        -1.00872802734375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display."
+    },
+    {
+      "source_pdf_page": 29,
+      "source_image_xref": 147,
+      "source_native_pixels": [
+        801,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        160,
+        90,
+        590,
+        300
+      ],
+      "crop_rect_pdf_points": [
+        118.72891235351562,
+        66.42817687988281,
+        440.9255065917969,
+        223.83522033691406
+      ],
+      "output_pixels": [
+        430,
+        210
+      ],
+      "source_image_file": "originals/page-029-xref-147.jpeg",
+      "source_image_sha256": "73322b9d8bb2a5a6e1d686245c254bffb4bd7ba4e76fe9eaedbaa258fdbdf904",
+      "sha256": "3aebd00179518654f2cd289a7e0b37205fe808bcd9a33b99456f46e37f32745c",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-mirror-crest.jpg",
+      "source_image_to_pdf_transform": [
+        600.1847534179688,
+        0.0,
+        -0.0,
+        844.0015869140625,
+        -1.1581778526306152,
+        -1.031982421875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display."
+    },
+    {
+      "source_pdf_page": 31,
+      "source_image_xref": 163,
+      "source_native_pixels": [
+        1315,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        640,
+        560,
+        1315,
+        770
+      ],
+      "crop_rect_pdf_points": [
+        -1.06201171875,
+        418.6966552734375,
+        504.96368408203125,
+        576.0952758789062
+      ],
+      "output_pixels": [
+        675,
+        210
+      ],
+      "source_image_file": "originals/page-031-xref-163.jpeg",
+      "source_image_sha256": "d77e4cf6c65ea862379179cfc543ec25a71a82c5ae29c1fc5cf7d4084ebf6578",
+      "sha256": "68296e4b9007b08acb2d079eaa9e6f6aae2e74d7bad1ff14b34d82938a8b9f20",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-tv-medallions.jpg",
+      "source_image_to_pdf_transform": [
+        -985.81298828125,
+        -0.0,
+        -0.0,
+        843.9564819335938,
+        984.7509765625,
+        -1.03302001953125
+      ],
+      "source_pdf_horizontal_mirror": true,
+      "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored."
+    }
+  ]
+}

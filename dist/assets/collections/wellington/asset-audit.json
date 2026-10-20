@@ -1,0 +1,253 @@
+{
+  "collection": "WELLINGTON",
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "files": [
+    {
+      "destination": "downloads/wellington/overview-4k.png",
+      "bytes": 6653030,
+      "sha256": "31b8b67de4198796af76da7b8c414273a854b2d3366ab0743e93e94ad2882312"
+    },
+    {
+      "destination": "downloads/wellington/navy-4k.png",
+      "bytes": 6941030,
+      "sha256": "982aff16c74d30ebc989f3ab5cdbd443b877ffb24eb39d3a8001f3ccf74dd1b0"
+    },
+    {
+      "destination": "downloads/wellington/burgundy-4k.png",
+      "bytes": 6878661,
+      "sha256": "2c0b80da6d0928b33c8463661bb3178f5eac061b54b7ce0f8122aa14b557b305"
+    },
+    {
+      "destination": "downloads/wellington/pair-4k.png",
+      "bytes": 7038865,
+      "sha256": "49dd8e57bc9b8e3e07e65ab0b73d4cf900b20acdf1e912bb85cff9185773e6ff"
+    },
+    {
+      "destination": "downloads/wellington/consoles-4k.png",
+      "bytes": 6406200,
+      "sha256": "751efb8ea46cc758bbe7da75f1a293a30edd9b1df42e5bf8990b84cef37ce001"
+    },
+    {
+      "destination": "downloads/wellington/vitrine-4k.png",
+      "bytes": 6955326,
+      "sha256": "dd96c86ccf7ed91c1dbf3733479f1f0ca91d2b37032e9c60ab2baa1d40f7b448"
+    },
+    {
+      "destination": "downloads/wellington/media-4k.png",
+      "bytes": 7458552,
+      "sha256": "410821e0e81dc4ae424d70017039024a4e2679339cc35015858e2442941338d3"
+    },
+    {
+      "destination": "downloads/wellington/detail-lacquer.png",
+      "bytes": 2272186,
+      "sha256": "c623e4d9175ab522818f9d1dbd1d93659b808726142db92e89b887ff1b6d7c08"
+    },
+    {
+      "destination": "downloads/wellington/detail-navy.png",
+      "bytes": 2440545,
+      "sha256": "3d75fb8aba43bb4fffeb08a8ce227f332c09c586e273bce560cf4d17d4b6d802"
+    },
+    {
+      "destination": "downloads/wellington/detail-burgundy.png",
+      "bytes": 2428986,
+      "sha256": "6f58cb087d58ab8c7504ff53bdde948ee03eb41fb33679bff00456ee1a1c4178"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50292.0.jpg",
+      "bytes": 52556,
+      "sha256": "2986506d9919edb21ae602df339de9e94b184439973381d359629355d6d0a007"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50293.0.jpg",
+      "bytes": 42350,
+      "sha256": "9a73046b1dab5674ad2734eb01e9b7311828428fbf7b0206dd9f087f0b5ded81"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50294.2.jpg",
+      "bytes": 21301,
+      "sha256": "5bdf962c852adf58ae2dc809316a522e524dd584784fe7a7d2e420078af7656b"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50490.0.jpg",
+      "bytes": 26204,
+      "sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50491.0.jpg",
+      "bytes": 26204,
+      "sha256": "99c5e608cc360a2807a398338a93036a7442089c529ec8b42989e22ea8e14fe4"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50492.0.jpg",
+      "bytes": 165393,
+      "sha256": "406c617b4b4444f03440a50001b5998879a11986153f7d99b618ebd8fe4a6e67"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50280.0.jpg",
+      "bytes": 123612,
+      "sha256": "3490592d4bc6029b136fce356d5a8ac83c5a31620ef5887a00dee5a802dcef81"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50278.0.jpg",
+      "bytes": 14415,
+      "sha256": "23032c963cce04f66cb6607f2983fe8bd2d6a896073264538e90894bf2939bf9"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50279.0.jpg",
+      "bytes": 109314,
+      "sha256": "99390a39028b2a5b0536d3969f31a613dbd9f77c74144c140ee06942376c98b2"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50295.0.jpg",
+      "bytes": 36953,
+      "sha256": "89341eb8ea17e8e4ee6fd5f9f6faecd5a5b844200b8cb9a029934b1669b3fd64"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50296.0.jpg",
+      "bytes": 39061,
+      "sha256": "1c9ca547ba996a9714961f131b7d9020de9a3d46f266ee9087e691aff1c3cce4"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50297.0.jpg",
+      "bytes": 102004,
+      "sha256": "6e8954c3585770ead4401a4622ff38471e9cb48932d37c514df0fcd7a8de2864"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50302.0.jpg",
+      "bytes": 76317,
+      "sha256": "90a237ebb47574a7830914f107b3c465fbc9ddc1acc5168aeb7ce86c0e8e964a"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50357.0.jpg",
+      "bytes": 79194,
+      "sha256": "0deab50408d617f92db6106668e8ed7d0c3007f2990914cfc41832db27c90e7b"
+    },
+    {
+      "destination": "assets/collections/wellington/catalogue/50298.2.jpg",
+      "bytes": 122170,
+      "sha256": "5f3fa573dddbc43de6c37dbbaafebd8ba88c9154ba64085b38248753fd34edf3"
+    },
+    {
+      "destination": "downloads/wellington/wellington-exhibition.blend",
+      "bytes": 26748991,
+      "sha256": "6da4dc6c1189d7fb000e527f4166b621fb9baf64c96c98571070f04f8ccec723"
+    },
+    {
+      "destination": "downloads/wellington/native-audit.json",
+      "bytes": 6251,
+      "sha256": "4ee7d7e70c51a9ebebd87608542a57d514b6beea94cac356961bb30e02c45e12"
+    },
+    {
+      "destination": "assets/collections/wellington/source-reference.json",
+      "bytes": 65309,
+      "sha256": "682a40af33c76a6e9454eb9dfa0e4b55a972995a7b9c4d546ed0ec8b9f559f5e"
+    },
+    {
+      "destination": "downloads/wellington/render-proof.json",
+      "bytes": 2972,
+      "sha256": "ac1ca96c8477aff5b5c2f633a8d682015f94a59e41491af9fbb681e1efb525af"
+    },
+    {
+      "destination": "downloads/wellington/WELLINGTON-reference-pages.pdf",
+      "bytes": 1163454,
+      "sha256": "8b094fbf414de51496bdc0590ba30c3132a235a69a3900a96a8a38d77ea50e79"
+    },
+    {
+      "destination": "downloads/wellington/wellington-project.zip",
+      "bytes": 35658480,
+      "sha256": "47b75692e342051694bece02ecd3993ce8519b6ba80c0e4c1e2766d0fef73dab"
+    }
+  ],
+  "renderProof": {
+    "overview": {
+      "file": "overview-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "31b8b67de4198796af76da7b8c414273a854b2d3366ab0743e93e94ad2882312",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "navy": {
+      "file": "navy-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "982aff16c74d30ebc989f3ab5cdbd443b877ffb24eb39d3a8001f3ccf74dd1b0",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "burgundy": {
+      "file": "burgundy-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "2c0b80da6d0928b33c8463661bb3178f5eac061b54b7ce0f8122aa14b557b305",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "pair": {
+      "file": "pair-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "49dd8e57bc9b8e3e07e65ab0b73d4cf900b20acdf1e912bb85cff9185773e6ff",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "consoles": {
+      "file": "consoles-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "751efb8ea46cc758bbe7da75f1a293a30edd9b1df42e5bf8990b84cef37ce001",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "vitrine": {
+      "file": "vitrine-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "dd96c86ccf7ed91c1dbf3733479f1f0ca91d2b37032e9c60ab2baa1d40f7b448",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "media": {
+      "file": "media-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "410821e0e81dc4ae424d70017039024a4e2679339cc35015858e2442941338d3",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-lacquer": {
+      "file": "detail-lacquer.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "c623e4d9175ab522818f9d1dbd1d93659b808726142db92e89b887ff1b6d7c08",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-navy": {
+      "file": "detail-navy.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "3d75fb8aba43bb4fffeb08a8ce227f332c09c586e273bce560cf4d17d4b6d802",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-burgundy": {
+      "file": "detail-burgundy.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "6f58cb087d58ab8c7504ff53bdde948ee03eb41fb33679bff00456ee1a1c4178",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "wellington-exhibition.blend",
+      "originalBlenderRender": true
+    }
+  }
+}

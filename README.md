@@ -1,6 +1,6 @@
 # RIZKY ATELIER — The Living Gallery
 
-Created by Muhammad Rizky. A single, English-language digital showroom combining Walnut Bedroom, SIENNA 2026, HOI AN 2026, MADISON and TRIANON living room from the MARINER Classic Furniture Catalogue 2023. Shared navigation, catalogue, material library, contact workflow and one native WebGL viewer. No iframes or external website switching are used for the primary experience. The three original projects and the completed Madison assets remain unchanged.
+Created by Muhammad Rizky. A single, English-language digital showroom combining Walnut Bedroom, SIENNA 2026, HOI AN 2026, MADISON, TRIANON and WELLINGTON living room from the MARINER Classic Furniture Catalogue 2023. Shared navigation, catalogue, material library, contact workflow and one native WebGL viewer. No iframes or external website switching are used for the primary experience. The three original projects and the completed Madison/Trianon assets remain unchanged.
 
 GitHub Pages: https://rizky-make-it.github.io/rizky-atelier/
 
@@ -19,11 +19,11 @@ Open http://127.0.0.1:4176/. Use HTTP, not file://. Deployable files are in dist
 
 ## Experience
 
-- Editorial homepage with five manually selected render previews and collection entrances.
-- Five collection detail views, original render lightboxes, creator-request buttons, distinct palettes and shared navigation.
-- Thirty-five searchable catalogue SKUs: fourteen SIENNA, six HOI AN, eight MADISON and seven TRIANON. Collection/category/name/SKU filters combine. Original millimetre dimensions and product names retained. Walnut is an independent room study, not an invented SKU catalogue.
-- All thirty-five supplied catalogue images can be enlarged without loading WebGL. Image dialogs link to the exact SKU's 3D model and creator contact. Collection and Materials views show source references separately from reconstructed Blender details; selected 3D products expose the matching catalogue image and source information.
-- One lazy-initialised Three.js viewer and WebGL context. Exhibitions and all thirty-five full-detail product GLBs are served locally in this site. Switching collection releases previous geometry, textures and active models; cancelled/obsolete requests cannot replace the latest selection.
+- Editorial homepage with six manually selected render previews and collection entrances.
+- Six collection detail views, original render lightboxes, creator-request buttons, distinct palettes and shared navigation.
+- Fifty searchable catalogue SKUs: fourteen SIENNA, six HOI AN, eight MADISON, seven TRIANON and fifteen WELLINGTON. Collection/category/name/SKU filters combine. Original millimetre dimensions and product names retained. Walnut is an independent room study, not an invented SKU catalogue.
+- All fifty supplied catalogue image mappings can be enlarged without loading WebGL. Image dialogs link to the exact SKU's 3D model and creator contact. Collection and Materials views show source references separately from reconstructed Blender details; selected 3D products expose the matching catalogue image and source information.
+- One lazy-initialised Three.js viewer and WebGL context. Exhibitions and all fifty full-detail product GLBs are served locally in this site. Switching collection releases previous geometry, textures and active models; cancelled/obsolete requests cannot replace the latest selection.
 - Walnut cutaway: orbit, pinch and curated guided viewpoints. SIENNA and HOI AN: overview, collision-aware walking, simultaneous mobile joystick/look, keyboard WASD, native zone picker and full-detail product inspection. Drawer and door pivots animate as in the source models.
 - Guided Tour follows curated camera stops, with pause/resume/previous/next/exit. Pauses for contact dialogs or loss of focus. Respect reduced-motion preferences.
 - Expanded viewer with collection and zone controls, Escape exit, focus management and preserved modal scroll lock. On phones product details sit below the camera canvas.
@@ -56,6 +56,14 @@ Native master, source ZIP, five actual 3840 × 2160 EEVEE renders, two 1600 × 1
 
 The rectangular coffee table shares a source detail composition rather than an isolated labelled product view; only its dimensions are explicitly printed. Original PDF soft masks are faithfully composited over their original white background where required and all transformations are evidenced. Hidden construction, exact carving motifs and material calibration are visual interpretations, not manufacturer CAD. The contextual lifestyle round table and vitrines are not mislabelled as these selected SKUs.
 
+## WELLINGTON delivery
+
+Fifteen living-room references from PDF pages 25–31 (printed 48–61) become twenty placements across navy and burgundy salons, a paired two-seat study, a console/mirror gallery and a media display. Six seating SKUs preserve their distinct construction: navy hard medallion panels, rear tufting and finials; white-frame navy armchair; burgundy tufted sides and smooth rear. Tables have black lacquer tops, physical white inlays and curved white stretchers, not marble. The round coffee table has six legs. Cabinet has two glass shelves/three levels; both mirrors and both console widths are separate inspectable products.
+
+The editable native master, rebuild ZIP, seven actual 3840 × 2160 EEVEE renders, three 1600 × 1600 details and reference subset PDF live under dist/downloads/wellington/. Fifteen individual GLBs, exhibition LOD, native-density reference images and source/hash audits are in dist/assets/collections/wellington/. Ten cameras and five authored PBR maps are packed. Hidden cabinet/TV opening mechanisms are not invented; mirror stands are exhibition staging.
+
+The red two-seat 50491.0 has printed dimensions but no dedicated image, so its thumbnail is visibly labelled Shared family reference and uses the exact original three-seat source image; its two-seat geometry is dimension-led. Lifestyle mirror/console/TV crops retain source occlusion. Dark figured-panel species is not declared by the source; no solid-wood or calibrated material claim is made. All earlier collection assets remain unchanged.
+
 ## Source assets
 
 dist/assets/manifest.json is the catalogue and collection registry. Scripts/prepare-assets.mjs can recopy originals when the three sibling source checkouts exist; it checks hashes and does not delete or edit sources. The deployed website is self-contained for images, fonts, Three/Draco, exhibitions and individual GLBs. Native Blender files and original high-resolution downloads remain on the original three public projects, listed in the manifest and available via creator requests. The new website does not claim a new combined native .blend scene.
@@ -77,6 +85,6 @@ For additional collections, add their source metadata/assets to the registry and
 
 ## Verification and limitations
 
-npm test checks routing, catalogue filtering, WhatsApp draft safety, mobile joystick input, product dimensions, all thirty-five GLBs, exhibit counts, original-copy hashes, native/render/source audits, English UI and file size limits. npm run qa uses installed Chrome with desktop/mobile viewport and real touch emulation; local screenshots and reports are stored in ignored .local/. Use --url=https://your-pages-url/ to repeat against the deployed site.
+npm test checks routing, catalogue filtering, WhatsApp draft safety, mobile joystick input, product dimensions, all fifty GLBs, exhibit counts, original-copy hashes, native/render/source audits, English UI and file size limits. npm run qa uses installed Chrome with desktop/mobile viewport and real touch emulation; local screenshots and reports are stored in ignored .local/. Use --url=https://your-pages-url/ to repeat against the deployed site.
 
 High-detail geometry is demanding on old phones. Only the selected collection is loaded and idle views render on demand, but no universal frame rate or physical-device testing is claimed. A failed WebGL session does not prevent render browsing or file requests. Browser lighting/reflections differ from native Cycles/EEVEE. Models are visual reconstructions, not manufacturer CAD. There is no shopping checkout or invented product pricing.

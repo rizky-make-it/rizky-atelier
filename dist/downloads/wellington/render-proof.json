@@ -1,0 +1,92 @@
+{
+  "overview": {
+    "file": "overview-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "31b8b67de4198796af76da7b8c414273a854b2d3366ab0743e93e94ad2882312",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "navy": {
+    "file": "navy-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "982aff16c74d30ebc989f3ab5cdbd443b877ffb24eb39d3a8001f3ccf74dd1b0",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "burgundy": {
+    "file": "burgundy-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "2c0b80da6d0928b33c8463661bb3178f5eac061b54b7ce0f8122aa14b557b305",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "pair": {
+    "file": "pair-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "49dd8e57bc9b8e3e07e65ab0b73d4cf900b20acdf1e912bb85cff9185773e6ff",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "consoles": {
+    "file": "consoles-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "751efb8ea46cc758bbe7da75f1a293a30edd9b1df42e5bf8990b84cef37ce001",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "vitrine": {
+    "file": "vitrine-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "dd96c86ccf7ed91c1dbf3733479f1f0ca91d2b37032e9c60ab2baa1d40f7b448",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "media": {
+    "file": "media-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "410821e0e81dc4ae424d70017039024a4e2679339cc35015858e2442941338d3",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-lacquer": {
+    "file": "detail-lacquer.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "c623e4d9175ab522818f9d1dbd1d93659b808726142db92e89b887ff1b6d7c08",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-navy": {
+    "file": "detail-navy.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "3d75fb8aba43bb4fffeb08a8ce227f332c09c586e273bce560cf4d17d4b6d802",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-burgundy": {
+    "file": "detail-burgundy.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "6f58cb087d58ab8c7504ff53bdde948ee03eb41fb33679bff00456ee1a1c4178",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "wellington-exhibition.blend",
+    "originalBlenderRender": true
+  }
+}

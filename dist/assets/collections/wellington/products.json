@@ -1,0 +1,347 @@
+[
+  {
+    "sku": "50292.0",
+    "name": "Wellington Blue Three-seat Sofa",
+    "dimensions": [
+      2500,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 26,
+    "imageShared": false,
+    "imageSize": [
+      657,
+      259
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "navy",
+    "model": "assets/models/50292.0.glb",
+    "articulations": 0,
+    "referenceNote": "Rear tufting and external hard side-panel details are evidenced by the adjacent original lifestyle detail and page25 room image; hidden construction remains interpretative."
+  },
+  {
+    "sku": "50293.0",
+    "name": "Wellington Blue Two-seat Sofa",
+    "dimensions": [
+      1800,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 26,
+    "imageShared": false,
+    "imageSize": [
+      503,
+      256
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "pair",
+    "model": "assets/models/50293.0.glb",
+    "articulations": 0,
+    "referenceNote": ""
+  },
+  {
+    "sku": "50294.2",
+    "name": "Wellington White-frame Blue Armchair",
+    "dimensions": [
+      1060,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 27,
+    "imageShared": false,
+    "imageSize": [
+      597,
+      335
+    ],
+    "finish": "WE.W. /DB (536 /67)",
+    "room": "navy",
+    "model": "assets/models/50294.2.glb",
+    "articulations": 0,
+    "referenceNote": "The printed WE.W finish has a white outer frame, unlike the black outer outline of the blue two/three-seat references. Dark brown patterned surfaces are visually evident but their substrate and exact material are not specified."
+  },
+  {
+    "sku": "50490.0",
+    "name": "Wellington Red Three-seat Sofa",
+    "dimensions": [
+      2500,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 28,
+    "imageShared": true,
+    "imageSize": [
+      693,
+      436
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "burgundy",
+    "model": "assets/models/50490.0.glb",
+    "articulations": 0,
+    "referenceNote": "The original three-seat product image is also used as a shared family reference for the separately dimensioned two-seat 50491.0; it must not be presented as an isolated two-seat catalogue photograph. Source rear view clearly shows a smooth fabric rear panel."
+  },
+  {
+    "sku": "50491.0",
+    "name": "Wellington Red Two-seat Sofa",
+    "dimensions": [
+      1800,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 28,
+    "imageShared": true,
+    "imageSize": [
+      693,
+      436
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "pair",
+    "model": "assets/models/50491.0.glb",
+    "articulations": 0,
+    "referenceNote": "SHARED FAMILY IMAGE: the catalogue provides dimensions and SKU for this two-seat sofa but no separate isolated two-seat image. This is the original three-seat 50490.0 image from the same family, not a true image of 50491.0; the reconstructed two-seat cushion count/proportions are dimension-led interpretations."
+  },
+  {
+    "sku": "50492.0",
+    "name": "Wellington Red Armchair",
+    "dimensions": [
+      1060,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 28,
+    "imageShared": false,
+    "imageSize": [
+      770,
+      630
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "burgundy",
+    "model": "assets/models/50492.0.glb",
+    "articulations": 0,
+    "referenceNote": "Native-density crop of the original dark-backdrop product composition; no isolated white-background source view was created."
+  },
+  {
+    "sku": "50280.0",
+    "name": "Wellington Crest Mirror",
+    "dimensions": [
+      1120,
+      70,
+      1650
+    ],
+    "category": "mirrors",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 29,
+    "imageShared": false,
+    "imageSize": [
+      440,
+      625
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "consoles",
+    "model": "assets/models/50280.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original lifestyle crop of the mirror; lamps, decorative objects and reflections remain and partly obscure the lower frame. The associated console is 50279.0. Exact rear mounting is not visible."
+  },
+  {
+    "sku": "50278.0",
+    "name": "Wellington Round Pedestal Side Table",
+    "dimensions": [
+      650,
+      650,
+      700
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 29,
+    "imageShared": false,
+    "imageSize": [
+      311,
+      256
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "navy",
+    "model": "assets/models/50278.0.glb",
+    "articulations": 0,
+    "referenceNote": "The catalogue gives diameter and height. No marble is stated for these black lacquer tabletops."
+  },
+  {
+    "sku": "50279.0",
+    "name": "Wellington Wide Curved Console",
+    "dimensions": [
+      1700,
+      500,
+      810
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 29,
+    "imageShared": false,
+    "imageSize": [
+      695,
+      360
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "consoles",
+    "model": "assets/models/50279.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original lifestyle crop; the associated crest mirror is 50280.0. Lamps and decorative objects remain. Hidden structural joints are unverified."
+  },
+  {
+    "sku": "50295.0",
+    "name": "Wellington Square Coffee Table",
+    "dimensions": [
+      1300,
+      1300,
+      510
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 29,
+    "imageShared": false,
+    "imageSize": [
+      491,
+      261
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "burgundy",
+    "model": "assets/models/50295.0.glb",
+    "articulations": 0,
+    "referenceNote": ""
+  },
+  {
+    "sku": "50296.0",
+    "name": "Wellington Round Coffee Table",
+    "dimensions": [
+      1350,
+      1350,
+      510
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 29,
+    "imageShared": false,
+    "imageSize": [
+      504,
+      272
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "navy",
+    "model": "assets/models/50296.0.glb",
+    "articulations": 0,
+    "referenceNote": "The catalogue gives diameter and height. Visible leg/stretcher placements guide reconstruction; precise hidden joinery is unverified."
+  },
+  {
+    "sku": "50297.0",
+    "name": "Wellington Glass Display Cabinet",
+    "dimensions": [
+      1150,
+      500,
+      2120
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 30,
+    "imageShared": false,
+    "imageSize": [
+      487,
+      836
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "consoles",
+    "model": "assets/models/50297.0.glb",
+    "articulations": 0,
+    "referenceNote": "Source shows glazed front and a small handle but does not verify hinges, opening range or construction. Any animated opening would be a conceptual mechanism, not manufacturer CAD. Glassware is styling, not additional catalogue product SKUs."
+  },
+  {
+    "sku": "50302.0",
+    "name": "Wellington Rectangular Mirror",
+    "dimensions": [
+      1100,
+      50,
+      1250
+    ],
+    "category": "mirrors",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 30,
+    "imageShared": false,
+    "imageSize": [
+      415,
+      480
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "consoles",
+    "model": "assets/models/50302.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original lifestyle crop of mirror50302.0, paired with compact console50357.0. Lamps and vase partly obscure the lower frame and remain in the reference. Exact rear mounting is not shown."
+  },
+  {
+    "sku": "50357.0",
+    "name": "Wellington Compact Console",
+    "dimensions": [
+      1090,
+      470,
+      820
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 30,
+    "imageShared": false,
+    "imageSize": [
+      480,
+      375
+    ],
+    "finish": "WE.L / DB (535 /67)",
+    "room": "consoles",
+    "model": "assets/models/50357.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original lifestyle crop paired with mirror50302.0; lamps and decorative objects remain. The compact console top is straight-sided rather than the visibly rounded ends of wide console50279.0."
+  },
+  {
+    "sku": "50298.2",
+    "name": "Wellington White-frame TV Cabinet",
+    "dimensions": [
+      2200,
+      500,
+      800
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 31,
+    "imageShared": false,
+    "imageSize": [
+      675,
+      330
+    ],
+    "finish": "WE.W / DB (536 /67)",
+    "room": "media",
+    "model": "assets/models/50298.2.glb",
+    "articulations": 0,
+    "referenceNote": "Native-density crop from the only supplied TV lifestyle image, retaining the embedded image orientation. The source PDF horizontally mirrors that embedded image. One outer cabinet edge is clipped by the original composition and a foreground table partly overlaps the lower cabinet. No isolated full-front source view exists here. Outer panel opening mechanics are not verified."
+  }
+]

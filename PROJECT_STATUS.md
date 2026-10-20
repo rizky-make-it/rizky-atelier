@@ -64,3 +64,16 @@ all five exhibitions and 35 actual GLB decodes with zero recorded errors.
 Original project assets remain unchanged. The rectangular coffee table's
 shared reference image and all hidden-construction interpretations are
 explicitly disclosed. GitHub Pages publication follows the existing workflow.
+
+WELLINGTON addition (21 October 2026): the next seven-spread living-room
+section is delivered as the sixth collection, with fifteen exact-SKU models
+and twenty open-exhibition placements. Website total: fifty catalogue
+products. Native Blender master, fifteen GLBs, exhibition LOD, seven genuine
+4K renders, three details, source reference images/PDF and a complete rebuild
+ZIP are packaged. Distinct navy/burgundy seating families, six-leg round
+table, white inlays/stretchers, two mirrors, glazed cabinet and TV piece
+follow the visible source. Shared-family/occlusion/material limits remain
+explicit. Twenty-two tests and the full local browser/touch suite pass all
+six exhibitions and fifty decoded models, with zero recorded runtime,
+console or HTTP errors. Prior collection assets and source projects remain
+unchanged; all visible file requests keep the shared creator WhatsApp popup.

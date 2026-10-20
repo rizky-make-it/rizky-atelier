@@ -1,0 +1,151 @@
+{
+  "id": "wellington",
+  "name": "WELLINGTON",
+  "number": "06",
+  "referenceYear": 2023,
+  "kind": "Catalogue collection",
+  "title": "Two colours. A classical conversation.",
+  "tagline": "Navy & burgundy. Piano lacquer. Fine gold.",
+  "description": "Fifteen MARINER living-room references form an open exhibition in navy and burgundy. Distinct upholstered families meet crisp black-and-white lacquer, geometric medallions, gilded foliage and curved white stretchers. Six-leg round and four-leg square tables, two consoles and mirrors, a glazed cabinet and a media piece complete the collection. Concealed construction and calibrated materials remain visual interpretations.",
+  "finish": "WE.L / DB (535/67), WE.W / DB (536/67)",
+  "hero": "assets/collections/wellington/navy.jpg",
+  "exhibition": "assets/collections/wellington/wellington-exhibition.glb",
+  "scene": "assets/collections/wellington/scene.json",
+  "placementCount": 20,
+  "movingParts": 0,
+  "sourceSite": "https://rizky-make-it.github.io/rizky-atelier/#/collections/wellington",
+  "sourceRepo": "https://github.com/rizky-make-it/rizky-atelier",
+  "productCount": 15,
+  "palette": [
+    "#162d46",
+    "#792333",
+    "#eee7d8",
+    "#b48e44"
+  ],
+  "renders": [
+    {
+      "image": "assets/collections/wellington/overview.jpg",
+      "title": "The Wellington exhibition",
+      "caption": "Actual wall-free Blender exhibition render, 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: The Wellington exhibition",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/overview-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/navy.jpg",
+      "title": "The navy salon",
+      "caption": "Navy velvet, hard medallion panels, white-frame armchairs and a six-leg round coffee table. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: The navy salon",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/navy-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/burgundy.jpg",
+      "title": "The burgundy salon",
+      "caption": "A distinct upholstered family: deeply tufted outer sides and smooth rear panels. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: The burgundy salon",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/burgundy-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/pair.jpg",
+      "title": "Two quieter conversations",
+      "caption": "Both dimensioned two-seat variants, with the burgundy proportions interpreted from the shared three-seat reference. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: Two quieter conversations",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/pair-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/consoles.jpg",
+      "title": "A gallery of lacquer",
+      "caption": "Both console widths, the crest and plain mirrors, and a glazed cabinet. Mirror stands are exhibition styling. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: A gallery of lacquer",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/consoles-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/vitrine.jpg",
+      "title": "The glazed cabinet",
+      "caption": "Three display levels, glazed sides and classical gilt detail. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: The glazed cabinet",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/vitrine-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/media.jpg",
+      "title": "The media piece",
+      "caption": "Open centre cubbies and fixed figured side panels. The source is a partly occluded lifestyle composition. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original WELLINGTON Blender render: The media piece",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/media-4k.png"
+    },
+    {
+      "image": "assets/collections/wellington/detail-lacquer.jpg",
+      "title": "Lacquer, inlay & gold",
+      "caption": "Actual Blender detail render, 1600 \u00d7 1600. Black lacquer, not marble.",
+      "request": "the original WELLINGTON Blender render: Lacquer, inlay & gold",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/detail-lacquer.png"
+    },
+    {
+      "image": "assets/collections/wellington/detail-navy.jpg",
+      "title": "The navy construction",
+      "caption": "Actual modelled upholstery and medallion detail, 1600 \u00d7 1600.",
+      "request": "the original WELLINGTON Blender render: The navy construction",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/detail-navy.png"
+    },
+    {
+      "image": "assets/collections/wellington/detail-burgundy.jpg",
+      "title": "Deep burgundy tufting",
+      "caption": "Actual geometric tufting and piped velvet, 1600 \u00d7 1600.",
+      "request": "the original WELLINGTON Blender render: Deep burgundy tufting",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/detail-burgundy.png"
+    }
+  ],
+  "materials": [
+    {
+      "image": "assets/collections/wellington/detail-lacquer.jpg",
+      "title": "Lacquer & gilded relief",
+      "description": "Polished black-and-white lacquer with physical laurel/inlay and cast-foliage geometry. A Blender render, not a physical material sample."
+    },
+    {
+      "image": "assets/collections/wellington/detail-navy.jpg",
+      "title": "Navy & medallions",
+      "description": "Piped velvet, a rigid panel frame and sculpted medallions interpret the navy family. A native Blender render."
+    },
+    {
+      "image": "assets/collections/wellington/detail-burgundy.jpg",
+      "title": "Burgundy tufting",
+      "description": "Physical diamond folds and recessed buttons form the red family outer side panels. A native Blender render."
+    }
+  ],
+  "files": [
+    {
+      "title": "Native Wellington exhibition",
+      "extension": ".BLEND",
+      "description": "Fifteen SKUs, twenty placements, packed PBR maps and ten cameras.",
+      "request": "the WELLINGTON editable Blender exhibition master (.blend)",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/wellington-exhibition.blend"
+    },
+    {
+      "title": "Exhibition & individual models",
+      "extension": ".GLB",
+      "description": "Fifteen full-detail products and an optimised wall-free exhibition.",
+      "request": "the complete WELLINGTON exhibition GLB and fifteen individual product GLBs",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/assets/collections/wellington/wellington-exhibition.glb"
+    },
+    {
+      "title": "Complete rebuild project",
+      "extension": ".ZIP",
+      "description": "Editable scene, geometry scripts, textures, raw reference evidence and native audit.",
+      "request": "the complete WELLINGTON Blender project, textures and rebuild sources",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/wellington-project.zip"
+    },
+    {
+      "title": "Wellington living-room references",
+      "extension": ".PDF",
+      "description": "Seven supplied MARINER reference spreads; PDF pages 25\u201331.",
+      "request": "the original WELLINGTON living-room catalogue reference pages",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/WELLINGTON-reference-pages.pdf"
+    },
+    {
+      "title": "Original 4K renders",
+      "extension": "4K PNG",
+      "description": "Seven genuine 4K Blender renders and three 1600-pixel details.",
+      "request": "all WELLINGTON original 4K Blender renders and detail images",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/wellington/render-proof.json"
+    }
+  ]
+}

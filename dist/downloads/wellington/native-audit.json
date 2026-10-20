@@ -1,0 +1,339 @@
+{
+  "ok": true,
+  "scene": "C:\\Users\\Admin\\Desktop\\GPTsol6.1\\output\\wellington\\wellington-exhibition.blend",
+  "uniqueSKUs": 15,
+  "placements": 20,
+  "unsupportedMovingParts": 0,
+  "packedImages": 5,
+  "cameras": 10,
+  "walls": 0,
+  "roof": false,
+  "resolution": [
+    3840,
+    2160
+  ],
+  "bounds": [
+    {
+      "sku": "50292.0",
+      "instance": "navy-1",
+      "catalogue_mm": [
+        2500,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        2500.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 189952
+    },
+    {
+      "sku": "50294.2",
+      "instance": "navy-2",
+      "catalogue_mm": [
+        1060,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1060.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 113494
+    },
+    {
+      "sku": "50294.2",
+      "instance": "navy-3",
+      "catalogue_mm": [
+        1060,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1060.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 113494
+    },
+    {
+      "sku": "50296.0",
+      "instance": "navy-4",
+      "catalogue_mm": [
+        1350,
+        1350,
+        510
+      ],
+      "geometry_mm": [
+        1350.0,
+        1350.0,
+        510.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 104852
+    },
+    {
+      "sku": "50278.0",
+      "instance": "navy-5",
+      "catalogue_mm": [
+        650,
+        650,
+        700
+      ],
+      "geometry_mm": [
+        650.0,
+        650.0,
+        700.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 61952
+    },
+    {
+      "sku": "50278.0",
+      "instance": "navy-6",
+      "catalogue_mm": [
+        650,
+        650,
+        700
+      ],
+      "geometry_mm": [
+        650.0,
+        650.0,
+        700.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 61952
+    },
+    {
+      "sku": "50490.0",
+      "instance": "burgundy-7",
+      "catalogue_mm": [
+        2500,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        2500.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 155080
+    },
+    {
+      "sku": "50492.0",
+      "instance": "burgundy-8",
+      "catalogue_mm": [
+        1060,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1060.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.001,
+      "triangles": 98030
+    },
+    {
+      "sku": "50492.0",
+      "instance": "burgundy-9",
+      "catalogue_mm": [
+        1060,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1060.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.001,
+      "triangles": 98030
+    },
+    {
+      "sku": "50295.0",
+      "instance": "burgundy-10",
+      "catalogue_mm": [
+        1300,
+        1300,
+        510
+      ],
+      "geometry_mm": [
+        1300.0,
+        1300.0,
+        510.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 91368
+    },
+    {
+      "sku": "50278.0",
+      "instance": "burgundy-11",
+      "catalogue_mm": [
+        650,
+        650,
+        700
+      ],
+      "geometry_mm": [
+        650.0,
+        650.0,
+        700.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 61952
+    },
+    {
+      "sku": "50293.0",
+      "instance": "pair-12",
+      "catalogue_mm": [
+        1800,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1800.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 158768
+    },
+    {
+      "sku": "50491.0",
+      "instance": "pair-13",
+      "catalogue_mm": [
+        1800,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        1800.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 131408
+    },
+    {
+      "sku": "50278.0",
+      "instance": "pair-14",
+      "catalogue_mm": [
+        650,
+        650,
+        700
+      ],
+      "geometry_mm": [
+        650.0,
+        650.0,
+        700.75
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 61952
+    },
+    {
+      "sku": "50279.0",
+      "instance": "consoles-15",
+      "catalogue_mm": [
+        1700,
+        500,
+        810
+      ],
+      "geometry_mm": [
+        1700.0,
+        500.75,
+        810.27
+      ],
+      "max_error_mm": 0.75,
+      "triangles": 77412
+    },
+    {
+      "sku": "50280.0",
+      "instance": "consoles-16",
+      "catalogue_mm": [
+        1120,
+        70,
+        1650
+      ],
+      "geometry_mm": [
+        1120.0,
+        70.5,
+        1650.0
+      ],
+      "max_error_mm": 0.5,
+      "triangles": 19330
+    },
+    {
+      "sku": "50357.0",
+      "instance": "consoles-17",
+      "catalogue_mm": [
+        1090,
+        470,
+        820
+      ],
+      "geometry_mm": [
+        1090.0,
+        470.0,
+        820.27
+      ],
+      "max_error_mm": 0.271,
+      "triangles": 63904
+    },
+    {
+      "sku": "50302.0",
+      "instance": "consoles-18",
+      "catalogue_mm": [
+        1100,
+        50,
+        1250
+      ],
+      "geometry_mm": [
+        1100.0,
+        50.5,
+        1250.0
+      ],
+      "max_error_mm": 0.5,
+      "triangles": 12480
+    },
+    {
+      "sku": "50297.0",
+      "instance": "consoles-19",
+      "catalogue_mm": [
+        1150,
+        500,
+        2120
+      ],
+      "geometry_mm": [
+        1150.0,
+        500.29,
+        2120.0
+      ],
+      "max_error_mm": 0.294,
+      "triangles": 112066
+    },
+    {
+      "sku": "50298.2",
+      "instance": "media-20",
+      "catalogue_mm": [
+        2200,
+        500,
+        800
+      ],
+      "geometry_mm": [
+        2200.0,
+        500.0,
+        800.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 81048
+    }
+  ],
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "materials": "Authored procedural visual interpretations of supplied catalogue; not manufacturer CAD"
+}
