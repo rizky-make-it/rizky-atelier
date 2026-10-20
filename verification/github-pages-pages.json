@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "siteUrl": "https://rizky-make-it.github.io/rizky-atelier/?v=atelier-2",
+  "smoke": true,
+  "mobileOnly": false,
+  "collections": 3,
+  "catalogueProducts": 20,
+  "originalCollectionsPreserved": true,
+  "unifiedRoutes": true,
+  "filters": true,
+  "materialLibrary": true,
+  "creatorContact": true,
+  "whatsappSent": false,
+  "lazyModels": true,
+  "exhibitions": [],
+  "allModels": [],
+  "mobileViewports": [
+    320,
+    360,
+    390,
+    430
+  ],
+  "landscape": [
+    844,
+    390
+  ],
+  "realMultiTouch": false,
+  "errors": [],
+  "consoleErrors": [],
+  "httpErrors": []
+}

@@ -1,6 +1,9 @@
 # Rizky Atelier — verification
 
-Built from the three existing read-only showcase projects on 20 October 2026. Full local browser and mobile suites have passed. Publication/live verification are still in progress.
+Completed and published on 20 October 2026. Full local browser/mobile verification and live GitHub Pages verification have passed.
+
+Live: https://rizky-make-it.github.io/rizky-atelier/
+Source: https://github.com/rizky-make-it/rizky-atelier
 
 ## Completed checks
 
@@ -15,5 +18,14 @@ Built from the three existing read-only showcase projects on 20 October 2026. Fu
 Machine-readable local-browser.json, local-mobile.json and local-pages.json are supplied under verification/. Screenshots are retained under ignored .local/. The complete local suite recorded all three exhibitions, all twenty decoded product GLBs and real multi-touch checks, with zero runtime exceptions, console errors or HTTP failures.
 
 The initial Linux deployment check caught Git text normalisation changing byte hashes for a source scene JSON and font licence copied from Windows. The source-copy check was retained: .gitattributes now preserves every dist/assets byte unchanged across platforms, and those two assets were restaged from the unmodified originals. This is a packaging correction, not a change to the original projects or a weakening of validation.
+
+## Live publication checks
+
+- GitHub Pages is public with HTTPS enforced. Successful application deployments: runs 39435784765 (1c761bb) and 39436631508 (85c4cdc).
+- The full live suite passed all three exhibitions, twenty actual GLB decodes, drawer/door animation, guided controls, cancelled-request navigation, lazy loading, page routes, catalogue filters, material lightboxes and creator contact. It also exercised real simultaneous joystick/look, cancel/release stop, pinch, actual furniture taps, product inspection, expanded collection/zone selection, 320–430 px portrait and 844 × 390 landscape.
+- The later keyboard skip-link adjustment (85c4cdc) was checked in a fresh live page suite, including focus staying inside the correct route, English pages, all catalogue views, contact dialogs and phone menu. The 3D engine was unchanged by this accessibility-only update.
+- Both live reports record zero runtime exceptions, console errors and HTTP failures. No WhatsApp link was opened and no message was sent.
+- Evidence: verification/github-pages-browser.json and verification/github-pages-pages.json. The final subsequent documentation-only commit does not alter the tested application.
+- All three original project working trees were checked clean at handoff. Their public websites and native assets were not edited or replaced.
 
 These are Chrome desktop and emulated mobile/touch tests, not physical-device testing. High-detail models do not carry a universal FPS guarantee. Original renders remain native Blender outputs, not AI substitutes. Reconstructed furniture is not official manufacturer CAD.
