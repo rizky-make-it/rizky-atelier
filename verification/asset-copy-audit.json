@@ -1,0 +1,524 @@
+{
+  "copiedFiles": 83,
+  "copiedBytes": 129473252,
+  "collections": [
+    {
+      "id": "walnut",
+      "products": 0,
+      "placements": null,
+      "movingParts": null
+    },
+    {
+      "id": "sienna",
+      "products": 14,
+      "placements": 17,
+      "movingParts": 32
+    },
+    {
+      "id": "hoi-an",
+      "products": 6,
+      "placements": 12,
+      "movingParts": 28
+    }
+  ],
+  "files": [
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/draco/draco_decoder.js",
+      "destination": "assets/vendor/draco/draco_decoder.js",
+      "bytes": 719410,
+      "sha256": "30e4d486fa020737af10e3c56197693e5b904bdc05b8bfa5d7b06751dec6da04"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/draco/draco_decoder.wasm",
+      "destination": "assets/vendor/draco/draco_decoder.wasm",
+      "bytes": 285747,
+      "sha256": "c55a594e8ffd18426d36b27fea9618af3df5e173640a3e56d46f09d76f0574f2"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/draco/draco_wasm_wrapper.js",
+      "destination": "assets/vendor/draco/draco_wasm_wrapper.js",
+      "bytes": 58763,
+      "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/legal/dm-sans-OFL.txt",
+      "destination": "assets/vendor/legal/dm-sans-OFL.txt",
+      "bytes": 4482,
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/legal/draco-LICENSE.txt",
+      "destination": "assets/vendor/legal/draco-LICENSE.txt",
+      "bytes": 13898,
+      "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/legal/instrument-serif-OFL.txt",
+      "destination": "assets/vendor/legal/instrument-serif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/legal/model-viewer-LICENSE.txt",
+      "destination": "assets/vendor/legal/model-viewer-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/controls/OrbitControls.js",
+      "destination": "assets/vendor/three/addons/controls/OrbitControls.js",
+      "bytes": 40755,
+      "sha256": "3d79d07ecb686b4e5d93232eedab255331c1beef711e13164eaa1f68655a5f2b"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/environments/RoomEnvironment.js",
+      "destination": "assets/vendor/three/addons/environments/RoomEnvironment.js",
+      "bytes": 4960,
+      "sha256": "55f466192cc84298755a424c5e040345006b2ee1455589b3b54126c2ea4123f4"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/loaders/DRACOLoader.js",
+      "destination": "assets/vendor/three/addons/loaders/DRACOLoader.js",
+      "bytes": 19030,
+      "sha256": "fdafdf4aa11bbc65d89adb338efd844bedf94073702f9049240ff1f1ea48ad5f"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/loaders/GLTFLoader.js",
+      "destination": "assets/vendor/three/addons/loaders/GLTFLoader.js",
+      "bytes": 117570,
+      "sha256": "131c0f78c01d19368ae495caa65b3adaa10487810a36a05bb5901b769a35ac16"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/utils/BufferGeometryUtils.js",
+      "destination": "assets/vendor/three/addons/utils/BufferGeometryUtils.js",
+      "bytes": 37712,
+      "sha256": "9fb63427ce6641fa14fd0baff9cc4d1b5f9c3d85fd084bf2e90e803c44ec1797"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/addons/utils/SkeletonUtils.js",
+      "destination": "assets/vendor/three/addons/utils/SkeletonUtils.js",
+      "bytes": 11535,
+      "sha256": "b1632a703206c3d830de9fcbe515696770d04b71a15ee6b50afa6d2c3298c86f"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/LICENSE.txt",
+      "destination": "assets/vendor/three/LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/three.core.js",
+      "destination": "assets/vendor/three/three.core.js",
+      "bytes": 1458113,
+      "sha256": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/vendor/three/three.module.js",
+      "destination": "assets/vendor/three/three.module.js",
+      "bytes": 662772,
+      "sha256": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/fonts/dm-sans-400.ttf",
+      "destination": "assets/fonts/dm-sans-400.ttf",
+      "bytes": 48280,
+      "sha256": "b0ae3e89a7d3ef2b1838bb4b1ceb0b17cc3435af061eee809d76aa623ff116e9"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/fonts/dm-sans-500.ttf",
+      "destination": "assets/fonts/dm-sans-500.ttf",
+      "bytes": 48308,
+      "sha256": "376427b5322148d8de1e03f263bcca4935a2d60ba71d9f94f4947ab664c711ae"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/fonts/dm-sans-600.ttf",
+      "destination": "assets/fonts/dm-sans-600.ttf",
+      "bytes": 48280,
+      "sha256": "b79a2ea7a38f33fd96a282fadb9ce97626bb0724a44d21075859f0e50239993a"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/fonts/instrument-serif-italic.ttf",
+      "destination": "assets/fonts/instrument-serif-italic.ttf",
+      "bytes": 64208,
+      "sha256": "fecf4861d5202405b8bd45c683858b6870642a026784fe0dbf88ff55dedee8a0"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/fonts/instrument-serif.ttf",
+      "destination": "assets/fonts/instrument-serif.ttf",
+      "bytes": 62284,
+      "sha256": "a99e3db50076202713812ed541feeb23ffeebb61db1fa6b1cf48fe590d37ef18"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/muhammad-rizky-avatar.jpg",
+      "destination": "assets/muhammad-rizky-avatar.jpg",
+      "bytes": 32289,
+      "sha256": "bc7c4ab3e6917cf3ac2cc5246edc0e9af8e01d82d14f97ed36103f45ceb50187"
+    },
+    {
+      "source": "walnut-room/dist/assets/bedroom.glb",
+      "destination": "assets/collections/walnut/bedroom.glb",
+      "bytes": 11689936,
+      "sha256": "34ac7bfe26767713d67c8bbb0ecd91d881198059216e88fa91fd0ec8a3b865b3"
+    },
+    {
+      "source": "walnut-room/dist/assets/bedroom-render.jpg",
+      "destination": "assets/collections/walnut/bedroom-render.jpg",
+      "bytes": 496774,
+      "sha256": "887c15fbc262368d6e2959b3ff7e95b192bbfdac075965e4802669024b7beffe"
+    },
+    {
+      "source": "walnut-room/dist/assets/bedroom-render-small.jpg",
+      "destination": "assets/collections/walnut/bedroom-render-small.jpg",
+      "bytes": 111003,
+      "sha256": "3b3d2a522e0da24e235cc2247167dd5f3b3725c7bd65741e8e58625564474a22"
+    },
+    {
+      "source": "walnut-room/dist/assets/detail-walnut.jpg",
+      "destination": "assets/collections/walnut/detail-walnut.jpg",
+      "bytes": 182208,
+      "sha256": "1cf07e653ea6d3a9592e1bea8483e9233421870a89be167e4638a9999b3cc21d"
+    },
+    {
+      "source": "walnut-room/dist/assets/detail-cotton.jpg",
+      "destination": "assets/collections/walnut/detail-cotton.jpg",
+      "bytes": 79994,
+      "sha256": "79c26bd907cf6cec710a068a7533a06f7e62d05dfe93ee51069702c038ad6f3a"
+    },
+    {
+      "source": "walnut-room/dist/assets/detail-ochre.jpg",
+      "destination": "assets/collections/walnut/detail-ochre.jpg",
+      "bytes": 66541,
+      "sha256": "bb6e364e5660f931528bdc3a5d3348882cdcf0b561396806bd13757e6bd63ad5"
+    },
+    {
+      "source": "walnut-room/dist/assets/detail-leather.jpg",
+      "destination": "assets/collections/walnut/detail-leather.jpg",
+      "bytes": 137786,
+      "sha256": "4fbda7bdfd44051307212414f3dbeb24e8be292ed8be6a4f2e445c73264e7959"
+    },
+    {
+      "source": "sienna-house/dist/assets/sienna-house.glb",
+      "destination": "assets/collections/sienna/sienna-house.glb",
+      "bytes": 7080928,
+      "sha256": "7a5024a271512c0b25d46fce070e7b48f279f4db3df1ac76cd3565c747fb6ef3"
+    },
+    {
+      "source": "sienna-house/dist/assets/master.jpg",
+      "destination": "assets/collections/sienna/master.jpg",
+      "bytes": 131599,
+      "sha256": "9c3fc47b00c6b8a9a6e3f88091ebb30ce278b962894bb3a345de808a10d6e9a4"
+    },
+    {
+      "source": "sienna-house/dist/assets/dining.jpg",
+      "destination": "assets/collections/sienna/dining.jpg",
+      "bytes": 245068,
+      "sha256": "c78eb6f26dc55cbe80d0d5843edd0b9341747cf6c82d2ba2882be7d7ee44f028"
+    },
+    {
+      "source": "sienna-house/dist/assets/living.jpg",
+      "destination": "assets/collections/sienna/living.jpg",
+      "bytes": 176196,
+      "sha256": "64ad3178dbfab4f22900860671e0947703df4463dcc8e3bdb06d6d4eeebbd6bc"
+    },
+    {
+      "source": "sienna-house/dist/assets/guest.jpg",
+      "destination": "assets/collections/sienna/guest.jpg",
+      "bytes": 223518,
+      "sha256": "4445c1eeb18ee0f6322cd286cfb1398bdc1f02e2d23bb59d22ef422e037caa6c"
+    },
+    {
+      "source": "sienna-house/dist/assets/detail-wood.jpg",
+      "destination": "assets/collections/sienna/detail-wood.jpg",
+      "bytes": 884119,
+      "sha256": "aad05f679ab70a77f7d8cf1ae11ccae570ce3c7dc7c4037ae4db7ae2eeb1fe8b"
+    },
+    {
+      "source": "sienna-house/dist/assets/scene.json",
+      "destination": "assets/collections/sienna/scene.json",
+      "bytes": 7010,
+      "sha256": "d6ff57878a66a598d0500909c6f2d1cfd16db0f96a91120853428dcbf8191eb3"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B02.glb",
+      "destination": "assets/collections/sienna/models/LV463-B02.glb",
+      "bytes": 4069796,
+      "sha256": "145969c11e5bac9a294b90303c1eee8189a938ca2e5ffc18485c39a9ddb78c8b"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B02.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B02.jpg",
+      "bytes": 57553,
+      "sha256": "a0da9cb0112d287891a6b72b27805319bb346739152c9e359c2cb32adf0b5bff"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B42.glb",
+      "destination": "assets/collections/sienna/models/LV463-B42.glb",
+      "bytes": 2949032,
+      "sha256": "0a20811b4731633dc61242f9e92626045d44974c9babdd2148d056d56f744eb5"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B42.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B42.jpg",
+      "bytes": 96917,
+      "sha256": "939f3ae09498a6e5a44e35bd53523796e50e0ee635f58c237c236752233107e5"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B51.glb",
+      "destination": "assets/collections/sienna/models/LV463-B51.glb",
+      "bytes": 3026956,
+      "sha256": "de3b8c614d0674f45e022849a51d4060e06996ed86d978867ac42bc7be0eef02"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B51.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B51.jpg",
+      "bytes": 75246,
+      "sha256": "e9d03c80dc6fdb4295d5bc2b02932c8274fc8f75a5a795d6d44d8165fd725722"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B61.glb",
+      "destination": "assets/collections/sienna/models/LV463-B61.glb",
+      "bytes": 3156616,
+      "sha256": "89385c91ec26a3694bc7b909d5b3917eb0c74ca05a3c1b52e88d72d85f47e64e"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B61.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B61.jpg",
+      "bytes": 118134,
+      "sha256": "e00e05cf6977df1a63701a5bdaf42662eb0e06c281010fd67b18b4c1232e9b11"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B71.glb",
+      "destination": "assets/collections/sienna/models/LV463-B71.glb",
+      "bytes": 2840756,
+      "sha256": "91e82bea04c61aa59c9aae03f289182fd4b24996bb7175a3c7220bffa91186f6"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B71.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B71.jpg",
+      "bytes": 42255,
+      "sha256": "aee783082798831d4738f9ed0558b2fc951b3545fc8ea0a7c76fc86058f85b8c"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-B01.glb",
+      "destination": "assets/collections/sienna/models/LV463-B01.glb",
+      "bytes": 4066116,
+      "sha256": "76a2682d807a5dc7a12e13a30ec30c6dcca82712bcbdc47c12165f905b28e194"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-B01.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-B01.jpg",
+      "bytes": 57553,
+      "sha256": "a0da9cb0112d287891a6b72b27805319bb346739152c9e359c2cb32adf0b5bff"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV446-L02.glb",
+      "destination": "assets/collections/sienna/models/LV446-L02.glb",
+      "bytes": 2858196,
+      "sha256": "1703a1ba978426ecaf47fe60f0bb5f41260b8c445740b65e3656af66b72138ce"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV446-L02.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV446-L02.jpg",
+      "bytes": 60940,
+      "sha256": "88c93e199cfe69fba09539cd762b523fa2b1404290d8e8d4d0a4337394f9b09e"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV446-L01.glb",
+      "destination": "assets/collections/sienna/models/LV446-L01.glb",
+      "bytes": 2857308,
+      "sha256": "cdc8b41e716bfd321a975b19855d2ddeb8e9a85368e25fb18970c71289387471"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV446-L01.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV446-L01.jpg",
+      "bytes": 53150,
+      "sha256": "5b1fcc771f19cd89a1d7f1c7638f33cf3274a2127cd7c29b5306568749e2605c"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV446-L11.glb",
+      "destination": "assets/collections/sienna/models/LV446-L11.glb",
+      "bytes": 2908632,
+      "sha256": "ec11d48031a803d0d1a2bbff4a069e8b30ff0c72bc2eb50a741cf3d3f627daaf"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV446-L11.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV446-L11.jpg",
+      "bytes": 71449,
+      "sha256": "b13211333becf6c0c2fdce9785015fb8e5d483a4eea391311e5bc66ce6eaad65"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV446-L12.glb",
+      "destination": "assets/collections/sienna/models/LV446-L12.glb",
+      "bytes": 2831388,
+      "sha256": "65ea5dadd4a6cf80a750d72f072046b41a50f7eccb1d6dd3bb37c280853376ce"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV446-L12.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV446-L12.jpg",
+      "bytes": 43056,
+      "sha256": "1685a94bd3072f48b18529c60661491f90bfe21be58640cb78dd2f7874588730"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV446-L31.glb",
+      "destination": "assets/collections/sienna/models/LV446-L31.glb",
+      "bytes": 2968692,
+      "sha256": "000cf3f028c3a1a6117195ce625ff2274efb711c616a9d9cf8960fb729344ab3"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV446-L31.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV446-L31.jpg",
+      "bytes": 71530,
+      "sha256": "22230b7af6d367dc957c5f1a56fe8ce5e453eb1a6f4054641f4bb513445650e2"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-D01.glb",
+      "destination": "assets/collections/sienna/models/LV463-D01.glb",
+      "bytes": 2838528,
+      "sha256": "ee69ef0d2dfeacee1ef6585a4bf0513f786caf567dc94f09ae9d23be0a67d8bd"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-D01.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-D01.jpg",
+      "bytes": 37000,
+      "sha256": "c2bead724c210ab25a62589285bb955e516866e4c3ed46e3ea20a6d4fea5d4e3"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-D21.glb",
+      "destination": "assets/collections/sienna/models/LV463-D21.glb",
+      "bytes": 3088848,
+      "sha256": "7ac2fd6a7f0a5c986886dc4781ba2f209eee63b3099908d89baec9052efdbcfd"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-D21.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-D21.jpg",
+      "bytes": 100557,
+      "sha256": "ca3e8a712b1e2b1469ff169516d020ab5c63b1c0d93679fba6931359268d44bd"
+    },
+    {
+      "source": "sienna-house/dist/assets/models/LV463-L21.glb",
+      "destination": "assets/collections/sienna/models/LV463-L21.glb",
+      "bytes": 2917408,
+      "sha256": "ed4f317d502870bf39de43a76505940a00a8d75f115d139cd69fc889e9866cfa"
+    },
+    {
+      "source": "sienna-house/dist/assets/catalogue/LV463-L21.jpg",
+      "destination": "assets/collections/sienna/catalogue/LV463-L21.jpg",
+      "bytes": 54411,
+      "sha256": "a24c3d586daf3eeff4f9da6fe102429dd14d63264a67b05cc0f87a10802ae682"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/hoi-an-exhibition.glb",
+      "destination": "assets/collections/hoi-an/hoi-an-exhibition.glb",
+      "bytes": 29943344,
+      "sha256": "347a1db0d9c655a2aff45bbb7b4db914dd86d8c2f493c33ddeb76f975906eeb0"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/overview.jpg",
+      "destination": "assets/collections/hoi-an/overview.jpg",
+      "bytes": 143251,
+      "sha256": "43f7e526aab85d66fe98d87ef772738238be4d5f41b063900dcfc5c078c06701"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/king.jpg",
+      "destination": "assets/collections/hoi-an/king.jpg",
+      "bytes": 277659,
+      "sha256": "260caecf549b6e3ec4ee911b200cdab10c32b04e33e1327102fd7d31d073ba68"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/queen.jpg",
+      "destination": "assets/collections/hoi-an/queen.jpg",
+      "bytes": 290781,
+      "sha256": "5ffc56d01422353c061b0464bf7996002a63b41089e66dbb33a3a7e408c08203"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/storage.jpg",
+      "destination": "assets/collections/hoi-an/storage.jpg",
+      "bytes": 326520,
+      "sha256": "4397a4d342b490c85299f7da2a0a1b121a4adc9c6f16ccf03868bb0e95aab40d"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/detail-weave.jpg",
+      "destination": "assets/collections/hoi-an/detail-weave.jpg",
+      "bytes": 991033,
+      "sha256": "a44d77162fbea3586b869c10ba8f552a207b33582a387d4e72548b3329762c32"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/scene.json",
+      "destination": "assets/collections/hoi-an/scene.json",
+      "bytes": 2743,
+      "sha256": "010b923d246371908ac5033196b726f3a9fe290bec26256c1d55ec20faa0144c"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B01.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B01.glb",
+      "bytes": 6251744,
+      "sha256": "a313eadfa3616a526e71ec5c3dc5ed64e6917ec005abb4ed0bd85c4d157eedec"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B01.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B01.jpg",
+      "bytes": 61732,
+      "sha256": "fea7f23f45e00a145fd6ec400c5945121505cea5656bbb5ab232ce7512bdab87"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B02.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B02.glb",
+      "bytes": 6894376,
+      "sha256": "adf4be8e44c06732340202bbd8cb5da4edad425fb3d82790e3a6893e6c82ff25"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B02.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B02.jpg",
+      "bytes": 61732,
+      "sha256": "fea7f23f45e00a145fd6ec400c5945121505cea5656bbb5ab232ce7512bdab87"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B41.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B41.glb",
+      "bytes": 3182928,
+      "sha256": "4a2693af8afdb7f98c4c9176517fec0e147f55cef07a68484135ece01494fa48"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B41.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B41.jpg",
+      "bytes": 111855,
+      "sha256": "d7c6bcf20a625a20cb9058eaa367b2b1f657ebbf818e854d84bc11e0bf20da95"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B51.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B51.glb",
+      "bytes": 4018424,
+      "sha256": "aecd5654636c4175630075e32af085d40794753d927f49b29349346ff3787251"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B51.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B51.jpg",
+      "bytes": 87421,
+      "sha256": "8642ba748ac1ed482307f38295db8d9e6967a089474d32a5f05a28cdd73d1208"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B61.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B61.glb",
+      "bytes": 4171748,
+      "sha256": "0b01886418da514936bba7e3a5f3d1182f198c4b7a4c8dc29f5b69a3ed73c7c5"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B61.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B61.jpg",
+      "bytes": 164494,
+      "sha256": "9ee2893781c91a138deebdeafeadde4bd860b4a4b534449adee5925183d9240c"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/models/LV453.B71.glb",
+      "destination": "assets/collections/hoi-an/models/LV453.B71.glb",
+      "bytes": 2871572,
+      "sha256": "ab4d034475d7940a78d1230b1f6ce06ca334fd4a793a0ad3c856b837e02c20f7"
+    },
+    {
+      "source": "hoi-an-catalogue/dist/assets/catalogue/LV453.B71.jpg",
+      "destination": "assets/collections/hoi-an/catalogue/LV453.B71.jpg",
+      "bytes": 33952,
+      "sha256": "714e8a5eca36eb75abcd6b36bc7b599c046e86f2307408351c7e7152bfd7315c"
+    }
+  ]
+}

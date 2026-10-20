@@ -1,0 +1,643 @@
+{
+  "collections": [
+    {
+      "id": "walnut",
+      "name": "Walnut Bedroom",
+      "number": "01",
+      "kind": "Room study",
+      "title": "An intimate beginning.",
+      "tagline": "Walnut. Ochre. Quiet warmth.",
+      "description": "A mid-century bedroom study in rich walnut, crisp cotton, ochre textiles and cognac leather. The original room concept brings sculpted fabric and photographed PBR materials into one intimate interior.",
+      "finish": "Walnut, ochre and cognac leather",
+      "hero": "assets/collections/walnut/bedroom-render.jpg",
+      "prefix": "assets/collections/walnut",
+      "exhibition": "assets/collections/walnut/bedroom.glb",
+      "scene": null,
+      "placementCount": null,
+      "movingParts": null,
+      "sourceSite": "https://rizky-make-it.github.io/walnut-room/",
+      "sourceRepo": "https://github.com/rizky-make-it/walnut-room",
+      "productCount": 0,
+      "palette": [
+        "#5D3B2C",
+        "#BA8E3A",
+        "#F2EEE5",
+        "#956747"
+      ],
+      "renders": [
+        {
+          "image": "assets/collections/walnut/bedroom-render.jpg",
+          "title": "Walnut & ochre",
+          "caption": "Original Blender Cycles room render. Native master: 7680 × 5416; this web JPEG is a smaller derivative.",
+          "request": "the original Walnut Bedroom render: Walnut & ochre",
+          "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom-render-8k.jpg"
+        }
+      ],
+      "materials": [
+        {
+          "image": "assets/collections/walnut/detail-walnut.jpg",
+          "title": "Walnut grain",
+          "description": "Photographed walnut PBR with satin roughness; a crop from the original Cycles render."
+        },
+        {
+          "image": "assets/collections/walnut/detail-cotton.jpg",
+          "title": "Woven cotton",
+          "description": "Sculpted duvet folds, stitched edges and cross-woven textile relief."
+        },
+        {
+          "image": "assets/collections/walnut/detail-ochre.jpg",
+          "title": "Ochre texture",
+          "description": "Warm woven textiles and modelled folds bring softness to the timber frame."
+        },
+        {
+          "image": "assets/collections/walnut/detail-leather.jpg",
+          "title": "Cognac leather",
+          "description": "Photographed leather pores, variable roughness and double saddle stitching."
+        }
+      ],
+      "files": [
+        {
+          "title": "Native bedroom scene",
+          "extension": ".BLEND",
+          "description": "Editable scene, packed PBR textures, cameras and lighting.",
+          "request": "the Walnut Bedroom native Blender scene (.blend)",
+          "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom.blend"
+        },
+        {
+          "title": "Interactive room model",
+          "extension": ".GLB",
+          "description": "Optimised browser cutaway with embedded textures.",
+          "request": "the Walnut Bedroom interactive GLB room model",
+          "sourceUrl": "https://rizky-make-it.github.io/walnut-room/assets/bedroom.glb"
+        },
+        {
+          "title": "Original Cycles render",
+          "extension": "8K JPG",
+          "description": "Native 7680 × 5416 render; JPEG derivative of the lossless PNG master.",
+          "request": "the original Walnut Bedroom native-resolution Cycles render (7680 × 5416)",
+          "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom-render-8k.jpg"
+        },
+        {
+          "title": "PBR texture sources",
+          "extension": ".ZIP",
+          "description": "Walnut and leather diffuse, normal and roughness maps.",
+          "request": "the Walnut Bedroom PBR source textures and rebuild script",
+          "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom-pbr-textures.zip"
+        }
+      ]
+    },
+    {
+      "id": "sienna",
+      "name": "SIENNA",
+      "number": "02",
+      "kind": "Catalogue collection",
+      "title": "Precision in warm brown.",
+      "tagline": "Chevron grain. Fine brass lines.",
+      "description": "Four open displays connect the King suite, Queen and reading area, living collection and dining collection. Warm Brown ash and chevron geometry give fourteen catalogue pieces a distinct architectural rhythm.",
+      "finish": "LCV09 Warm Brown",
+      "hero": "assets/collections/sienna/guest.jpg",
+      "prefix": "assets/collections/sienna",
+      "exhibition": "assets/collections/sienna/sienna-house.glb",
+      "scene": "assets/collections/sienna/scene.json",
+      "placementCount": 17,
+      "movingParts": 32,
+      "sourceSite": "https://rizky-make-it.github.io/sienna-house-2026/",
+      "sourceRepo": "https://github.com/rizky-make-it/sienna-house-2026",
+      "productCount": 14,
+      "palette": [
+        "#544332",
+        "#AE9670",
+        "#E9E5DB",
+        "#444E42"
+      ],
+      "renders": [
+        {
+          "image": "assets/collections/sienna/master.jpg",
+          "title": "The open exhibition",
+          "caption": "Blender EEVEE exhibition overview. Original PNG: 3840 × 2160.",
+          "request": "the original SIENNA render: The open exhibition",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/master-4k.png"
+        },
+        {
+          "image": "assets/collections/sienna/dining.jpg",
+          "title": "A place to gather",
+          "caption": "Dining table, buffet and open display styling. Original PNG: 3840 × 2160.",
+          "request": "the original SIENNA render: A place to gather",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/dining-4k.png"
+        },
+        {
+          "image": "assets/collections/sienna/living.jpg",
+          "title": "The living collection",
+          "caption": "Coffee, lamp and sofa tables with a TV unit. Original PNG: 3840 × 2160.",
+          "request": "the original SIENNA render: The living collection",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/living-4k.png"
+        },
+        {
+          "image": "assets/collections/sienna/guest.jpg",
+          "title": "Queen & reading",
+          "caption": "The Queen display and complementary reading vignette. Original PNG: 3840 × 2160.",
+          "request": "the original SIENNA render: Queen & reading",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/guest-4k.png"
+        }
+      ],
+      "materials": [
+        {
+          "image": "assets/collections/sienna/detail-wood.jpg",
+          "title": "Chevron & brass",
+          "description": "An actual Blender render detail: photographed ash, patterned grain and slender brass-tone framing interpret the Warm Brown catalogue finish."
+        }
+      ],
+      "files": [
+        {
+          "title": "Native exhibition scene",
+          "extension": ".BLEND",
+          "description": "14 SKUs, 17 placements and packed textures.",
+          "request": "the SIENNA Blender exhibition master scene (.blend)",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/sienna-house.blend"
+        },
+        {
+          "title": "Complete exhibition model",
+          "extension": ".GLB",
+          "description": "17 placements and 32 animated drawer / door pivots.",
+          "request": "the complete SIENNA exhibition GLB and fourteen individual models",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/assets/sienna-house.glb"
+        },
+        {
+          "title": "Project & rebuild sources",
+          "extension": ".ZIP",
+          "description": "Scene scripts, photographed textures and metadata.",
+          "request": "the SIENNA Blender project, texture sources and rebuild scripts (.zip)",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/sienna-project.zip"
+        },
+        {
+          "title": "Original catalogue",
+          "extension": ".PDF",
+          "description": "Six-page supplied SIENNA Catalogue 2026 reference.",
+          "request": "the original SIENNA Catalogue 2026 reference PDF",
+          "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/SIENNA-CATALOGUE-2026.pdf"
+        },
+        {
+          "title": "Website source",
+          "extension": "GITHUB",
+          "description": "Original independent website and publishing guide.",
+          "request": "the SIENNA website source and GitHub Pages deployment guide",
+          "sourceUrl": "https://github.com/rizky-make-it/sienna-house-2026"
+        }
+      ]
+    },
+    {
+      "id": "hoi-an",
+      "name": "HOI AN",
+      "number": "03",
+      "kind": "Catalogue collection",
+      "title": "Light through the weave.",
+      "tagline": "Golden Syrup timber. Natural rattan.",
+      "description": "Two bedroom displays, a storage gallery and a weave study bring all six catalogue pieces into one open exhibition. Interlaced solid reeds and genuine gaps let the details speak for themselves.",
+      "finish": "LCM127 Golden Syrup",
+      "hero": "assets/collections/hoi-an/king.jpg",
+      "prefix": "assets/collections/hoi-an",
+      "exhibition": "assets/collections/hoi-an/hoi-an-exhibition.glb",
+      "scene": "assets/collections/hoi-an/scene.json",
+      "placementCount": 12,
+      "movingParts": 28,
+      "sourceSite": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/",
+      "sourceRepo": "https://github.com/rizky-make-it/hoi-an-catalogue-2026",
+      "productCount": 6,
+      "palette": [
+        "#B18453",
+        "#BBA377",
+        "#EEEAE0",
+        "#6E7658"
+      ],
+      "renders": [
+        {
+          "image": "assets/collections/hoi-an/overview.jpg",
+          "title": "The woven exhibition",
+          "caption": "The complete wall-free exhibition. Original Blender EEVEE PNG: 3840 × 2160.",
+          "request": "the original HOI AN render: The woven exhibition",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/overview-4k.png"
+        },
+        {
+          "image": "assets/collections/hoi-an/king.jpg",
+          "title": "The King suite",
+          "caption": "Golden Syrup timber, woven rattan and olive bedding. Original PNG: 3840 × 2160.",
+          "request": "the original HOI AN render: The King suite",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/king-4k.png"
+        },
+        {
+          "image": "assets/collections/hoi-an/queen.jpg",
+          "title": "The Queen suite",
+          "caption": "White cotton softens the rattan and grained timber. Original PNG: 3840 × 2160.",
+          "request": "the original HOI AN render: The Queen suite",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/queen-4k.png"
+        },
+        {
+          "image": "assets/collections/hoi-an/storage.jpg",
+          "title": "The storage gallery",
+          "caption": "Six-drawer dresser, mirror and four-drawer tallboy. Original PNG: 3840 × 2160.",
+          "request": "the original HOI AN render: The storage gallery",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/storage-4k.png"
+        },
+        {
+          "image": "assets/collections/hoi-an/detail-weave.jpg",
+          "title": "An honest weave",
+          "caption": "Actual Blender EEVEE close-up of interlaced rattan. Original PNG: 1600 × 2100.",
+          "request": "the original HOI AN render: An honest weave",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/detail-weave.png"
+        }
+      ],
+      "materials": [
+        {
+          "image": "assets/collections/hoi-an/detail-weave.jpg",
+          "title": "Interlaced rattan",
+          "description": "Individually modelled solid warp and weft ribbons, true openings, timber surrounds and a Golden Syrup finish."
+        }
+      ],
+      "files": [
+        {
+          "title": "Native exhibition scene",
+          "extension": ".BLEND",
+          "description": "6 SKUs, 12 placements, packed textures and named cameras.",
+          "request": "the HOI AN Blender exhibition master scene (.blend)",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/hoi-an-exhibition.blend"
+        },
+        {
+          "title": "Complete exhibition model",
+          "extension": ".GLB",
+          "description": "Optimised exhibition and six full-detail individual products.",
+          "request": "the complete HOI AN exhibition GLB and six full-detail individual models",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/assets/hoi-an-exhibition.glb"
+        },
+        {
+          "title": "Project & rebuild sources",
+          "extension": ".ZIP",
+          "description": "Native scene, scripts, texture sources and modelling notes.",
+          "request": "the HOI AN Blender project, textures, documentation and rebuild scripts (.zip)",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/hoi-an-project.zip"
+        },
+        {
+          "title": "Original catalogue",
+          "extension": ".PDF",
+          "description": "Three-page supplied NEW HOI AN Catalogue 2026 reference.",
+          "request": "the original NEW HOI AN Catalogue 2026 reference PDF",
+          "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/NEW-HOI-AN-CATALOGUE-2026.pdf"
+        },
+        {
+          "title": "Website source",
+          "extension": "GITHUB",
+          "description": "Original independent website and publishing guide.",
+          "request": "the HOI AN website source and GitHub Pages deployment guide",
+          "sourceUrl": "https://github.com/rizky-make-it/hoi-an-catalogue-2026"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "sku": "LV463-B02",
+      "name": "King Bed",
+      "dimensions": [
+        1930,
+        2125,
+        1200
+      ],
+      "room": "master",
+      "model": "assets/collections/sienna/models/LV463-B02.glb",
+      "articulations": 0,
+      "category": "beds",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B02.jpg"
+    },
+    {
+      "sku": "LV463-B42",
+      "name": "2 Drawer & Shelf Bedside",
+      "dimensions": [
+        550,
+        400,
+        550
+      ],
+      "room": "master",
+      "model": "assets/collections/sienna/models/LV463-B42.glb",
+      "articulations": 2,
+      "category": "bedsides",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B42.jpg"
+    },
+    {
+      "sku": "LV463-B51",
+      "name": "2 Over 4 Drawers Tallboy",
+      "dimensions": [
+        900,
+        450,
+        1200
+      ],
+      "room": "master",
+      "model": "assets/collections/sienna/models/LV463-B51.glb",
+      "articulations": 4,
+      "category": "storage",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B51.jpg"
+    },
+    {
+      "sku": "LV463-B61",
+      "name": "3 Over 4 Drawers Dresser",
+      "dimensions": [
+        1500,
+        450,
+        800
+      ],
+      "room": "master",
+      "model": "assets/collections/sienna/models/LV463-B61.glb",
+      "articulations": 7,
+      "category": "storage",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B61.jpg"
+    },
+    {
+      "sku": "LV463-B71",
+      "name": "Mirror",
+      "dimensions": [
+        1000,
+        26,
+        1000
+      ],
+      "room": "master",
+      "model": "assets/collections/sienna/models/LV463-B71.glb",
+      "articulations": 0,
+      "category": "mirrors",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B71.jpg"
+    },
+    {
+      "sku": "LV463-B01",
+      "name": "Queen Bed",
+      "dimensions": [
+        1630,
+        2125,
+        1200
+      ],
+      "room": "guest",
+      "model": "assets/collections/sienna/models/LV463-B01.glb",
+      "articulations": 0,
+      "category": "beds",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-B01.jpg"
+    },
+    {
+      "sku": "LV446-L02",
+      "name": "Square Coffee Table with Shelf",
+      "dimensions": [
+        900,
+        900,
+        440
+      ],
+      "room": "guest",
+      "model": "assets/collections/sienna/models/LV446-L02.glb",
+      "articulations": 0,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV446-L02.jpg"
+    },
+    {
+      "sku": "LV446-L01",
+      "name": "Rectangle Coffee Table with Shelf",
+      "dimensions": [
+        1200,
+        700,
+        440
+      ],
+      "room": "living",
+      "model": "assets/collections/sienna/models/LV446-L01.glb",
+      "articulations": 0,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV446-L01.jpg"
+    },
+    {
+      "sku": "LV446-L11",
+      "name": "1 Drawer & Shelf Lamp Table",
+      "dimensions": [
+        550,
+        550,
+        550
+      ],
+      "room": "living",
+      "model": "assets/collections/sienna/models/LV446-L11.glb",
+      "articulations": 1,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV446-L11.jpg"
+    },
+    {
+      "sku": "LV446-L12",
+      "name": "Sofa Table",
+      "dimensions": [
+        460,
+        250,
+        500
+      ],
+      "room": "living",
+      "model": "assets/collections/sienna/models/LV446-L12.glb",
+      "articulations": 0,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV446-L12.jpg"
+    },
+    {
+      "sku": "LV446-L31",
+      "name": "4 Doors & Shelf TV Unit",
+      "dimensions": [
+        1800,
+        440,
+        550
+      ],
+      "room": "living",
+      "model": "assets/collections/sienna/models/LV446-L31.glb",
+      "articulations": 4,
+      "category": "storage",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV446-L31.jpg"
+    },
+    {
+      "sku": "LV463-D01",
+      "name": "8-seat Rectangle Dining Table",
+      "dimensions": [
+        2200,
+        1000,
+        760
+      ],
+      "room": "dining",
+      "model": "assets/collections/sienna/models/LV463-D01.glb",
+      "articulations": 0,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-D01.jpg"
+    },
+    {
+      "sku": "LV463-D21",
+      "name": "3 Drawers 4 Doors Buffet",
+      "dimensions": [
+        1800,
+        450,
+        820
+      ],
+      "room": "dining",
+      "model": "assets/collections/sienna/models/LV463-D21.glb",
+      "articulations": 7,
+      "category": "storage",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-D21.jpg"
+    },
+    {
+      "sku": "LV463-L21",
+      "name": "1 Drawer & Shelf Console",
+      "dimensions": [
+        1400,
+        400,
+        760
+      ],
+      "room": "hall",
+      "model": "assets/collections/sienna/models/LV463-L21.glb",
+      "articulations": 1,
+      "category": "tables",
+      "collection": "sienna",
+      "collectionName": "SIENNA",
+      "finish": "LCV09 Warm Brown",
+      "thumbnail": "assets/collections/sienna/catalogue/LV463-L21.jpg"
+    },
+    {
+      "sku": "LV453.B01",
+      "name": "Queen Bed",
+      "dimensions": [
+        1600,
+        2140,
+        1300
+      ],
+      "category": "beds",
+      "sourcePage": 2,
+      "room": "queen",
+      "model": "assets/collections/hoi-an/models/LV453.B01.glb",
+      "articulations": 0,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B01.jpg"
+    },
+    {
+      "sku": "LV453.B02",
+      "name": "King Bed",
+      "dimensions": [
+        1900,
+        2140,
+        1300
+      ],
+      "category": "beds",
+      "sourcePage": 2,
+      "room": "king",
+      "model": "assets/collections/hoi-an/models/LV453.B02.glb",
+      "articulations": 0,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B02.jpg"
+    },
+    {
+      "sku": "LV453.B41",
+      "name": "Bedside 2 Drawers",
+      "dimensions": [
+        550,
+        420,
+        580
+      ],
+      "category": "bedsides",
+      "sourcePage": 2,
+      "room": "king",
+      "model": "assets/collections/hoi-an/models/LV453.B41.glb",
+      "articulations": 2,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B41.jpg"
+    },
+    {
+      "sku": "LV453.B51",
+      "name": "Tallboy 4 Drawers",
+      "dimensions": [
+        950,
+        450,
+        1200
+      ],
+      "category": "storage",
+      "sourcePage": 2,
+      "room": "king",
+      "model": "assets/collections/hoi-an/models/LV453.B51.glb",
+      "articulations": 4,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B51.jpg"
+    },
+    {
+      "sku": "LV453.B61",
+      "name": "Dresser 6 Drawers",
+      "dimensions": [
+        1500,
+        450,
+        820
+      ],
+      "category": "storage",
+      "sourcePage": 2,
+      "room": "queen",
+      "model": "assets/collections/hoi-an/models/LV453.B61.glb",
+      "articulations": 6,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B61.jpg"
+    },
+    {
+      "sku": "LV453.B71",
+      "name": "Mirror",
+      "dimensions": [
+        1000,
+        25,
+        1000
+      ],
+      "category": "mirrors",
+      "sourcePage": 2,
+      "room": "queen",
+      "model": "assets/collections/hoi-an/models/LV453.B71.glb",
+      "articulations": 0,
+      "finish": "LCM127 Golden Syrup",
+      "collection": "hoi-an",
+      "collectionName": "HOI AN",
+      "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B71.jpg"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-10-20T13:27:09.013Z",
+  "method": "HEAD",
+  "results": [
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/walnut-room/",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://github.com/rizky-make-it/walnut-room",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom-render-8k.jpg",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom.blend",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/walnut-room/assets/bedroom.glb",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/walnut-room/downloads/bedroom-pbr-textures.zip",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://github.com/rizky-make-it/sienna-house-2026",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/master-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/dining-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/living-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/guest-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/sienna-house.blend",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/assets/sienna-house.glb",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/sienna-project.zip",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/sienna-house-2026/downloads/SIENNA-CATALOGUE-2026.pdf",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://github.com/rizky-make-it/hoi-an-catalogue-2026",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/overview-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/king-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/queen-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/storage-4k.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/detail-weave.png",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/hoi-an-exhibition.blend",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/assets/hoi-an-exhibition.glb",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/hoi-an-project.zip",
+      "status": 200
+    },
+    {
+      "sourceUrl": "https://rizky-make-it.github.io/hoi-an-catalogue-2026/downloads/NEW-HOI-AN-CATALOGUE-2026.pdf",
+      "status": 200
+    }
+  ]
+}
