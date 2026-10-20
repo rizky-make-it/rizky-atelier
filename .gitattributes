@@ -1,3 +1,4 @@
 * text=auto
 # Preserve source-copy hashes across Windows and Linux checkouts.
 dist/assets/** -text
+dist/downloads/madison/** -text

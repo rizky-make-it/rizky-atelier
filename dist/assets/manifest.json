@@ -290,6 +290,130 @@
           "sourceUrl": "https://github.com/rizky-make-it/hoi-an-catalogue-2026"
         }
       ]
+    },
+    {
+      "id": "madison",
+      "name": "MADISON",
+      "number": "04",
+      "kind": "Catalogue collection",
+      "title": "A more considered kind of grandeur.",
+      "tagline": "Walnut burl. Bronze. Calacatta.",
+      "description": "Eight MARINER catalogue pieces become an open living-gallery study: three deeply upholstered sofas, marble-topped tables, a rounded TV cabinet and two slender consoles. Glossy walnut burl veneer, chased bronze details and taupe textiles echo the supplied classic reference.",
+      "finish": "NO / OA (19/231)",
+      "hero": "assets/collections/madison/salon.jpg",
+      "exhibition": "assets/collections/madison/madison-exhibition.glb",
+      "scene": "assets/collections/madison/scene.json",
+      "placementCount": 12,
+      "movingParts": 0,
+      "sourceSite": "https://rizky-make-it.github.io/rizky-atelier/#/collections/madison",
+      "sourceRepo": "https://github.com/rizky-make-it/rizky-atelier",
+      "productCount": 8,
+      "palette": [
+        "#64432d",
+        "#ad8b48",
+        "#eee6d7",
+        "#292e2b"
+      ],
+      "renders": [
+        {
+          "image": "assets/collections/madison/overview.jpg",
+          "title": "The open Madison gallery",
+          "caption": "Original Blender exhibition render, 3840 × 2160. No walls or roof.",
+          "request": "the original MADISON Blender render: The open Madison gallery",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/overview-4k.png"
+        },
+        {
+          "image": "assets/collections/madison/salon.jpg",
+          "title": "The grand salon",
+          "caption": "Three-seat sofa, quilted armchairs, marble coffee table and the TV piece. Original Blender render: 3840 × 2160.",
+          "request": "the original MADISON Blender render: The grand salon",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/salon-4k.png"
+        },
+        {
+          "image": "assets/collections/madison/lounge.jpg",
+          "title": "A quieter conversation",
+          "caption": "The two-seat lounge and marble-topped tables. Original Blender render: 3840 × 2160.",
+          "request": "the original MADISON Blender render: A quieter conversation",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/lounge-4k.png"
+        },
+        {
+          "image": "assets/collections/madison/consoles.jpg",
+          "title": "Slender expressions",
+          "caption": "Both catalogue console widths with bronze collars and lower shelves. Original Blender render: 3840 × 2160.",
+          "request": "the original MADISON Blender render: Slender expressions",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/consoles-4k.png"
+        },
+        {
+          "image": "assets/collections/madison/cabinet.jpg",
+          "title": "The rounded TV piece",
+          "caption": "A front view of the open cubbies, inset marble and fixed burl panel. Original Blender render: 3840 × 2160.",
+          "request": "the original MADISON Blender render: The rounded TV piece",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/cabinet-4k.png"
+        },
+        {
+          "image": "assets/collections/madison/detail-burl.jpg",
+          "title": "Burl, marble & bronze",
+          "caption": "Actual Blender detail render, 1600 × 1600.",
+          "request": "the original MADISON Blender render: Burl, marble & bronze",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/detail-burl.png"
+        },
+        {
+          "image": "assets/collections/madison/detail-tuft.jpg",
+          "title": "Tailored texture",
+          "caption": "Actual modelled upholstery and tufting, 1600 × 1600.",
+          "request": "the original MADISON Blender render: Tailored texture",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/detail-tuft.png"
+        }
+      ],
+      "materials": [
+        {
+          "image": "assets/collections/madison/detail-burl.jpg",
+          "title": "Burl & bronze",
+          "description": "Authored walnut-burl PBR, a polished Calacatta interpretation and modelled chased metal edging. A native Blender render, not a physical material sample."
+        },
+        {
+          "image": "assets/collections/madison/detail-tuft.jpg",
+          "title": "Tailored taupe",
+          "description": "Genuine diamond-displaced upholstery, recessed buttons, seat piping and woven-normal fabric. A native Blender render."
+        }
+      ],
+      "files": [
+        {
+          "title": "Native Madison exhibition",
+          "extension": ".BLEND",
+          "description": "Eight SKUs, twelve placements, packed PBR maps and seven cameras.",
+          "request": "the MADISON editable Blender exhibition master (.blend)",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/madison-exhibition.blend"
+        },
+        {
+          "title": "Exhibition & individual models",
+          "extension": ".GLB",
+          "description": "Eight inspectable pieces and an optimised open gallery.",
+          "request": "the complete MADISON exhibition GLB and eight individual product GLBs",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/assets/collections/madison/madison-exhibition.glb"
+        },
+        {
+          "title": "Complete rebuild project",
+          "extension": ".ZIP",
+          "description": "Native scene, authored geometry scripts, textures, source references and audit.",
+          "request": "the complete MADISON Blender project, textures and rebuild sources",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/madison-project.zip"
+        },
+        {
+          "title": "Madison reference spreads",
+          "extension": ".PDF",
+          "description": "Only the Madison pages from the supplied MARINER classic catalogue.",
+          "request": "the original MADISON catalogue reference pages",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/MADISON-reference-pages.pdf"
+        },
+        {
+          "title": "Original 4K renders",
+          "extension": "4K PNG",
+          "description": "Five actual 4K Blender renders and two material-detail images.",
+          "request": "all MADISON original 4K Blender renders and detail images",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/madison/render-proof.json"
+        }
+      ]
     }
   ],
   "products": [
@@ -638,6 +762,206 @@
       "collection": "hoi-an",
       "collectionName": "HOI AN",
       "thumbnail": "assets/collections/hoi-an/catalogue/LV453.B71.jpg"
+    },
+    {
+      "sku": "50532.0",
+      "name": "Madison Three-seat Sofa",
+      "dimensions": [
+        2750,
+        950,
+        950
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "imageSize": [
+        660,
+        356
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "salon",
+      "model": "assets/collections/madison/models/50532.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50532.0.jpg"
+    },
+    {
+      "sku": "50533.0",
+      "name": "Madison Two-seat Sofa",
+      "dimensions": [
+        2100,
+        950,
+        950
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "imageSize": [
+        630,
+        275
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "lounge",
+      "model": "assets/collections/madison/models/50533.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50533.0.jpg"
+    },
+    {
+      "sku": "50534.0",
+      "name": "Madison Armchair",
+      "dimensions": [
+        950,
+        950,
+        950
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "imageSize": [
+        557,
+        460
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "salon",
+      "model": "assets/collections/madison/models/50534.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50534.0.jpg"
+    },
+    {
+      "sku": "50535.0",
+      "name": "Madison Round Coffee Table",
+      "dimensions": [
+        1500,
+        1500,
+        500
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 17,
+      "imageShared": false,
+      "imageSize": [
+        619,
+        323
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "salon",
+      "model": "assets/collections/madison/models/50535.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50535.0.jpg"
+    },
+    {
+      "sku": "50353.0",
+      "name": "Madison Round Side Table",
+      "dimensions": [
+        500,
+        500,
+        680
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 17,
+      "imageShared": false,
+      "imageSize": [
+        260,
+        337
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "salon",
+      "model": "assets/collections/madison/models/50353.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50353.0.jpg"
+    },
+    {
+      "sku": "50536.0",
+      "name": "Madison TV Cabinet",
+      "dimensions": [
+        2200,
+        450,
+        600
+      ],
+      "category": "storage",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 19,
+      "imageShared": false,
+      "imageSize": [
+        688,
+        362
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "salon",
+      "model": "assets/collections/madison/models/50536.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50536.0.jpg"
+    },
+    {
+      "sku": "50537.0",
+      "name": "Madison Wide Console",
+      "dimensions": [
+        1700,
+        450,
+        900
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 20,
+      "imageShared": false,
+      "imageSize": [
+        491,
+        257
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "consoles",
+      "model": "assets/collections/madison/models/50537.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50537.0.jpg"
+    },
+    {
+      "sku": "50538.0",
+      "name": "Madison Compact Console",
+      "dimensions": [
+        1000,
+        450,
+        900
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 20,
+      "imageShared": false,
+      "imageSize": [
+        345,
+        256
+      ],
+      "finish": "NO / OA (19/231)",
+      "room": "consoles",
+      "model": "assets/collections/madison/models/50538.0.glb",
+      "articulations": 0,
+      "collection": "madison",
+      "collectionName": "MADISON",
+      "thumbnail": "assets/collections/madison/catalogue/50538.0.jpg"
     }
   ]
 }

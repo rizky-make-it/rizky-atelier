@@ -158,13 +158,17 @@ const collections = [
 ];
 
 // Website source is the GitHub repository, not a guessed relative site path.
+const madisonPrefix='assets/collections/madison';
+const madison=JSON.parse(await readFile(join(dist,madisonPrefix,'collection.json'),'utf8'));
+collections.push(madison);
+for(const p of JSON.parse(await readFile(join(dist,madisonPrefix,'products.json'),'utf8'))){products.push({...p,collection:'madison',collectionName:'MADISON',model:`${madisonPrefix}/models/${p.sku}.glb`,thumbnail:`${madisonPrefix}/catalogue/${p.sku}.jpg`});}
 for (const c of collections) for (const f of c.files) if (f.extension === 'GITHUB') f.sourceUrl = c.sourceRepo;
-assert.equal(collections.length, 3);
-assert.equal(products.length, 20);
-assert.equal(new Set(products.map(p => p.sku)).size, 20);
-assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6]);
-assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12]);
-assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28]);
+assert.equal(collections.length, 4);
+assert.equal(products.length, 28);
+assert.equal(new Set(products.map(p => p.sku)).size, 28);
+assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6, 8]);
+assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12, 12]);
+assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28, 0]);
 for (const p of products) {
   assert.ok(['beds', 'bedsides', 'storage', 'tables', 'seating', 'mirrors'].includes(p.category));
   assert.equal(p.dimensions.length, 3);

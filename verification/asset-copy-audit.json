@@ -19,6 +19,12 @@
       "products": 6,
       "placements": 12,
       "movingParts": 28
+    },
+    {
+      "id": "madison",
+      "products": 8,
+      "placements": 12,
+      "movingParts": 0
     }
   ],
   "files": [

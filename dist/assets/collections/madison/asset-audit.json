@@ -1,0 +1,171 @@
+{
+  "collection": "MADISON",
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "files": [
+    {
+      "destination": "downloads/madison/overview-4k.png",
+      "bytes": 6605089,
+      "sha256": "b4a6d6c0f82aafa878ecbd9621991d3e8c075871c68dabe2ee3fe9db6953f272"
+    },
+    {
+      "destination": "downloads/madison/salon-4k.png",
+      "bytes": 8444422,
+      "sha256": "4a105995b2356e3f7d3a4ba14cd74526c020b9e36c47c6aac4df27708f9113b7"
+    },
+    {
+      "destination": "downloads/madison/lounge-4k.png",
+      "bytes": 8549309,
+      "sha256": "40c10f125a7181c204f75478657302cb0c60c82d16e219c4898d165a8e3bd87f"
+    },
+    {
+      "destination": "downloads/madison/consoles-4k.png",
+      "bytes": 6660440,
+      "sha256": "e82f343f4535ff16551a73b68e68eeb82c7e2050be6dba770280b77238f93a9b"
+    },
+    {
+      "destination": "downloads/madison/cabinet-4k.png",
+      "bytes": 6641485,
+      "sha256": "1c43864155a7ebd9d82d89f7f5aaf0f8843ddb455acd8acdf5a955f8092b61ac"
+    },
+    {
+      "destination": "downloads/madison/detail-burl.png",
+      "bytes": 2267090,
+      "sha256": "3a00cb45e0a855e2c567ef65818d9e23ac7154e3ddba1e4af0256373701843b4"
+    },
+    {
+      "destination": "downloads/madison/detail-tuft.png",
+      "bytes": 2147357,
+      "sha256": "4fe17ce511d4d29881b3fc95cfca116a04ebb177c29bbefd3e92884044c3fe5c"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50532.0.jpg",
+      "bytes": 20192,
+      "sha256": "b857fba13898dae5492f0fa8f94e7518a7ffda5b148a47200da471e91ecf689b"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50533.0.jpg",
+      "bytes": 18467,
+      "sha256": "a0366b96bc3d629420eaf2d24f7594c609b60dbcb52b161d82173cd4a7f832d2"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50534.0.jpg",
+      "bytes": 93338,
+      "sha256": "4ae2333c3a073e59593d4112fdde708595ec99659a618afb0a2a61e1b4c2a2dc"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50535.0.jpg",
+      "bytes": 23361,
+      "sha256": "5adcaa86b8e54b4e12cc34048628c8907ffa798846de4c25216f821a3a8bb133"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50353.0.jpg",
+      "bytes": 11478,
+      "sha256": "c1faaf9dd0ae493d92721357d7e65fffc25a5345172bfeaa38bc85a0e872fffd"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50536.0.jpg",
+      "bytes": 28330,
+      "sha256": "12d806e977638e84c2156fb01efa41ba32f44767d5140194b2e6406edd367222"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50537.0.jpg",
+      "bytes": 11582,
+      "sha256": "b830c16468b1576ada45d4ccf14594c316432c52bdd6747322101e53dbd995a8"
+    },
+    {
+      "destination": "assets/collections/madison/catalogue/50538.0.jpg",
+      "bytes": 9042,
+      "sha256": "bd132a2f97c6098b9341865257c889229cd65ca8b42b5a78a0fd9345263b4857"
+    },
+    {
+      "destination": "assets/collections/madison/room-living.jpg",
+      "bytes": 125427,
+      "sha256": "8dbaf87ade1bac46f16f25942c068d8cc5c273e4ddaa17259af541d5fb1978e3"
+    },
+    {
+      "destination": "assets/collections/madison/room-overhead.jpg",
+      "bytes": 149463,
+      "sha256": "2e678662009f21045f2d2c577b32276c2928dd9ffcc9ac89c1a80f205e4ebf8b"
+    },
+    {
+      "destination": "downloads/madison/madison-exhibition.blend",
+      "bytes": 14237748,
+      "sha256": "694722312b06fa94538a67f50e7c79b20257e7c7cf6f6a5f61f5f4f5d66bad5e"
+    },
+    {
+      "destination": "downloads/madison/native-audit.json",
+      "bytes": 3948,
+      "sha256": "ce35918b9ab7d33edc30bd1dcf9639b2daa0edcc6f0dd555dcd15748d4a87537"
+    },
+    {
+      "destination": "assets/collections/madison/source-reference.json",
+      "bytes": 22187,
+      "sha256": "89a3da1cde9ca4e71ed579d04a239f3fd7c63c08a846ceeca0c6f327259386e7"
+    }
+  ],
+  "renderProof": {
+    "overview": {
+      "file": "overview-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "b4a6d6c0f82aafa878ecbd9621991d3e8c075871c68dabe2ee3fe9db6953f272",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "salon": {
+      "file": "salon-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "4a105995b2356e3f7d3a4ba14cd74526c020b9e36c47c6aac4df27708f9113b7",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "lounge": {
+      "file": "lounge-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "40c10f125a7181c204f75478657302cb0c60c82d16e219c4898d165a8e3bd87f",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "consoles": {
+      "file": "consoles-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "e82f343f4535ff16551a73b68e68eeb82c7e2050be6dba770280b77238f93a9b",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "cabinet": {
+      "file": "cabinet-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "1c43864155a7ebd9d82d89f7f5aaf0f8843ddb455acd8acdf5a955f8092b61ac",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-burl": {
+      "file": "detail-burl.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "3a00cb45e0a855e2c567ef65818d9e23ac7154e3ddba1e4af0256373701843b4",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-tuft": {
+      "file": "detail-tuft.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "4fe17ce511d4d29881b3fc95cfca116a04ebb177c29bbefd3e92884044c3fe5c",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "madison-exhibition.blend",
+      "originalBlenderRender": true
+    }
+  }
+}

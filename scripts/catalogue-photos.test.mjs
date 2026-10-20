@@ -7,13 +7,13 @@ import {cataloguePhoto,photoButton,referenceCard,featuredReferences} from '../di
 const manifest=JSON.parse(readFileSync(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
 const products=manifest.products;
 
-test('all 20 catalogue references use existing local images and exact 3D deep links',()=>{
+test('all 28 catalogue references use existing local images and exact 3D deep links',()=>{
   for(const p of products){
     const photo=cataloguePhoto(p),html=photoButton(p);
     assert.equal(photo.image,p.thumbnail);
     assert.ok(readFileSync(new URL('../dist/'+photo.image,import.meta.url)).length>0);
     assert.equal(photo.inspect,`#/gallery/${p.collection}?product=${p.sku}`);
-    assert.ok(photo.caption.includes(p.sku)&&photo.caption.includes('Living Ikon'));
+    assert.ok(photo.caption.includes(p.sku)&&photo.caption.includes(p.sourceBrand||'Living Ikon'));
     assert.match(html,/Original catalogue image/);
     assert.doesNotMatch(html,/Actual material sample|Verified real-life|original catalogue photograph/i);
     assert.match(html,/loading="lazy"/);
@@ -50,4 +50,12 @@ test('catalogue metadata remains escaped in images, captions, requests and links
     assert.match(html,/&lt;img/);
     assert.ok(!html.includes('data-x="bad'));
   }
+});
+
+test('Madison keeps MARINER provenance, native image sizes and distinct sofa references',()=>{
+  const pieces=products.filter(p=>p.collection==='madison');assert.equal(pieces.length,8);
+  for(const p of pieces){const photo=cataloguePhoto(p);assert.equal(photo.brand,'MARINER');assert.equal(photo.source,'CLASSIC FURNITURE CATALOG 2023');assert.deepEqual(photo.size,p.imageSize);assert.ok(photo.size.every(n=>n>0));assert.doesNotMatch(photo.caption,/Living Ikon|shares one bed/);}
+  assert.deepEqual(featuredReferences(products,'madison').map(p=>p.category),['seating','tables','storage']);
+  const sofaImages=pieces.filter(p=>p.category==='seating').map(p=>createHash('sha256').update(readFileSync(new URL('../dist/'+p.thumbnail,import.meta.url))).digest('hex'));
+  assert.equal(new Set(sofaImages).size,3);
 });

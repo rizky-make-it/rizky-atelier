@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "scene": "C:\\Users\\Admin\\Desktop\\GPTsol6.1\\output\\madison\\madison-exhibition.blend",
+  "uniqueSKUs": 8,
+  "placements": 12,
+  "unsupportedMovingParts": 0,
+  "packedImages": 4,
+  "cameras": 7,
+  "walls": 0,
+  "roof": false,
+  "resolution": [
+    3840,
+    2160
+  ],
+  "bounds": [
+    {
+      "sku": "50532.0",
+      "instance": "salon-1",
+      "catalogue_mm": [
+        2750,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        2750.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 86848
+    },
+    {
+      "sku": "50534.0",
+      "instance": "salon-2",
+      "catalogue_mm": [
+        950,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        950.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 45096
+    },
+    {
+      "sku": "50534.0",
+      "instance": "salon-3",
+      "catalogue_mm": [
+        950,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        950.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 45096
+    },
+    {
+      "sku": "50535.0",
+      "instance": "salon-4",
+      "catalogue_mm": [
+        1500,
+        1500,
+        500
+      ],
+      "geometry_mm": [
+        1501.25,
+        1501.58,
+        500.0
+      ],
+      "max_error_mm": 1.583,
+      "triangles": 98352
+    },
+    {
+      "sku": "50353.0",
+      "instance": "salon-5",
+      "catalogue_mm": [
+        500,
+        500,
+        680
+      ],
+      "geometry_mm": [
+        501.06,
+        501.58,
+        680.0
+      ],
+      "max_error_mm": 1.583,
+      "triangles": 47484
+    },
+    {
+      "sku": "50353.0",
+      "instance": "salon-6",
+      "catalogue_mm": [
+        500,
+        500,
+        680
+      ],
+      "geometry_mm": [
+        501.06,
+        501.58,
+        680.0
+      ],
+      "max_error_mm": 1.583,
+      "triangles": 47484
+    },
+    {
+      "sku": "50536.0",
+      "instance": "salon-7",
+      "catalogue_mm": [
+        2200,
+        450,
+        600
+      ],
+      "geometry_mm": [
+        2200.0,
+        452.5,
+        600.0
+      ],
+      "max_error_mm": 2.5,
+      "triangles": 43064
+    },
+    {
+      "sku": "50533.0",
+      "instance": "lounge-8",
+      "catalogue_mm": [
+        2100,
+        950,
+        950
+      ],
+      "geometry_mm": [
+        2100.0,
+        950.0,
+        950.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 74778
+    },
+    {
+      "sku": "50353.0",
+      "instance": "lounge-9",
+      "catalogue_mm": [
+        500,
+        500,
+        680
+      ],
+      "geometry_mm": [
+        501.06,
+        501.58,
+        680.0
+      ],
+      "max_error_mm": 1.583,
+      "triangles": 47484
+    },
+    {
+      "sku": "50535.0",
+      "instance": "lounge-10",
+      "catalogue_mm": [
+        1500,
+        1500,
+        500
+      ],
+      "geometry_mm": [
+        1501.25,
+        1501.58,
+        500.0
+      ],
+      "max_error_mm": 1.583,
+      "triangles": 98352
+    },
+    {
+      "sku": "50537.0",
+      "instance": "consoles-11",
+      "catalogue_mm": [
+        1700,
+        450,
+        900
+      ],
+      "geometry_mm": [
+        1701.05,
+        451.05,
+        900.0
+      ],
+      "max_error_mm": 1.05,
+      "triangles": 53596
+    },
+    {
+      "sku": "50538.0",
+      "instance": "consoles-12",
+      "catalogue_mm": [
+        1000,
+        450,
+        900
+      ],
+      "geometry_mm": [
+        1001.05,
+        451.05,
+        900.0
+      ],
+      "max_error_mm": 1.05,
+      "triangles": 44636
+    }
+  ],
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "materials": "Authored procedural visual interpretations of supplied catalogue; not manufacturer CAD"
+}

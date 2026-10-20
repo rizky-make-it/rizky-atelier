@@ -41,3 +41,13 @@ Collection, Material Library and selected-product views now pair source images
 with the independently reconstructed models. Labels distinguish catalogue
 sources from Blender details; shared Queen/King images and source resolution
 are disclosed. Updated 16-test and full local browser/touch suites pass.
+
+MADISON addition (21 October 2026): eight MARINER Classic2023 catalogue pieces
+are reconstructed as a fourth collection, with twelve wall-free exhibition
+placements, an editable packed Blender master, eight individual GLBs, an
+optimised exhibition GLB, five4K renders, two material details, original
+catalogue images and a complete native rebuild ZIP. The unified catalogue
+now contains28pieces.18unit/static tests and the full local browser/touch
+suite pass all4exhibitions and28actual GLB decodes. All3previous project
+working trees and native files remain unchanged. All visible file requests
+continue to open Muhammad Rizky's WhatsApp draft without sending it.

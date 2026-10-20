@@ -1,6 +1,6 @@
 # Asset provenance
 
-RIZKY ATELIER combines three existing projects by Muhammad Rizky. Original projects are read-only inputs; this website does not modify or replace them. `scripts/prepare-assets.mjs` copies the named browser assets byte-for-byte, checks SHA-256, extracts real product / articulation counts from GLB metadata, and writes `dist/assets/manifest.json`. Detailed source paths, byte sizes and checksums are recorded in `verification/asset-copy-audit.json`. No native Blender archive or original high-resolution PNG is duplicated in the new website.
+RIZKY ATELIER combines three existing projects by Muhammad Rizky and the newly authored MADISON collection. Original projects are read-only inputs; this website does not modify or replace them. `scripts/prepare-assets.mjs` copies original browser assets byte-for-byte, checks SHA-256, extracts real product/articulation counts and registers MADISON. Original copy evidence remains in `verification/asset-copy-audit.json`. Native files and high-resolution PNGs for the three previous projects retain their original locations; newly authored MADISON native files and PNGs are included under `dist/downloads/madison/`.
 
 ## Walnut Bedroom / Ruang
 
@@ -29,6 +29,43 @@ Six catalogue SKUs, twelve exhibition placements and twenty-eight drawer pivots,
 Ash Veneer texture: Jenelle van Heerden / Poly Haven, <https://polyhaven.com/a/ash_veneer>, CC0, stained to interpret LCM127 Golden Syrup. This generic photographed ash substrate does not certify the manufacturer's timber species. Weave spacing, unseen joinery, drawer internals, freestanding mirror supports, bedding and display styling are visual interpretations. Beds have distinct catalogue widths; printed length × width × height is normalised to width × depth × height in the product metadata.
 
 ## Rights, libraries and contact
+
+## MADISON / MARINER Classic Furniture 2023
+
+Source: the owner's CLASSIC_FURNITURE_CATALOG_2023.pdf,139PDF pages, SHA256
+ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24.
+Only MADISON on PDF pages13–20 (printed24–39) is reconstructed; only those
+eight spreads are redistributed as the requested collection reference.
+This is a MARINER collection, not a Living Ikon collection.
+
+Eight exact dimensioned SKUs, twelve exhibition placements, zero moving
+hardware. All three sofa sizes retain distinct widths and3/2/1seat cushions.
+Seven reference images retain original JPEG bytes, and the armchair has its
+own native-density lifestyle crop; output/madison/reference/products.json and
+assets/collections/madison/source-reference.json record native dimensions,
+image xrefs/crop rectangles and individual checksums. No source image is
+AI-enhanced or presented as a calibrated physical sample.
+
+Native source: output/madison/. Authored model detail includes curved tubs,
+diamond-displaced upholstery, real buttons and piping, cast/chased bronze
+geometry, marble inset tops and open TV cubbies. The cabinet panel remains
+fixed; the PDF does not establish opening hardware. Walnut burl veneer,
+cast bronze and Calacatta are the stated collection materials. Procedural
+PBR maps interpret them; exact finish/fabric calibration, hidden construction,
+casting motifs, marble-vein placement, styling and hidden coffee-table leg
+count are not manufacturer-certified. No original product design ownership
+or commercial image licence is claimed; obtain permission from MARINER for
+commercial redistribution.
+
+Five genuine Blender EEVEE renders are3840×2160 and two detail renders1600×1600.
+Original PNG hashes, a reopened-native dimensional/packed-map audit, local
+asset checksums and source evidence are packaged with the delivery. The
+native scene has seven cameras, four packed maps and no walls/roof. The
+exhibition GLB is an optimised419,003-triangle derivative of755,858 triangles;
+individual models preserve their full-detail geometry. No AI image replaces
+a native render. Browser environment lighting and reflectivity differ from
+native renders. The three previous websites and native source projects are
+not changed by adding this collection to Rizky Atelier.
 
 ### Catalogue image presentation update
 

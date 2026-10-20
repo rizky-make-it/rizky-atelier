@@ -37,3 +37,12 @@ These are Chrome desktop and emulated mobile/touch tests, not physical-device te
 - Photo → exact-SKU 3D → matching source image passes for SIENNA LV463-B61 on desktop and HOI AN LV453.B61 on emulated phone. Nested contact dialogs, focus restoration and expanded-viewer scroll lock pass without sending WhatsApp messages.
 - Image/reference layouts pass 320/360/390/430 px portrait and 844 × 390 landscape. The existing actual touch/raycast/walk/zoom/tour/drawer tests also pass. Zero runtime exceptions, console errors and HTTP failures were recorded.
 - All original images, GLBs and source projects remain unchanged. Source images are 800 × 600 catalogue crops, not verified physical material samples or AI-enhanced images. See verification/catalogue-images-local.json for the updated local browser result.
+
+## MADISON addition — 21 October 2026
+
+- 18 unit tests and all static/GLB/source-copy/size checks pass. The combined registry now contains4collections and28exact dimensioned SKUs; prior source hashes are preserved.
+- Reopened-native audit:8Madison SKUs,12placements,7cameras,4packed PBR images,0unverified moving parts, no walls/roof. Sofa outside dimensions match within0.001mm; fine casegood trims extend the nominal footprint by at most2.5mm. The source declares walnut burl veneer, not solid walnut.
+- Five actual Blender EEVEE renders are3840×2160; two details1600×1600. PNG hashes and native/source evidence are packaged. No AI image substitutes. Native render and web GLB lighting differ.
+- Full local Chrome suite passes all4exhibitions and all28decoded GLBs. Madison guided stops, reference dialogs and exact-SKU source→model→source paths pass. Existing drawer/door animations, cancellation, filters, contact drafts and all original collections remain intact.
+- Desktop and emulated320/360/390/430pxportrait,844×390landscape and actual CDP multi-touch tests pass. Zero runtime exceptions, console errors or HTTP failures. No WhatsApp message was sent. No physical-device FPS guarantee.
+- Evidence: verification/madison-local-browser.json; published native/source/render audits under dist/downloads/madison/ and dist/assets/collections/madison/.

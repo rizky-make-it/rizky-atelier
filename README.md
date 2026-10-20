@@ -1,6 +1,6 @@
 # RIZKY ATELIER — The Living Gallery
 
-Created by Muhammad Rizky. A single, English-language digital showroom combining Walnut Bedroom, SIENNA 2026 and HOI AN 2026 with shared navigation, catalogue, material library, contact workflow and native WebGL viewer. No iframes or external website switching are used for the primary experience. The three original projects remain unchanged.
+Created by Muhammad Rizky. A single, English-language digital showroom combining Walnut Bedroom, SIENNA 2026, HOI AN 2026 and MADISON from the MARINER Classic Furniture Catalogue 2023. Shared navigation, catalogue, material library, contact workflow and one native WebGL viewer. No iframes or external website switching are used for the primary experience. The three original projects remain unchanged.
 
 GitHub Pages: https://rizky-make-it.github.io/rizky-atelier/
 
@@ -19,16 +19,34 @@ Open http://127.0.0.1:4176/. Use HTTP, not file://. Deployable files are in dist
 
 ## Experience
 
-- Editorial homepage with three manually selected render previews and collection entrances.
-- Three collection detail views, original render lightboxes, creator-request buttons, distinct palettes and shared navigation.
-- Twenty searchable catalogue SKUs: fourteen SIENNA, six HOI AN. Collection/category/name/SKU filters combine. Original millimetre dimensions and product names retained. Walnut is an independent room study, not an invented third SKU catalogue.
-- All twenty supplied catalogue images can be enlarged without loading WebGL. Image dialogs link to the exact SKU's 3D model and creator contact. Collection and Materials views show source references separately from reconstructed Blender details; selected 3D products expose the matching catalogue image and source information.
-- One lazy-initialised Three.js viewer and WebGL context. Exhibitions and all twenty full-detail product GLBs are served locally in this site. Switching collection releases previous geometry, textures and active models; cancelled/obsolete requests cannot replace the latest selection.
+- Editorial homepage with four manually selected render previews and collection entrances.
+- Four collection detail views, original render lightboxes, creator-request buttons, distinct palettes and shared navigation.
+- Twenty-eight searchable catalogue SKUs: fourteen SIENNA, six HOI AN and eight MADISON. Collection/category/name/SKU filters combine. Original millimetre dimensions and product names retained. Walnut is an independent room study, not an invented SKU catalogue.
+- All twenty-eight supplied catalogue images can be enlarged without loading WebGL. Image dialogs link to the exact SKU's 3D model and creator contact. Collection and Materials views show source references separately from reconstructed Blender details; selected 3D products expose the matching catalogue image and source information.
+- One lazy-initialised Three.js viewer and WebGL context. Exhibitions and all twenty-eight full-detail product GLBs are served locally in this site. Switching collection releases previous geometry, textures and active models; cancelled/obsolete requests cannot replace the latest selection.
 - Walnut cutaway: orbit, pinch and curated guided viewpoints. SIENNA and HOI AN: overview, collision-aware walking, simultaneous mobile joystick/look, keyboard WASD, native zone picker and full-detail product inspection. Drawer and door pivots animate as in the source models.
 - Guided Tour follows curated camera stops, with pause/resume/previous/next/exit. Pauses for contact dialogs or loss of focus. Respect reduced-motion preferences.
 - Expanded viewer with collection and zone controls, Escape exit, focus management and preserved modal scroll lock. On phones product details sit below the camera canvas.
 - Material Explorer with actual render details/crops, not generated replacements.
 - Creator page, supplied avatar, Muhammad Rizky credit and WhatsApp drafts to 6281393177004. All visible file-request controls use the shared popup; no message sends automatically. This is contact UI, not access control for public files.
+
+## MADISON delivery
+
+Eight distinct references:50532.0 /50533.0 /50534.0 sofas,50535.0 coffee table,
+50353.0 side table,50536.0 TV furniture,50537.0 /50538.0 consoles. The open
+exhibition contains12 placements and no invented moving hardware. The native
+master, complete rebuild ZIP, five3840×2160 Blender EEVEE renders, two1600×1600
+material details and the Madison-only reference PDF are in dist/downloads/madison/.
+Individual GLBs, exhibition GLB, local web images, source metadata and checksums
+are in dist/assets/collections/madison/. Product geometry includes real displaced
+diamond tufting/buttons, piped cushions, modelled cast/chased metal details,
+marble insets and open cabinet cubbies. Four authored PBR maps are packed into
+the editable native scene. See ASSET-PROVENANCE.md for interpretation limits.
+
+The manufacturer's wood statement is walnut burl VENEER, not solid walnut.
+The TV centre panel stays fixed because its hardware is not established.
+Original source imagery is distinct from our Blender renders; the armchair
+uses its own documented lifestyle crop, with no AI enhancement or upscaling.
 
 ## Source assets
 
@@ -41,13 +59,13 @@ node scripts/prepare-assets.mjs --check-links
 
 See ASSET-PROVENANCE.md and verification/asset-copy-audit.json for byte-identical copies, original licences and reconstruction limits. Original designs/catalogue photography remain with their owners. Source-link checks are HEAD-only; no WhatsApp message is sent by tests. Walnut 8K render master and SIENNA/HOI AN 4K originals retain their original locations and resolution; web JPEGs are lighter derivatives.
 
-Catalogue references are existing 800 × 600 images, not AI-enhanced replacements or verified physical material samples. Both SIENNA and HOI AN share one bed image between Queen and King SKUs; each 3D model retains its own dimensions. The catalogue source does not independently establish upstream photography versus CGI, solid-wood construction, or exact physical finish calibration. Walnut has no supplied product-catalogue images and remains clearly render-only.
+The original twenty SIENNA/HOI AN catalogue references are800 × 600 images; MADISON retains its own native image dimensions, recorded per SKU. None are AI-enhanced replacements or verified physical material samples. Both SIENNA and HOI AN share one bed image between Queen and King SKUs; each 3D model retains its own dimensions. MADISON sofa images are distinct. Catalogue sources do not independently establish upstream photography versus CGI, solid-wood construction, or exact physical finish calibration. Walnut has no supplied product-catalogue images and remains clearly render-only.
 
 ## Publish manually on GitHub Pages
 
 Push this entire folder to a new public repository, main branch. In Settings > Pages choose GitHub Actions. The supplied .github/workflows/pages.yml runs npm test and publishes dist/. No Vercel account, framework build or API secrets required. Preserve the case and punctuation of SKU filenames. Keep ordinary git assets under 100 MiB; do not use Git LFS for GLBs served directly through Pages.
 
-For additional collections, add their source metadata/assets to the registry and update the collection selectors and accepted IDs in dist/core.js. Native scenes do not need to be rebuilt to edit website copy or navigation.
+For additional collections, add their source metadata/assets to the registry and accepted IDs in dist/core.js. Collection selectors and hero buttons derive from the registry. Native scenes do not need to be rebuilt to edit website copy or navigation.
 
 ## Verification and limitations
 

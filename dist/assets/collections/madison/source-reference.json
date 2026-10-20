@@ -1,0 +1,720 @@
+{
+  "collection": "MADISON",
+  "catalogue_brand": "MARINER",
+  "catalogue_title": "CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+  "sourceBrand": "MARINER",
+  "source_pdf": "C:\\Users\\Admin\\Downloads\\CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "source_pdf_sha256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "source_pdf_page_count": 139,
+  "source_pdf_pages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "dimensions_unit": "millimetres",
+  "dimensions_order": "width, depth, height",
+  "source_material_statement": "HIGH GLOSS WALNUT BURL VENEER, CASTED BRONZE ORNAMENTS & CALACATTA MARBLE.",
+  "provenance_note": "All images are exact original embedded catalogue images or explicitly documented rectangular crops. No AI replacement, super-resolution, background removal or subject alteration was performed.",
+  "reconstruction_caveat": "Only catalogue dimensions and visibly documented surfaces are evidenced. Hidden joinery, exact fabric weave and finish calibration, marble veining placement, rear/underside structures and opening mechanisms are unverified interpretations. These images alone do not prove the photographed or rendered status of source imagery.",
+  "rights_note": "User-supplied MARINER catalogue; original product designs and imagery remain the rights of their owners. This evidence extraction conveys no commercial reuse licence or manufacturer endorsement.",
+  "products": [
+    {
+      "sku": "50532.0",
+      "name": "Madison Three-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2750,
+        950,
+        950
+      ],
+      "weight_kg": 95,
+      "source_pdf_page": 15,
+      "fabric_codes": [
+        "241.228",
+        "241.227"
+      ],
+      "visible_details": [
+        "Three separate seat cushions",
+        "Taupe upholstery with smooth inner back",
+        "Diamond-button-tufted outer arms and back",
+        "Dark high-gloss rounded wraparound frame",
+        "Double gold front-apron inlays and low dark plinth"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "28-29",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 15,
+        "source_image_xref": 73,
+        "source_native_pixels": [
+          660,
+          356
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          660,
+          356
+        ],
+        "crop_rect_pdf_points": [
+          19.275299072265625,
+          73.11920166015625,
+          513.9208984375,
+          339.85009765625
+        ],
+        "output_pixels": [
+          660,
+          356
+        ],
+        "sha256": "b857fba13898dae5492f0fa8f94e7518a7ffda5b148a47200da471e91ecf689b",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50532.0.jpg"
+      }
+    },
+    {
+      "sku": "50533.0",
+      "name": "Madison Two-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2100,
+        950,
+        950
+      ],
+      "weight_kg": 80,
+      "source_pdf_page": 15,
+      "fabric_codes": [
+        "241.228",
+        "241.227"
+      ],
+      "visible_details": [
+        "Two separate seat cushions",
+        "Taupe upholstery with smooth inner back",
+        "Diamond-button-tufted outer arms and back",
+        "Dark high-gloss rounded wraparound frame",
+        "Double gold front-apron inlays and low dark plinth"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "28-29",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 15,
+        "source_image_xref": 74,
+        "source_native_pixels": [
+          630,
+          275
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          630,
+          275
+        ],
+        "crop_rect_pdf_points": [
+          27.804443359375,
+          487.2823486328125,
+          499.8897399902344,
+          693.221923828125
+        ],
+        "output_pixels": [
+          630,
+          275
+        ],
+        "sha256": "a0366b96bc3d629420eaf2d24f7594c609b60dbcb52b161d82173cd4a7f832d2",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50533.0.jpg"
+      }
+    },
+    {
+      "sku": "50534.0",
+      "name": "Madison Armchair",
+      "type": "Armchair",
+      "dimensions_mm": [
+        950,
+        950,
+        950
+      ],
+      "weight_kg": 51,
+      "source_pdf_page": 15,
+      "fabric_codes": [
+        "241.228",
+        "241.227"
+      ],
+      "reference_note": "Original catalogue lifestyle crop of the foreground armchair; not an isolated studio product view. Background and part of adjacent chair remain visible.",
+      "visible_details": [
+        "Single thick seat cushion",
+        "Loose striped taupe accent cushion",
+        "Deep diamond button tufting on outer arms/back",
+        "Rounded high-gloss dark burl wraparound frame",
+        "Double gold apron inlay and low plinth"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 15,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "28-29",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 15,
+        "source_image_xref": 75,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          240,
+          420,
+          797,
+          880
+        ],
+        "output_pixels": [
+          557,
+          460
+        ],
+        "crop_rect_pdf_points": [
+          774.1196399339319,
+          313.8077930294599,
+          1191.6724853515625,
+          658.6111850230351
+        ],
+        "sha256": "4ae2333c3a073e59593d4112fdde708595ec99659a618afb0a2a61e1b4c2a2dc",
+        "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+        "file": "catalogue/50534.0.jpg"
+      }
+    },
+    {
+      "sku": "50535.0",
+      "name": "Madison Round Coffee Table",
+      "type": "Coffee table",
+      "dimensions_mm": [
+        1500,
+        1500,
+        500
+      ],
+      "diameter_mm": 1500,
+      "weight_kg": 120,
+      "source_pdf_page": 17,
+      "visible_details": [
+        "Round pale Calacatta marble inset top",
+        "Glossy burl fascia between slim gold rims",
+        "Dark round lower shelf with gold edge",
+        "Tapered black legs with decorated gold collars and gold toes"
+      ],
+      "reference_note": "Catalogue gives diameter and height; the rear leg count, hidden joints and mounting details are not specified.",
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 17,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "32-33",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 17,
+        "source_image_xref": 83,
+        "source_native_pixels": [
+          619,
+          323
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          619,
+          323
+        ],
+        "crop_rect_pdf_points": [
+          667.1146240234375,
+          436.28033447265625,
+          1130.698486328125,
+          678.3184814453125
+        ],
+        "output_pixels": [
+          619,
+          323
+        ],
+        "sha256": "5adcaa86b8e54b4e12cc34048628c8907ffa798846de4c25216f821a3a8bb133",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50535.0.jpg"
+      }
+    },
+    {
+      "sku": "50353.0",
+      "name": "Madison Round Side Table",
+      "type": "Side table",
+      "dimensions_mm": [
+        500,
+        500,
+        680
+      ],
+      "diameter_mm": 500,
+      "weight_kg": 35,
+      "source_pdf_page": 17,
+      "visible_details": [
+        "Round pale Calacatta marble inset top",
+        "Glossy burl fascia and gold rims",
+        "Dark lower shelf with gold edge",
+        "Three tapered black legs with decorated gold collars and gold toes"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 17,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "32-33",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 17,
+        "source_image_xref": 85,
+        "source_native_pixels": [
+          260,
+          337
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          260,
+          337
+        ],
+        "crop_rect_pdf_points": [
+          805.677490234375,
+          84.02972412109375,
+          1000.095458984375,
+          336.49554443359375
+        ],
+        "output_pixels": [
+          260,
+          337
+        ],
+        "sha256": "c1faaf9dd0ae493d92721357d7e65fffc25a5345172bfeaa38bc85a0e872fffd",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50353.0.jpg"
+      }
+    },
+    {
+      "sku": "50536.0",
+      "name": "Madison TV Cabinet",
+      "type": "TV furniture",
+      "dimensions_mm": [
+        2200,
+        450,
+        600
+      ],
+      "weight_kg": 190,
+      "source_pdf_page": 19,
+      "visible_details": [
+        "Long rounded wrap-end cabinet",
+        "Inset pale marble top inside a raised glossy perimeter",
+        "Two open storage cubbies flanking a central burl panel",
+        "Central panel double rounded gold inlay",
+        "Double gold upper apron bands"
+      ],
+      "reference_note": "Source does not establish whether the central panel opens, its hinge, interior, handle or mechanism. Do not present invented moving parts as manufacturer-verified.",
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 19,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "36-37",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 19,
+        "source_image_xref": 93,
+        "source_native_pixels": [
+          688,
+          362
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          688,
+          362
+        ],
+        "crop_rect_pdf_points": [
+          633.774658203125,
+          136.39962768554688,
+          1149.12841796875,
+          407.8707580566406
+        ],
+        "output_pixels": [
+          688,
+          362
+        ],
+        "sha256": "12d806e977638e84c2156fb01efa41ba32f44767d5140194b2e6406edd367222",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50536.0.jpg"
+      }
+    },
+    {
+      "sku": "50537.0",
+      "name": "Madison Wide Console",
+      "type": "Console",
+      "dimensions_mm": [
+        1700,
+        450,
+        900
+      ],
+      "weight_kg": 80,
+      "source_pdf_page": 20,
+      "visible_details": [
+        "Slim rounded rectangular Calacatta marble top",
+        "Glossy burl apron with gold trim",
+        "Four long tapered black legs with cast-gold collars and gold toes",
+        "Low dark shelf with a slim gold edge"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 20,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "38-39",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 20,
+        "source_image_xref": 97,
+        "source_native_pixels": [
+          491,
+          257
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          491,
+          257
+        ],
+        "crop_rect_pdf_points": [
+          93.32544708251953,
+          477.1890563964844,
+          461.3296813964844,
+          669.2035522460938
+        ],
+        "output_pixels": [
+          491,
+          257
+        ],
+        "sha256": "b830c16468b1576ada45d4ccf14594c316432c52bdd6747322101e53dbd995a8",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50537.0.jpg"
+      }
+    },
+    {
+      "sku": "50538.0",
+      "name": "Madison Compact Console",
+      "type": "Console",
+      "dimensions_mm": [
+        1000,
+        450,
+        900
+      ],
+      "weight_kg": 70,
+      "source_pdf_page": 20,
+      "visible_details": [
+        "Slim rounded rectangular Calacatta marble top",
+        "Glossy burl apron with gold trim",
+        "Four long tapered black legs with cast-gold collars and gold toes",
+        "Low dark shelf with a slim gold edge"
+      ],
+      "collection": "MADISON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 20,
+      "imageShared": false,
+      "finish": "NO / OA (19/231)",
+      "materials": [
+        "High-gloss walnut burl veneer",
+        "Cast bronze ornaments",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "38-39",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 20,
+        "source_image_xref": 98,
+        "source_native_pixels": [
+          345,
+          256
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          345,
+          256
+        ],
+        "crop_rect_pdf_points": [
+          131.018798828125,
+          120.88568115234375,
+          389.1067810058594,
+          312.51141357421875
+        ],
+        "output_pixels": [
+          345,
+          256
+        ],
+        "sha256": "bd132a2f97c6098b9341865257c889229cd65ca8b42b5a78a0fd9345263b4857",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "file": "catalogue/50538.0.jpg"
+      }
+    }
+  ],
+  "supporting_images": [
+    {
+      "source_pdf_page": 14,
+      "source_image_xref": 70,
+      "source_native_pixels": [
+        1591,
+        940
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        940
+      ],
+      "crop_rect_pdf_points": [
+        -1.103880763053894,
+        93.5435791015625,
+        1191.6007080078125,
+        797.878173828125
+      ],
+      "output_pixels": [
+        1591,
+        940
+      ],
+      "sha256": "8dbaf87ade1bac46f16f25942c068d8cc5c273e4ddaa17259af541d5fb1978e3",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "file": "room-living.jpg"
+    },
+    {
+      "source_pdf_page": 16,
+      "source_image_xref": 78,
+      "source_native_pixels": [
+        1591,
+        935
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        935
+      ],
+      "crop_rect_pdf_points": [
+        -1.173512578010559,
+        75.34991455078125,
+        1191.6529541015625,
+        776.3531494140625
+      ],
+      "output_pixels": [
+        1591,
+        935
+      ],
+      "sha256": "2e678662009f21045f2d2c577b32276c2928dd9ffcc9ac89c1a80f205e4ebf8b",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "file": "room-overhead.jpg"
+    },
+    {
+      "source_pdf_page": 18,
+      "source_image_xref": 89,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0035556554794312,
+        -1.08367919921875,
+        1191.70849609375,
+        843.0045166015625
+      ],
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "sha256": "81898a8ca4533445a3534f8b98c5b508d9c95e23779c958f90632f9e6bb3456f",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "file": "original-tv-detail.jpg"
+    },
+    {
+      "source_pdf_page": 19,
+      "source_image_xref": 94,
+      "source_native_pixels": [
+        761,
+        420
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        761,
+        420
+      ],
+      "crop_rect_pdf_points": [
+        594.1981811523438,
+        432.2837219238281,
+        1164.658447265625,
+        747.1121826171875
+      ],
+      "output_pixels": [
+        761,
+        420
+      ],
+      "sha256": "ee9bd93db2aa1fbb6b8b55ea2115d1de835b1832a00c5e5c3514a66bafe25795",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "file": "original-tv-front.jpg"
+    },
+    {
+      "source_pdf_page": 18,
+      "source_image_xref": 89,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        1010,
+        230,
+        1295,
+        900
+      ],
+      "output_pixels": [
+        285,
+        670
+      ],
+      "crop_rect_pdf_points": [
+        756.1549435693613,
+        171.33220449010602,
+        969.8085794892422,
+        673.5871700198782
+      ],
+      "sha256": "8c9139c1f2cd6382bb71482ce5f37f9339e4935168d0d7286d965875937f22d4",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-burl-bronze.jpg"
+    },
+    {
+      "source_pdf_page": 20,
+      "source_image_xref": 99,
+      "source_native_pixels": [
+        892,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        80,
+        255,
+        660,
+        1040
+      ],
+      "output_pixels": [
+        580,
+        785
+      ],
+      "crop_rect_pdf_points": [
+        583.2777050343329,
+        190.12009176521912,
+        1017.820119267622,
+        778.5015562338684
+      ],
+      "sha256": "570b66b1e2ec8a35030f780f33842171170774b9e6f9270f4995b1cc85e65806",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-tufting.jpg"
+    },
+    {
+      "source_pdf_page": 19,
+      "source_image_xref": 92,
+      "source_native_pixels": [
+        796,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        200,
+        235,
+        520,
+        650
+      ],
+      "output_pixels": [
+        320,
+        415
+      ],
+      "crop_rect_pdf_points": [
+        148.73462418635285,
+        175.02746132127345,
+        388.4881213723715,
+        486.1387334522092
+      ],
+      "sha256": "76d36730621845b371e61d73e3e45f1f4a1ddd982dec178f9b28994790b05dd2",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-marble.jpg"
+    }
+  ]
+}

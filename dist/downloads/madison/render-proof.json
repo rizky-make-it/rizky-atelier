@@ -1,0 +1,65 @@
+{
+  "overview": {
+    "file": "overview-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b4a6d6c0f82aafa878ecbd9621991d3e8c075871c68dabe2ee3fe9db6953f272",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "salon": {
+    "file": "salon-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "4a105995b2356e3f7d3a4ba14cd74526c020b9e36c47c6aac4df27708f9113b7",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "lounge": {
+    "file": "lounge-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "40c10f125a7181c204f75478657302cb0c60c82d16e219c4898d165a8e3bd87f",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "consoles": {
+    "file": "consoles-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "e82f343f4535ff16551a73b68e68eeb82c7e2050be6dba770280b77238f93a9b",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "cabinet": {
+    "file": "cabinet-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "1c43864155a7ebd9d82d89f7f5aaf0f8843ddb455acd8acdf5a955f8092b61ac",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-burl": {
+    "file": "detail-burl.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "3a00cb45e0a855e2c567ef65818d9e23ac7154e3ddba1e4af0256373701843b4",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-tuft": {
+    "file": "detail-tuft.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "4fe17ce511d4d29881b3fc95cfca116a04ebb177c29bbefd3e92884044c3fe5c",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "madison-exhibition.blend",
+    "originalBlenderRender": true
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "sku": "50532.0",
+    "name": "Madison Three-seat Sofa",
+    "dimensions": [
+      2750,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 15,
+    "imageShared": false,
+    "imageSize": [
+      660,
+      356
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "salon",
+    "model": "assets/models/50532.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50533.0",
+    "name": "Madison Two-seat Sofa",
+    "dimensions": [
+      2100,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 15,
+    "imageShared": false,
+    "imageSize": [
+      630,
+      275
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "lounge",
+    "model": "assets/models/50533.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50534.0",
+    "name": "Madison Armchair",
+    "dimensions": [
+      950,
+      950,
+      950
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 15,
+    "imageShared": false,
+    "imageSize": [
+      557,
+      460
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "salon",
+    "model": "assets/models/50534.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50535.0",
+    "name": "Madison Round Coffee Table",
+    "dimensions": [
+      1500,
+      1500,
+      500
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 17,
+    "imageShared": false,
+    "imageSize": [
+      619,
+      323
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "salon",
+    "model": "assets/models/50535.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50353.0",
+    "name": "Madison Round Side Table",
+    "dimensions": [
+      500,
+      500,
+      680
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 17,
+    "imageShared": false,
+    "imageSize": [
+      260,
+      337
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "salon",
+    "model": "assets/models/50353.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50536.0",
+    "name": "Madison TV Cabinet",
+    "dimensions": [
+      2200,
+      450,
+      600
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 19,
+    "imageShared": false,
+    "imageSize": [
+      688,
+      362
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "salon",
+    "model": "assets/models/50536.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50537.0",
+    "name": "Madison Wide Console",
+    "dimensions": [
+      1700,
+      450,
+      900
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 20,
+    "imageShared": false,
+    "imageSize": [
+      491,
+      257
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "consoles",
+    "model": "assets/models/50537.0.glb",
+    "articulations": 0
+  },
+  {
+    "sku": "50538.0",
+    "name": "Madison Compact Console",
+    "dimensions": [
+      1000,
+      450,
+      900
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 20,
+    "imageShared": false,
+    "imageSize": [
+      345,
+      256
+    ],
+    "finish": "NO / OA (19/231)",
+    "room": "consoles",
+    "model": "assets/models/50538.0.glb",
+    "articulations": 0
+  }
+]
