@@ -1,0 +1,55 @@
+/* Catalogue sources are deliberately distinct from authored Blender renders. */
+.catalogue-photo{position:relative;display:block;width:100%;padding:0;background:#fff;color:var(--ink);text-align:left;overflow:hidden}
+.catalogue-photo img{width:100%;height:auto;aspect-ratio:4/3;object-fit:contain}
+.catalogue-photo .photo-label{position:absolute;top:12px;left:12px;padding:5px 8px;background:#f3f0e9eb;color:var(--ink);font-size:8px;line-height:1.5;font-weight:400;letter-spacing:.035em}
+.catalogue-photo .photo-enlarge{position:absolute;right:12px;bottom:12px;display:grid;place-items:center;width:36px;height:36px;background:var(--paper);font-size:21px}
+.product-card .product-inspect{display:flex;font-size:10px;margin-top:9px;min-height:44px}
+.product-card h3 a:hover{text-decoration:underline;text-underline-offset:4px}
+.catalogue-reference-section{padding-bottom:85px}
+.reference-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
+.reference-card{min-width:0}
+.reference-card>.eyebrow{font-size:8px;color:var(--muted);margin-top:18px}
+.reference-card h3{font-size:29px;margin:8px 0}
+.reference-card .reference-finish{font-size:10px;color:var(--muted);margin:0}
+.reference-card .text-link{font-size:10px;margin-top:8px}
+.catalogue-reference-section .source-note{margin-top:25px}
+.material-reference{padding-bottom:55px;border-bottom:1px solid var(--line);margin-bottom:55px}
+.material-reference .section-head h2,#material-render-heading h2{font-size:40px}
+.material-reference .section-head{align-items:start}
+.material-reference .section-head>p{max-width:330px}
+.material-reference .source-note{max-width:850px}
+.gallery-reference{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:6%;align-items:center;padding-top:65px}
+.gallery-reference>div{min-width:0}
+.gallery-reference h2{font-size:48px;margin:16px 0 20px}
+.gallery-reference .reference-explainer{font-size:12px;max-width:460px;color:var(--muted)}
+.reference-specs{margin:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:15px 0}
+.reference-specs dt{font-size:8px;letter-spacing:.13em;margin-top:10px}
+.reference-specs dd{font-size:11px;margin:4px 0 8px;overflow-wrap:anywhere}
+.gallery-reference .source-note{margin-top:20px}
+.gallery-reference .source-note,.gallery-reference .reference-explainer{color:#d0d1c6}
+.gallery-reference .reference-specs{border-color:#687365}
+#image-dialog.is-reference{width:880px}
+#image-dialog.is-reference #image-full{max-width:800px;max-height:62svh;margin:auto;background:white}
+#image-dialog>.image-dialog-footer{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:24px}
+.image-caption-copy{min-width:0;overflow-wrap:anywhere}
+#image-source-note{font-size:10px;color:#d0d1c6;line-height:1.8;margin-top:12px;max-width:620px}
+.image-actions{display:flex;flex-direction:column;gap:10px;align-items:stretch;min-width:180px}
+.image-actions .button{font-size:10px;gap:20px}
+.image-actions .text-link{color:var(--paper);font-size:11px}
+[hidden]{display:none!important}
+@media(max-width:760px){
+ .reference-grid{grid-template-columns:1fr;gap:35px}
+ .catalogue-reference-section{padding-bottom:60px}
+ .catalogue-reference-section .section-head,.material-reference .section-head{align-items:start;flex-direction:column;gap:18px}
+ .catalogue-photo .photo-label{top:9px;left:9px;font-size:8px}
+ .product-image .photo-label{top:6px;left:6px;font-size:6px;padding:4px 5px}
+ .product-image .photo-enlarge{width:29px;height:29px;right:7px;bottom:7px;font-size:18px}
+ .material-reference{padding-bottom:35px;margin-bottom:35px}
+ .material-reference .section-head h2,#material-render-heading h2{font-size:36px}
+ .gallery-reference{grid-template-columns:1fr;gap:28px;padding-top:40px}
+ .gallery-reference h2{font-size:42px}
+ #image-dialog>.image-dialog-footer{grid-template-columns:1fr;gap:18px}
+ #image-dialog.is-reference #image-full{max-height:44svh}
+ .image-actions{width:100%;min-width:0;gap:8px}
+ .image-actions .button,.image-actions .text-link{min-height:44px}
+}

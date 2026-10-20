@@ -34,3 +34,10 @@ Physical phone testing and a universal FPS guarantee are not claimed.
 See README.md for local development and manual GitHub Pages deployment.
 See VERIFICATION.md and verification/ for machine-readable evidence.
 All three original project working trees remain clean and unchanged.
+
+Catalogue-image update (20 October 2026): all twenty supplied catalogue crops
+can now be enlarged without WebGL and linked to the exact SKU's 3D model.
+Collection, Material Library and selected-product views now pair source images
+with the independently reconstructed models. Labels distinguish catalogue
+sources from Blender details; shared Queen/King images and source resolution
+are disclosed. Updated 16-test and full local browser/touch suites pass.

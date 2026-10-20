@@ -22,6 +22,7 @@ Open http://127.0.0.1:4176/. Use HTTP, not file://. Deployable files are in dist
 - Editorial homepage with three manually selected render previews and collection entrances.
 - Three collection detail views, original render lightboxes, creator-request buttons, distinct palettes and shared navigation.
 - Twenty searchable catalogue SKUs: fourteen SIENNA, six HOI AN. Collection/category/name/SKU filters combine. Original millimetre dimensions and product names retained. Walnut is an independent room study, not an invented third SKU catalogue.
+- All twenty supplied catalogue images can be enlarged without loading WebGL. Image dialogs link to the exact SKU's 3D model and creator contact. Collection and Materials views show source references separately from reconstructed Blender details; selected 3D products expose the matching catalogue image and source information.
 - One lazy-initialised Three.js viewer and WebGL context. Exhibitions and all twenty full-detail product GLBs are served locally in this site. Switching collection releases previous geometry, textures and active models; cancelled/obsolete requests cannot replace the latest selection.
 - Walnut cutaway: orbit, pinch and curated guided viewpoints. SIENNA and HOI AN: overview, collision-aware walking, simultaneous mobile joystick/look, keyboard WASD, native zone picker and full-detail product inspection. Drawer and door pivots animate as in the source models.
 - Guided Tour follows curated camera stops, with pause/resume/previous/next/exit. Pauses for contact dialogs or loss of focus. Respect reduced-motion preferences.
@@ -39,6 +40,8 @@ node scripts/prepare-assets.mjs --check-links
 ```
 
 See ASSET-PROVENANCE.md and verification/asset-copy-audit.json for byte-identical copies, original licences and reconstruction limits. Original designs/catalogue photography remain with their owners. Source-link checks are HEAD-only; no WhatsApp message is sent by tests. Walnut 8K render master and SIENNA/HOI AN 4K originals retain their original locations and resolution; web JPEGs are lighter derivatives.
+
+Catalogue references are existing 800 × 600 images, not AI-enhanced replacements or verified physical material samples. Both SIENNA and HOI AN share one bed image between Queen and King SKUs; each 3D model retains its own dimensions. The catalogue source does not independently establish upstream photography versus CGI, solid-wood construction, or exact physical finish calibration. Walnut has no supplied product-catalogue images and remains clearly render-only.
 
 ## Publish manually on GitHub Pages
 

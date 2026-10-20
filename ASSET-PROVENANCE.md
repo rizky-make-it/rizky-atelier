@@ -16,7 +16,7 @@ Original website: <https://rizky-make-it.github.io/walnut-room/>. Source reposit
 
 Source: `../sienna-house/dist/`. Original website: <https://rizky-make-it.github.io/sienna-house-2026/>. Source repository: <https://github.com/rizky-make-it/sienna-house-2026>.
 
-Fourteen catalogue SKUs, seventeen exhibition placements, thirty-two drawer / door articulation pivots. Counts are obtained from the actual exported exhibition GLB. Catalogue names and dimensions are retained from the existing product metadata. Product listing photos are crops from **SIENNA CATALOGUE 2026.pdf**, Living Ikon, supplied by the project owner; they are reference photographs, not reconstructed renders. Gallery images are smaller derivatives of actual Blender EEVEE UHD 4K renders. The Warm Brown finish, concealed surfaces, joinery and complementary exhibition styling are interpretations, not manufacturing specifications.
+Fourteen catalogue SKUs, seventeen exhibition placements, thirty-two drawer / door articulation pivots. Counts are obtained from the actual exported exhibition GLB. Catalogue names and dimensions are retained from the existing product metadata. Product listing images are crops from **SIENNA CATALOGUE 2026.pdf**, Living Ikon, supplied by the project owner; they are original catalogue references, not this website's reconstructed renders. The catalogue's original photography versus CGI is not independently verified. Gallery images are smaller derivatives of actual Blender EEVEE UHD 4K renders. The Warm Brown finish, concealed surfaces, joinery and complementary exhibition styling are interpretations, not manufacturing specifications.
 
 Ash Veneer texture: Jenelle van Heerden / Poly Haven, <https://polyhaven.com/a/ash_veneer>, CC0, stained to interpret LCV09 Warm Brown. The tallboy is labelled “2 Over 4 Drawers” in the catalogue but shows four wide drawer fronts; the existing model follows the photograph. Its four pivots are not changed to six merely to match the title. Names and dimensions remain as supplied, including the page-5 lamp table dimensions.
 
@@ -24,11 +24,15 @@ Ash Veneer texture: Jenelle van Heerden / Poly Haven, <https://polyhaven.com/a/a
 
 Source: `../hoi-an-catalogue/dist/`. Original website: <https://rizky-make-it.github.io/hoi-an-catalogue-2026/>. Source repository: <https://github.com/rizky-make-it/hoi-an-catalogue-2026>.
 
-Six catalogue SKUs, twelve exhibition placements and twenty-eight drawer pivots, verified from the actual exhibition GLB. Reference: **NEW HOI AN CATALOGUE 2026.pdf**, Living Ikon, three scanned pages, supplied by the project owner. Product photo thumbnails are original catalogue crops. Gallery JPEGs derive from four original Blender EEVEE 3840 × 2160 renders and a 1600 × 2100 weave close-up. The exhibition GLB uses the existing simplified mesh budget; individual product GLBs preserve the existing higher detail.
+Six catalogue SKUs, twelve exhibition placements and twenty-eight drawer pivots, verified from the actual exhibition GLB. Reference: **NEW HOI AN CATALOGUE 2026.pdf**, Living Ikon, three scanned pages, supplied by the project owner. Product thumbnails are original catalogue crops. Gallery JPEGs derive from four original Blender EEVEE 3840 × 2160 renders and a 1600 × 2100 weave close-up. The exhibition GLB uses the existing simplified mesh budget; individual product GLBs preserve the existing higher detail.
 
 Ash Veneer texture: Jenelle van Heerden / Poly Haven, <https://polyhaven.com/a/ash_veneer>, CC0, stained to interpret LCM127 Golden Syrup. This generic photographed ash substrate does not certify the manufacturer's timber species. Weave spacing, unseen joinery, drawer internals, freestanding mirror supports, bedding and display styling are visual interpretations. Beds have distinct catalogue widths; printed length × width × height is normalised to width × depth × height in the product metadata.
 
 ## Rights, libraries and contact
+
+### Catalogue image presentation update
+
+All twenty existing catalogue crops (800 × 600 pixels, eighteen unique images) are now available in source-labelled image dialogs, collection references, the Material Library and the selected-product 3D view. No source images, models or textures were changed or AI-enhanced. Both SIENNA bed SKUs share an identical reference image, as do both HOI AN bed SKUs; the interface discloses this while preserving each SKU's dimensions. “Original catalogue image” describes the supplied source, not independently verified upstream photography, a physical wood sample or guaranteed solid-wood construction. Colour, grain, lighting and material composition are not certified by these crops.
 
 These are independent visual reconstructions, **not official manufacturer CAD**, fabrication drawings or manufacturer-endorsed websites. Product designs and original catalogue photography remain with their respective rights holders. Confirm permission for commercial redistribution with the catalogue owner. No ownership of those references is claimed.
 

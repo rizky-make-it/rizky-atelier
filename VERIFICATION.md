@@ -29,3 +29,11 @@ The initial Linux deployment check caught Git text normalisation changing byte h
 - All three original project working trees were checked clean at handoff. Their public websites and native assets were not edited or replaced.
 
 These are Chrome desktop and emulated mobile/touch tests, not physical-device testing. High-detail models do not carry a universal FPS guarantee. Original renders remain native Blender outputs, not AI substitutes. Reconstructed furniture is not official manufacturer CAD.
+
+## Catalogue-image update — 20 October 2026
+
+- 16 unit tests pass, including all twenty image/SKU mappings, shared Queen/King image disclosure in both collections, material reference choices and escaped metadata. Existing GLB, dimensions, source-byte hashes and GitHub asset-size checks still pass.
+- The updated full local Chrome suite passes all three exhibitions and twenty GLB decodes, plus all twenty catalogue-image dialogs without eager GLB requests. Collection and Material views distinguish original catalogue images from reconstructed render details; Walnut has no invented catalogue photographs.
+- Photo → exact-SKU 3D → matching source image passes for SIENNA LV463-B61 on desktop and HOI AN LV453.B61 on emulated phone. Nested contact dialogs, focus restoration and expanded-viewer scroll lock pass without sending WhatsApp messages.
+- Image/reference layouts pass 320/360/390/430 px portrait and 844 × 390 landscape. The existing actual touch/raycast/walk/zoom/tour/drawer tests also pass. Zero runtime exceptions, console errors and HTTP failures were recorded.
+- All original images, GLBs and source projects remain unchanged. Source images are 800 × 600 catalogue crops, not verified physical material samples or AI-enhanced images. See verification/catalogue-images-local.json for the updated local browser result.
