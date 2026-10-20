@@ -1,6 +1,6 @@
 # Rizky Atelier — verification
 
-Built from the three existing read-only showcase projects on 20 October 2026. Publication and final verification are in progress; no unfinished live checks are represented as passed here.
+Built from the three existing read-only showcase projects on 20 October 2026. Full local browser and mobile suites have passed. Publication/live verification are still in progress.
 
 ## Completed checks
 
@@ -12,6 +12,8 @@ Built from the three existing read-only showcase projects on 20 October 2026. Pu
 - Mobile suite passed 320/360/390/430 px portrait layouts and 844 x 390 landscape: real CDP multi-touch joystick plus simultaneous swipe-look, release/cancel stop, pinch and button zoom, actual furniture raycast selection, full-detail inspection, product sheet below canvas, expanded collection/zone selection, current viewport height, 44 px targets, contact scroll lock and bottom navigation.
 - Twenty-seven original source/project/download URLs returned HTTP 200 in HEAD-only checks. Original website/native/render files were not changed. Tests never opened WhatsApp or sent a message.
 
-Reports and screenshots are retained under ignored .local/. Machine-readable asset provenance and source-link evidence are tracked in verification/. Final local/live browser evidence will be added after the current full suite and publication finish.
+Machine-readable local-browser.json, local-mobile.json and local-pages.json are supplied under verification/. Screenshots are retained under ignored .local/. The complete local suite recorded all three exhibitions, all twenty decoded product GLBs and real multi-touch checks, with zero runtime exceptions, console errors or HTTP failures.
+
+The initial Linux deployment check caught Git text normalisation changing byte hashes for a source scene JSON and font licence copied from Windows. The source-copy check was retained: .gitattributes now preserves every dist/assets byte unchanged across platforms, and those two assets were restaged from the unmodified originals. This is a packaging correction, not a change to the original projects or a weakening of validation.
 
 These are Chrome desktop and emulated mobile/touch tests, not physical-device testing. High-detail models do not carry a universal FPS guarantee. Original renders remain native Blender outputs, not AI substitutes. Reconstructed furniture is not official manufacturer CAD.

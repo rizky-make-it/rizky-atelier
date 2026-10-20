@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "siteUrl": "http://127.0.0.1:4176/",
+  "smoke": false,
+  "mobileOnly": true,
+  "collections": 3,
+  "catalogueProducts": 20,
+  "originalCollectionsPreserved": true,
+  "unifiedRoutes": true,
+  "filters": true,
+  "materialLibrary": true,
+  "creatorContact": true,
+  "whatsappSent": false,
+  "lazyModels": true,
+  "exhibitions": [],
+  "allModels": [],
+  "mobileViewports": [
+    320,
+    360,
+    390,
+    430
+  ],
+  "landscape": [
+    844,
+    390
+  ],
+  "realMultiTouch": true,
+  "errors": [],
+  "consoleErrors": [],
+  "httpErrors": []
+}
