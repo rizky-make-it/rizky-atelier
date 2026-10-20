@@ -5,6 +5,7 @@ let manifest,activeCollection='walnut',category='all',gallery,galleryModule,rout
 window.atelier={ready:false,get collection(){return activeCollection},get route(){return parseRoute(location.hash)},get data(){return manifest}};
 const collection=id=>manifest.collections.find(c=>c.id===id);
 const motion=()=>matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth';
+$('.skip').addEventListener('click',e=>{e.preventDefault();$('#main').focus({preventScroll:true});$('#main').scrollIntoView({block:'start',behavior:'instant'});});
 function notify(message){clearTimeout(noticeTimer);$('#notification').textContent=message;$('#notification').hidden=false;noticeTimer=setTimeout(()=>$('#notification').hidden=true,4500);}
 function closeMenu(){$('#main-nav').classList.remove('open');$('#menu-toggle').setAttribute('aria-expanded','false');$('#menu-toggle span').textContent='＋';}
 $('#menu-toggle').addEventListener('click',()=>{const open=$('#menu-toggle').getAttribute('aria-expanded')!=='true';$('#menu-toggle').setAttribute('aria-expanded',String(open));$('#main-nav').classList.toggle('open',open);$('#menu-toggle span').textContent=open?'−':'＋';});
