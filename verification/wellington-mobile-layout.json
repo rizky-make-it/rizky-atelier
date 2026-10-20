@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "siteUrl": "http://127.0.0.1:4176/",
+  "smoke": true,
+  "mobileOnly": false,
+  "collections": 6,
+  "catalogueProducts": 50,
+  "catalogueImages": 50,
+  "catalogueSourceReferences": true,
+  "photoTo3D": [],
+  "originalCollectionsPreserved": true,
+  "unifiedRoutes": true,
+  "filters": true,
+  "materialLibrary": true,
+  "creatorContact": true,
+  "whatsappSent": false,
+  "lazyModels": true,
+  "exhibitions": [],
+  "allModels": [],
+  "mobileViewports": [
+    320,
+    360,
+    390,
+    430
+  ],
+  "landscape": [
+    844,
+    390
+  ],
+  "realMultiTouch": false,
+  "errors": [],
+  "consoleErrors": [],
+  "httpErrors": []
+}
