@@ -1,0 +1,65 @@
+{
+  "overview": {
+    "file": "overview-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "0417c42f5bd8a5b854b45c9a87d4a3689a8faad4a7ebc051ca57a0c96a199dee",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "salon": {
+    "file": "salon-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "efbd39a91db104abd3aa5ec60f6c9336c7c6a5ffea450143b6f8b50a0ac74ea9",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "lounge": {
+    "file": "lounge-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "0c776a5cd4f0555474d96bbdd1d69d9fdd35535032b04366fa822f8047b03725",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "console": {
+    "file": "console-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a149ee2349cb64d47d662cd0a284a4cf8dd37151f28884c4d3c63df8a8b9e59e",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "tables": {
+    "file": "tables-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "cf25571c5f560d08af515cd22ff1cfa48e3692f6ba8f509c85667c0b0f2e5ad0",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-carving": {
+    "file": "detail-carving.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "23ba9fea5a80f9c526db6c8f32d26845579fc184b6ac700d8f99e52c95626acb",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  },
+  "detail-velvet": {
+    "file": "detail-velvet.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "de2b295132f0409d2afd422d2ee460dab7370e37c74ea6c75fe1ac2a54b1a262",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "trianon-exhibition.blend",
+    "originalBlenderRender": true
+  }
+}

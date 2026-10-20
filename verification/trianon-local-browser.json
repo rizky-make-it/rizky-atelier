@@ -1,0 +1,258 @@
+{
+  "ok": true,
+  "siteUrl": "http://127.0.0.1:4176/",
+  "smoke": false,
+  "mobileOnly": false,
+  "collections": 5,
+  "catalogueProducts": 35,
+  "catalogueImages": 35,
+  "catalogueSourceReferences": true,
+  "photoTo3D": [
+    "LV463-B61",
+    "LV453.B61",
+    "50532.0",
+    "50536.0",
+    "50472.0",
+    "50411.0"
+  ],
+  "originalCollectionsPreserved": true,
+  "unifiedRoutes": true,
+  "filters": true,
+  "materialLibrary": true,
+  "creatorContact": true,
+  "whatsappSent": false,
+  "lazyModels": true,
+  "exhibitions": [
+    "walnut",
+    "sienna",
+    "hoi-an",
+    "madison",
+    "trianon"
+  ],
+  "allModels": [
+    {
+      "sku": "LV463-B02",
+      "meshes": 7,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV463-B42",
+      "meshes": 10,
+      "root": true,
+      "parts": 2
+    },
+    {
+      "sku": "LV463-B51",
+      "meshes": 16,
+      "root": true,
+      "parts": 4
+    },
+    {
+      "sku": "LV463-B61",
+      "meshes": 25,
+      "root": true,
+      "parts": 7
+    },
+    {
+      "sku": "LV463-B71",
+      "meshes": 3,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV463-B01",
+      "meshes": 7,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV446-L02",
+      "meshes": 2,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV446-L01",
+      "meshes": 2,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV446-L11",
+      "meshes": 7,
+      "root": true,
+      "parts": 1
+    },
+    {
+      "sku": "LV446-L12",
+      "meshes": 2,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV446-L31",
+      "meshes": 11,
+      "root": true,
+      "parts": 4
+    },
+    {
+      "sku": "LV463-D01",
+      "meshes": 2,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV463-D21",
+      "meshes": 21,
+      "root": true,
+      "parts": 7
+    },
+    {
+      "sku": "LV463-L21",
+      "meshes": 6,
+      "root": true,
+      "parts": 1
+    },
+    {
+      "sku": "LV453.B01",
+      "meshes": 7,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV453.B02",
+      "meshes": 8,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "LV453.B41",
+      "meshes": 12,
+      "root": true,
+      "parts": 2
+    },
+    {
+      "sku": "LV453.B51",
+      "meshes": 22,
+      "root": true,
+      "parts": 4
+    },
+    {
+      "sku": "LV453.B61",
+      "meshes": 32,
+      "root": true,
+      "parts": 6
+    },
+    {
+      "sku": "LV453.B71",
+      "meshes": 3,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50532.0",
+      "meshes": 5,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50533.0",
+      "meshes": 5,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50534.0",
+      "meshes": 5,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50535.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50353.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50536.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50537.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50538.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50472.0",
+      "meshes": 8,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50473.0",
+      "meshes": 8,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50474.0",
+      "meshes": 8,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50476.1",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50475.1",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50411.0",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    },
+    {
+      "sku": "50412.1",
+      "meshes": 6,
+      "root": true,
+      "parts": 0
+    }
+  ],
+  "mobileViewports": [
+    320,
+    360,
+    390,
+    430
+  ],
+  "landscape": [
+    844,
+    390
+  ],
+  "realMultiTouch": true,
+  "errors": [],
+  "consoleErrors": [],
+  "httpErrors": []
+}

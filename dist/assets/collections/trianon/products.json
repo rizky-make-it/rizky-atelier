@@ -1,0 +1,163 @@
+[
+  {
+    "sku": "50472.0",
+    "name": "Trianon Three-seat Sofa",
+    "dimensions": [
+      2650,
+      880,
+      1110
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 22,
+    "imageShared": false,
+    "imageSize": [
+      665,
+      459
+    ],
+    "finish": "POE/NB / OA (425 /231)",
+    "room": "salon",
+    "model": "assets/models/50472.0.glb",
+    "articulations": 0,
+    "referenceNote": "Source pillows include a manufacturer monogram; reconstructed geometry need not reproduce that branding. Rear and underside construction are not fully evidenced."
+  },
+  {
+    "sku": "50473.0",
+    "name": "Trianon Two-seat Sofa",
+    "dimensions": [
+      2000,
+      880,
+      1110
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 22,
+    "imageShared": false,
+    "imageSize": [
+      640,
+      397
+    ],
+    "finish": "POE/NB / OA (425 /231)",
+    "room": "lounge",
+    "model": "assets/models/50473.0.glb",
+    "articulations": 0,
+    "referenceNote": "The original embedded image uses the PDF soft mask; the website derivative faithfully composites that original mask over the original white page background. Hidden centre support details are unverified."
+  },
+  {
+    "sku": "50474.0",
+    "name": "Trianon Armchair",
+    "dimensions": [
+      1230,
+      880,
+      1110
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 22,
+    "imageShared": false,
+    "imageSize": [
+      453,
+      446
+    ],
+    "finish": "POE/NB / OA (425 /231)",
+    "room": "salon",
+    "model": "assets/models/50474.0.glb",
+    "articulations": 0,
+    "referenceNote": ""
+  },
+  {
+    "sku": "50476.1",
+    "name": "Trianon Rectangular Coffee Table",
+    "dimensions": [
+      1700,
+      950,
+      470
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 23,
+    "imageShared": false,
+    "imageSize": [
+      1264,
+      1126
+    ],
+    "finish": "POE/NB (425)",
+    "room": "lounge",
+    "model": "assets/models/50476.1.glb",
+    "articulations": 0,
+    "referenceNote": "The original catalogue detail/lifestyle image accompanies both 50475.1 and 50476.1 labels. It is not an isolated SKU-labelled product view; rectangular-form attribution is inferred from visible proportions and the printed dimensions. Marble variants .0 are mentioned but not counted as additional evidenced products."
+  },
+  {
+    "sku": "50475.1",
+    "name": "Trianon Square Coffee Table",
+    "dimensions": [
+      1400,
+      1400,
+      470
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 24,
+    "imageShared": false,
+    "imageSize": [
+      605,
+      254
+    ],
+    "finish": "POE/NB (425)",
+    "room": "salon",
+    "model": "assets/models/50475.1.glb",
+    "articulations": 0,
+    "referenceNote": "This SKU appears on PDF pages23 and24 and is counted once. The image here is the isolated product view on page24. The original PDF soft mask is retained and composited onto the original white page background at native density. Calacatta marble .0 availability is a source note, not a separately modelled SKU."
+  },
+  {
+    "sku": "50411.0",
+    "name": "Trianon Console",
+    "dimensions": [
+      1310,
+      490,
+      880
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 24,
+    "imageShared": false,
+    "imageSize": [
+      842,
+      1156
+    ],
+    "finish": "POE/NB (425)",
+    "room": "console",
+    "model": "assets/models/50411.0.glb",
+    "articulations": 0,
+    "referenceNote": "The source is a close perspective product image. No drawer, hinge or movable mechanism is evidenced; the apron remains fixed in reconstruction."
+  },
+  {
+    "sku": "50412.1",
+    "name": "Trianon Square Side Table",
+    "dimensions": [
+      710,
+      710,
+      630
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 24,
+    "imageShared": false,
+    "imageSize": [
+      379,
+      318
+    ],
+    "finish": "POE/NB (425)",
+    "room": "salon",
+    "model": "assets/models/50412.1.glb",
+    "articulations": 0,
+    "referenceNote": "The original PDF soft mask is faithfully composited onto the original white page background at native pixel density. No opening mechanism is documented."
+  }
+]

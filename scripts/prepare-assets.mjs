@@ -161,14 +161,17 @@ const collections = [
 const madisonPrefix='assets/collections/madison';
 const madison=JSON.parse(await readFile(join(dist,madisonPrefix,'collection.json'),'utf8'));
 collections.push(madison);
+const trianonPrefix='assets/collections/trianon';
+collections.push(JSON.parse(await readFile(join(dist,trianonPrefix,'collection.json'),'utf8')));
+for(const p of JSON.parse(await readFile(join(dist,trianonPrefix,'products.json'),'utf8'))){products.push({...p,collection:'trianon',collectionName:'TRIANON',model:`${trianonPrefix}/models/${p.sku}.glb`,thumbnail:`${trianonPrefix}/catalogue/${p.sku}.jpg`});}
 for(const p of JSON.parse(await readFile(join(dist,madisonPrefix,'products.json'),'utf8'))){products.push({...p,collection:'madison',collectionName:'MADISON',model:`${madisonPrefix}/models/${p.sku}.glb`,thumbnail:`${madisonPrefix}/catalogue/${p.sku}.jpg`});}
 for (const c of collections) for (const f of c.files) if (f.extension === 'GITHUB') f.sourceUrl = c.sourceRepo;
-assert.equal(collections.length, 4);
-assert.equal(products.length, 28);
-assert.equal(new Set(products.map(p => p.sku)).size, 28);
-assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6, 8]);
-assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12, 12]);
-assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28, 0]);
+assert.equal(collections.length, 5);
+assert.equal(products.length, 35);
+assert.equal(new Set(products.map(p => p.sku)).size, 35);
+assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6, 8, 7]);
+assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12, 12, 10]);
+assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28, 0, 0]);
 for (const p of products) {
   assert.ok(['beds', 'bedsides', 'storage', 'tables', 'seating', 'mirrors'].includes(p.category));
   assert.equal(p.dimensions.length, 3);

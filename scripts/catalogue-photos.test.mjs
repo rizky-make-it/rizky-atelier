@@ -7,7 +7,7 @@ import {cataloguePhoto,photoButton,referenceCard,featuredReferences} from '../di
 const manifest=JSON.parse(readFileSync(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
 const products=manifest.products;
 
-test('all 28 catalogue references use existing local images and exact 3D deep links',()=>{
+test('all 35 catalogue references use existing local images and exact 3D deep links',()=>{
   for(const p of products){
     const photo=cataloguePhoto(p),html=photoButton(p);
     assert.equal(photo.image,p.thumbnail);
@@ -42,6 +42,15 @@ test('material references show bed, dresser and bedside, with no invented Walnut
   assert.deepEqual(featuredReferences(products,'walnut'),[]);
 });
 
+test('Trianon keeps seven unique references, square table shape and shared rectangular-image disclosure',()=>{
+  const pieces=products.filter(p=>p.collection==='trianon');assert.equal(pieces.length,7);assert.equal(new Set(pieces.map(p=>p.sku)).size,7);
+  for(const p of pieces){assert.equal(cataloguePhoto(p).brand,'MARINER');assert.deepEqual(cataloguePhoto(p).size,p.imageSize);}
+  assert.deepEqual(pieces.find(p=>p.sku==='50475.1').dimensions,[1400,1400,470]);
+  assert.deepEqual(pieces.find(p=>p.sku==='50476.1').dimensions,[1700,950,470]);
+  assert.match(cataloguePhoto(pieces.find(p=>p.sku==='50476.1')).caption,/shared|accompanies both|not an isolated/i);
+  assert.deepEqual(featuredReferences(products,'trianon').map(p=>p.sku),['50472.0','50475.1','50411.0']);
+  const p={...pieces[0],referenceNote:'<script>alert("test")</script>'};assert.doesNotMatch(photoButton(p),/<script>/);
+});
 test('catalogue metadata remains escaped in images, captions, requests and links',()=>{
   const p={...products[0],name:'<img src=x onerror="alert(1)">',finish:'Warm <script> & brown',sku:'A" data-x="bad'};
   for(const html of [photoButton(p),referenceCard(p)]){

@@ -1,0 +1,681 @@
+{
+  "collection": "TRIANON",
+  "catalogue_brand": "MARINER",
+  "catalogue_title": "CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+  "sourceBrand": "MARINER",
+  "source_pdf": "C:\\Users\\Admin\\Downloads\\CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "source_pdf_sha256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "source_pdf_page_count": 139,
+  "source_pdf_pages": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "dimensions_unit": "millimetres",
+  "dimensions_order": "width, depth, height",
+  "source_material_statement": "CASTED BRONZE ORNAMENTS, CARVINGS DECORATED WITH ANTIQUE GOLD LEAF, HIGH GLOSS WALNUT BURL VENEER, HIGH GLOSS BLACK PIANO LACQUER & MARBLE.",
+  "source_variant_note": "Coffee tables 50475.1 and 50476.1 are printed as Emperor marble; the catalogue notes Calacatta marble (.0) availability. Only the seven explicitly selected printed references are counted.",
+  "scope_note": "Only the TRIANON living-room section on PDF pages21-24 is in scope. The page21 contextual room image includes a round coffee table and tall vitrines not individually specified among these seven selected references. Those contextual items must not be labelled as the seven modelled SKUs. Later Trianon dining/bedroom sections are not part of this extraction.",
+  "provenance_note": "Images are exact original embedded JPEG bytes, explicitly documented native-density crops, or faithful native-density composites of original JPEGs with their original PDF soft masks over the source white page background. Raw image and original mask bytes and hashes are retained. No AI replacement, super-resolution, new subject segmentation or subject alteration was performed.",
+  "reconstruction_caveat": "Only catalogue dimensions and visibly documented surfaces are evidenced. Hidden joinery, exact fabric weave and finish calibration, marble veining placement, rear/underside structures and opening mechanisms are unverified interpretations. These images alone do not establish whether source imagery is photographed or rendered. The p23 rectangular coffee-table attribution is inferred from the shared catalogue composition and dimensions, not from a separate isolated labelled view.",
+  "rights_note": "User-supplied MARINER catalogue; original product designs and imagery remain the rights of their owners. This evidence extraction conveys no commercial reuse licence or manufacturer endorsement.",
+  "products": [
+    {
+      "sku": "50472.0",
+      "name": "Trianon Three-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2650,
+        880,
+        1110
+      ],
+      "weight_kg": 74,
+      "source_pdf_page": 22,
+      "fabric_codes": [
+        "243.064",
+        "243.065"
+      ],
+      "finish": "POE/NB / OA (425 /231)",
+      "visible_details": [
+        "Three individual sage-grey green seat cushions with piped seams",
+        "Smooth gently curved upholstered back with raised central antique-gold crest and open circular wreath",
+        "Rolled upholstered arms with prominently carved gold spiral end-scrolls",
+        "Antique-gold foliate lower rails and square floral corner blocks",
+        "Six visible or inferable tapered fluted black legs with decorated gold capitals and toes",
+        "Two matching sage accent pillows and two muted champagne-gold accent pillows"
+      ],
+      "reference_note": "Source pillows include a manufacturer monogram; reconstructed geometry need not reproduce that branding. Rear and underside construction are not fully evidenced.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 22,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Sage-grey green upholstery; fabric 243.064 / 243.065"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "42-43",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 22,
+        "source_image_xref": 105,
+        "source_native_pixels": [
+          665,
+          459
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          665,
+          459
+        ],
+        "crop_rect_pdf_points": [
+          14.051361083984375,
+          37.23248291015625,
+          512.6259155273438,
+          381.13482666015625
+        ],
+        "output_pixels": [
+          665,
+          459
+        ],
+        "source_image_file": "originals/page-022-xref-105.jpeg",
+        "source_image_sha256": "19b7cc42c50c5c2da132a075f91d9a976bd7a136f9d2175e27789af576bf665c",
+        "file": "catalogue/50472.0.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "sha256": "19b7cc42c50c5c2da132a075f91d9a976bd7a136f9d2175e27789af576bf665c"
+      }
+    },
+    {
+      "sku": "50473.0",
+      "name": "Trianon Two-seat Sofa",
+      "type": "Sofa",
+      "dimensions_mm": [
+        2000,
+        880,
+        1110
+      ],
+      "weight_kg": 65,
+      "source_pdf_page": 22,
+      "fabric_codes": [
+        "243.064",
+        "243.065"
+      ],
+      "finish": "POE/NB / OA (425 /231)",
+      "visible_details": [
+        "Two individual sage-grey green seat cushions with piped seams",
+        "Smooth curved back and ornate raised antique-gold crest with an open circular wreath",
+        "Carved gold spiral arm scrolls and narrow gold back-edge molding",
+        "Decorated gold lower front rail with central square floral block",
+        "Black tapered fluted legs with gold collars and toes",
+        "Two sage and two champagne-gold loose accent pillows"
+      ],
+      "reference_note": "The original embedded image uses the PDF soft mask; the website derivative faithfully composites that original mask over the original white page background. Hidden centre support details are unverified.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 22,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Sage-grey green upholstery; fabric 243.064 / 243.065"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "42-43",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 22,
+        "source_image_xref": 107,
+        "source_native_pixels": [
+          640,
+          397
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          640,
+          397
+        ],
+        "crop_rect_pdf_points": [
+          31.3228759765625,
+          498.9873352050781,
+          510.701904296875,
+          796.0143432617188
+        ],
+        "output_pixels": [
+          640,
+          397
+        ],
+        "source_image_file": "originals/page-022-xref-107.jpeg",
+        "source_image_sha256": "03970e8270d0f3dada82ad3337a5319ae91eed7ceb0663fc6cd63692ebe9f313",
+        "file": "catalogue/50473.0.jpg",
+        "source_soft_mask_xref": 106,
+        "source_soft_mask_file": "originals/page-022-mask-106.jpeg",
+        "source_soft_mask_sha256": "f469f9700b291e21f6993ee84c4f666f1db015620d8316bfa11386336c23b42b",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "sha256": "922f42513ddb8659052a4e9cb1e710a6a5379f9aefa1966c4e6b7bb1f10d8e2e"
+      }
+    },
+    {
+      "sku": "50474.0",
+      "name": "Trianon Armchair",
+      "type": "Armchair",
+      "dimensions_mm": [
+        1230,
+        880,
+        1110
+      ],
+      "weight_kg": 38,
+      "source_pdf_page": 22,
+      "fabric_codes": [
+        "243.064",
+        "243.065"
+      ],
+      "finish": "POE/NB / OA (425 /231)",
+      "visible_details": [
+        "One broad sage-grey green seat cushion",
+        "Raised antique-gold floral crest and open circular wreath above smooth curved upholstered back",
+        "Large rolled arms with carved spiral gold face trims",
+        "Four tapered black legs with gold capitals and toes",
+        "Single muted champagne-gold loose accent pillow",
+        "Carved gold lower front and side rails with circular and floral corner medallions"
+      ],
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 22,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Sage-grey green upholstery; fabric 243.064 / 243.065"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "42-43",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 22,
+        "source_image_xref": 109,
+        "source_native_pixels": [
+          453,
+          446
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          453,
+          446
+        ],
+        "crop_rect_pdf_points": [
+          659.0550537109375,
+          42.78179931640625,
+          998.6455688476562,
+          376.8602600097656
+        ],
+        "output_pixels": [
+          453,
+          446
+        ],
+        "source_image_file": "originals/page-022-xref-109.jpeg",
+        "source_image_sha256": "fa0448536a2cc69472abdaf14c108256a2c8e0c919e21e7096b47da00f6b2001",
+        "file": "catalogue/50474.0.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "sha256": "fa0448536a2cc69472abdaf14c108256a2c8e0c919e21e7096b47da00f6b2001"
+      }
+    },
+    {
+      "sku": "50476.1",
+      "name": "Trianon Rectangular Coffee Table",
+      "type": "Coffee table",
+      "dimensions_mm": [
+        1700,
+        950,
+        470
+      ],
+      "weight_kg": 120,
+      "source_pdf_page": 23,
+      "finish": "POE/NB (425)",
+      "marble": "Emperor marble",
+      "visible_details": [
+        "Straight-edged rectangular dark Emperor marble slab with tan and cream veining",
+        "Elaborate antique-gold foliate carved apron with central circular floral medallion",
+        "Square corner blocks carrying flower rosettes",
+        "Layered egg-and-dart and bead molding below marble edge",
+        "Four low tapered fluted black legs with gold foliate capitals and gold toes",
+        "Open lower span without shelf"
+      ],
+      "reference_note": "The original catalogue detail/lifestyle image accompanies both 50475.1 and 50476.1 labels. It is not an isolated SKU-labelled product view; rectangular-form attribution is inferred from visible proportions and the printed dimensions. Marble variants .0 are mentioned but not counted as additional evidenced products.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 23,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Emperor marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "44-45",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 23,
+        "source_image_xref": 113,
+        "source_native_pixels": [
+          1264,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          1264,
+          1126
+        ],
+        "crop_rect_pdf_points": [
+          244.05184936523438,
+          -1.20025634765625,
+          1191.759765625,
+          843.0782470703125
+        ],
+        "output_pixels": [
+          1264,
+          1126
+        ],
+        "source_image_file": "originals/page-023-xref-113.jpeg",
+        "source_image_sha256": "38b700d6250557fe3f0cfbcade38667bb9751ba54b0b3de8a10b99c9d9d66548",
+        "file": "catalogue/50476.1.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "sha256": "38b700d6250557fe3f0cfbcade38667bb9751ba54b0b3de8a10b99c9d9d66548"
+      }
+    },
+    {
+      "sku": "50475.1",
+      "name": "Trianon Square Coffee Table",
+      "type": "Coffee table",
+      "dimensions_mm": [
+        1400,
+        1400,
+        470
+      ],
+      "weight_kg": 131,
+      "source_pdf_page": 24,
+      "finish": "POE/NB (425)",
+      "marble": "Emperor marble",
+      "visible_details": [
+        "Square straight-edged dark Emperor marble top with cream and tan veining",
+        "Carved antique-gold foliate apron with central circular rosette",
+        "Flower corner blocks and slim layered molding at the upper edge",
+        "Four tapered fluted black legs with ornate gold capitals and gold toes",
+        "Open lower span without a shelf"
+      ],
+      "reference_note": "This SKU appears on PDF pages23 and24 and is counted once. The image here is the isolated product view on page24. The original PDF soft mask is retained and composited onto the original white page background at native density. Calacatta marble .0 availability is a source note, not a separately modelled SKU.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 24,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Emperor marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "46-47",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 24,
+        "source_image_xref": 120,
+        "source_native_pixels": [
+          605,
+          254
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          605,
+          254
+        ],
+        "crop_rect_pdf_points": [
+          690.61181640625,
+          492.5198974609375,
+          1143.7794189453125,
+          682.4940185546875
+        ],
+        "output_pixels": [
+          605,
+          254
+        ],
+        "source_image_file": "originals/page-024-xref-120.jpeg",
+        "source_image_sha256": "a94a543b5f12e7150591c5d816537c7ac81fdf7de24251508c293d9ba3066a70",
+        "file": "catalogue/50475.1.jpg",
+        "source_soft_mask_xref": 119,
+        "source_soft_mask_file": "originals/page-024-mask-119.jpeg",
+        "source_soft_mask_sha256": "646342d18690614f7d8fd9843c16306695258e26338e365ef053fc363e3e203a",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "sha256": "37e1a8a04e49d5caebae1cc2407e9a6e1867bd4f154dd59f1b28cdae19bcd361"
+      }
+    },
+    {
+      "sku": "50411.0",
+      "name": "Trianon Console",
+      "type": "Console",
+      "dimensions_mm": [
+        1310,
+        490,
+        880
+      ],
+      "weight_kg": 73,
+      "source_pdf_page": 24,
+      "finish": "POE/NB (425)",
+      "marble": "Calacatta marble",
+      "visible_details": [
+        "Straight rectangular white Calacatta marble slab with subtle grey veining and a stepped beveled edge",
+        "Deep antique-gold apron with scrolling foliage and a central medallion",
+        "Square flower-rosette corner blocks",
+        "Egg-and-dart molding immediately below the slab",
+        "Four long tapered fluted black legs",
+        "Large gold acanthus capitals and tall decorated gold foot sleeves",
+        "Open lower span without shelf"
+      ],
+      "reference_note": "The source is a close perspective product image. No drawer, hinge or movable mechanism is evidenced; the apron remains fixed in reconstruction.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 24,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Calacatta marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "46-47",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 24,
+        "source_image_xref": 116,
+        "source_native_pixels": [
+          842,
+          1156
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          842,
+          1156
+        ],
+        "crop_rect_pdf_points": [
+          -34.21453857421875,
+          -24.47119140625,
+          630.1131591796875,
+          866.5302734375
+        ],
+        "output_pixels": [
+          842,
+          1156
+        ],
+        "source_image_file": "originals/page-024-xref-116.jpeg",
+        "source_image_sha256": "114a538364534e525d21fe6de20e260c081aa305e953d7e74dfae59b662724f1",
+        "file": "catalogue/50411.0.jpg",
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "sha256": "114a538364534e525d21fe6de20e260c081aa305e953d7e74dfae59b662724f1"
+      }
+    },
+    {
+      "sku": "50412.1",
+      "name": "Trianon Square Side Table",
+      "type": "Side table",
+      "dimensions_mm": [
+        710,
+        710,
+        630
+      ],
+      "weight_kg": 35,
+      "source_pdf_page": 24,
+      "finish": "POE/NB (425)",
+      "marble": "Emperor marble",
+      "visible_details": [
+        "Square straight-edged dark Emperor marble slab",
+        "Carved gold foliate apron with central round floral medallion",
+        "Square floral corner blocks",
+        "Four long tapered fluted black legs with ornate gold capitals",
+        "Decorated gold foot sleeves and open lower span without shelf"
+      ],
+      "reference_note": "The original PDF soft mask is faithfully composited onto the original white page background at native pixel density. No opening mechanism is documented.",
+      "collection": "TRIANON",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 24,
+      "imageShared": false,
+      "materials": [
+        "Carvings decorated with antique gold leaf",
+        "Cast bronze ornaments",
+        "High-gloss black piano lacquer",
+        "Emperor marble"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "46-47",
+      "image_classification": "Original catalogue image, not independently verified product photography",
+      "image": {
+        "source_pdf_page": 24,
+        "source_image_xref": 118,
+        "source_native_pixels": [
+          379,
+          318
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          379,
+          318
+        ],
+        "crop_rect_pdf_points": [
+          724.251953125,
+          203.33522033691406,
+          1007.964599609375,
+          441.4963073730469
+        ],
+        "output_pixels": [
+          379,
+          318
+        ],
+        "source_image_file": "originals/page-024-xref-118.jpeg",
+        "source_image_sha256": "5219b510cdfb1a1bc3135c5cff88ca973ca9cf95da7a6e0169234134422d17e5",
+        "file": "catalogue/50412.1.jpg",
+        "source_soft_mask_xref": 117,
+        "source_soft_mask_file": "originals/page-024-mask-117.jpeg",
+        "source_soft_mask_sha256": "cced1b471ba2087df2971ff3d25f407fd56b0fed01b2b5dbdd1e13a45d4bcb64",
+        "transformation": "Original embedded JPEG and its original PDF soft mask composited on the original white page background at native pixel density; no new background removal, upscaling or subject alteration",
+        "sha256": "a2d2906c84aa581e1d89ff8198183fb8fb048d03a3a0a53a36cb01b0085e1aca"
+      }
+    }
+  ],
+  "supporting_images": [
+    {
+      "source_pdf_page": 21,
+      "source_image_xref": 102,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0530836582183838,
+        -1.0877685546875,
+        1191.6822509765625,
+        843.0748901367188
+      ],
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "source_image_file": "originals/page-021-xref-102.jpeg",
+      "source_image_sha256": "41c6ef40e159caab1d5e7db0c47c35fd9fc5c8860d9e56f6b31ad241dc818c5d",
+      "file": "room-living.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "41c6ef40e159caab1d5e7db0c47c35fd9fc5c8860d9e56f6b31ad241dc818c5d"
+    },
+    {
+      "source_pdf_page": 23,
+      "source_image_xref": 113,
+      "source_native_pixels": [
+        1264,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1264,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        244.05184936523438,
+        -1.20025634765625,
+        1191.759765625,
+        843.0782470703125
+      ],
+      "output_pixels": [
+        1264,
+        1126
+      ],
+      "source_image_file": "originals/page-023-xref-113.jpeg",
+      "source_image_sha256": "38b700d6250557fe3f0cfbcade38667bb9751ba54b0b3de8a10b99c9d9d66548",
+      "file": "original-table-detail.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "38b700d6250557fe3f0cfbcade38667bb9751ba54b0b3de8a10b99c9d9d66548"
+    },
+    {
+      "source_pdf_page": 22,
+      "source_image_xref": 108,
+      "source_native_pixels": [
+        808,
+        625
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        808,
+        625
+      ],
+      "crop_rect_pdf_points": [
+        586.06298828125,
+        374.5083312988281,
+        1191.6312255859375,
+        843.1282348632812
+      ],
+      "output_pixels": [
+        808,
+        625
+      ],
+      "source_image_file": "originals/page-022-xref-108.jpeg",
+      "source_image_sha256": "45aa4c229768f093f2b1ea10c4fd796a08622c9889f0c033874e25a1a547c509",
+      "file": "original-sofa-back.jpg",
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "45aa4c229768f093f2b1ea10c4fd796a08622c9889f0c033874e25a1a547c509"
+    },
+    {
+      "source_pdf_page": 23,
+      "source_image_xref": 113,
+      "source_native_pixels": [
+        1264,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        260,
+        560,
+        1190,
+        970
+      ],
+      "crop_rect_pdf_points": [
+        438.99176884904693,
+        418.68958549431756,
+        1136.2768654642227,
+        726.1089339857626
+      ],
+      "output_pixels": [
+        930,
+        410
+      ],
+      "sha256": "ff94e017f8806c322658425077da9cf1034eb6f6c30ec2061c39989d1b31b1fe",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-carved-apron.jpg"
+    },
+    {
+      "source_pdf_page": 22,
+      "source_image_xref": 105,
+      "source_native_pixels": [
+        665,
+        459
+      ],
+      "crop_rect_native_pixels": [
+        225,
+        110,
+        425,
+        205
+      ],
+      "crop_rect_pdf_points": [
+        182.74199980542176,
+        119.64916659752008,
+        332.6892342244772,
+        190.8272116002434
+      ],
+      "output_pixels": [
+        200,
+        95
+      ],
+      "sha256": "c3eecb55edec7662c9fb87d57f37c3e7a71f14916420d575e0e588b8c9e50289",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-crest.jpg"
+    },
+    {
+      "source_pdf_page": 24,
+      "source_image_xref": 116,
+      "source_native_pixels": [
+        842,
+        1156
+      ],
+      "crop_rect_native_pixels": [
+        80,
+        220,
+        805,
+        510
+      ],
+      "crop_rect_pdf_points": [
+        28.904482590047877,
+        145.09656141868513,
+        600.9206118912142,
+        368.61769014246323
+      ],
+      "output_pixels": [
+        725,
+        290
+      ],
+      "sha256": "91dad08c02832453676974cf706b54f163074110a7edfb19863ccde177442deb",
+      "transformation": "Rectangular crop of original embedded catalogue image at native pixel density; no upscaling or subject alteration",
+      "file": "details/original-console-gilding.jpg"
+    }
+  ]
+}

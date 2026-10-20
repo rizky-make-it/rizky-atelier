@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './core.js?v=madison-1';
+import {escapeHtml as esc} from './core.js?v=trianon-1';
 
 // Supplied catalogue crops are separate from this website's render details.
 // Upstream photography/CGI and calibrated physical samples are not verified.
@@ -8,11 +8,11 @@ export function cataloguePhoto(product) {
   const sharedBed=product.category==='beds'&&product.imageShared!==false;
   return {
     image:product.thumbnail,
-    caption:`${product.collectionName} / ${product.name} / ${product.sku} — Original catalogue image. Source: ${source}, ${brand}.${sharedBed?' The catalogue shares one bed image between Queen and King sizes.':''}${product.sku==='50534.0'?' This is a lifestyle-image crop of the armchair.':''}`,
+    caption:`${product.collectionName} / ${product.name} / ${product.sku} — Original catalogue image. Source: ${source}, ${brand}.${sharedBed?' The catalogue shares one bed image between Queen and King sizes.':''}${product.sku==='50534.0'?' This is a lifestyle-image crop of the armchair.':''}${product.referenceNote?' '+product.referenceNote:''}`,
     request:`a conversation about ${product.collectionName} ${product.name} (${product.sku}), its catalogue reference and reconstructed 3D model`,
     inspect:`#/gallery/${product.collection}?product=${encodeURIComponent(product.sku)}`,
     source,brand,size:product.imageSize||[800,600],
-    note:sharedBed?'The catalogue uses one image for Queen and King beds. The dimensions and 3D model follow the selected SKU.':'The supplied catalogue crop is shown at its available resolution, without AI enhancement.',
+    note:product.referenceNote|| (sharedBed?'The catalogue uses one image for Queen and King beds. The dimensions and 3D model follow the selected SKU.':'The supplied catalogue crop is shown at its available resolution, without AI enhancement.'),
   };
 }
 
@@ -28,6 +28,7 @@ export function referenceCard(product) {
 
 export function featuredReferences(products,collectionId) {
   const matching=products.filter(p=>p.collection===collectionId);
+  if(collectionId==='trianon')return ['50472.0','50475.1','50411.0'].map(sku=>matching.find(p=>p.sku===sku)).filter(Boolean);
   // Different product types provide context without pretending a thumbnail
   // is an independently photographed macro material sample.
   return (collectionId==='madison'?['seating','tables','storage']:['beds','storage','bedsides']).map(category=>matching.find(p=>p.category===category&&(category!=='storage'||/dresser/i.test(p.name)))||matching.find(p=>p.category===category)).filter(Boolean);

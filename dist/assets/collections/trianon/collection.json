@@ -1,0 +1,125 @@
+{
+  "id": "trianon",
+  "name": "TRIANON",
+  "number": "05",
+  "referenceYear": 2023,
+  "kind": "Catalogue collection",
+  "title": "A gilded frame for quiet conversation.",
+  "tagline": "Sage velvet. Antique gold. Emperor marble.",
+  "description": "Seven MARINER living-room references become a wall-free exhibition. Sage velvet seating, open wreath crests and scrolling gilded arms meet Emperor marble tables and a Calacatta console. Modelled foliate relief, fluted piano-black legs and tailored cushions interpret the supplied classic catalogue. Hidden construction and precise finish calibration remain visual interpretations.",
+  "finish": "POE/NB / OA (425/231)",
+  "hero": "assets/collections/trianon/salon.jpg",
+  "exhibition": "assets/collections/trianon/trianon-exhibition.glb",
+  "scene": "assets/collections/trianon/scene.json",
+  "placementCount": 10,
+  "movingParts": 0,
+  "sourceSite": "https://rizky-make-it.github.io/rizky-atelier/#/collections/trianon",
+  "sourceRepo": "https://github.com/rizky-make-it/rizky-atelier",
+  "productCount": 7,
+  "palette": [
+    "#56695d",
+    "#b18b41",
+    "#4a3024",
+    "#eee5d4"
+  ],
+  "renders": [
+    {
+      "image": "assets/collections/trianon/overview.jpg",
+      "title": "The open Trianon gallery",
+      "caption": "Actual Blender exhibition render, 3840 \u00d7 2160. No walls or roof.",
+      "request": "the original TRIANON Blender render: The open Trianon gallery",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/overview-4k.png"
+    },
+    {
+      "image": "assets/collections/trianon/salon.jpg",
+      "title": "The sage salon",
+      "caption": "Three-seat sofa, scrolling armchairs and square Emperor marble coffee table. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original TRIANON Blender render: The sage salon",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/salon-4k.png"
+    },
+    {
+      "image": "assets/collections/trianon/lounge.jpg",
+      "title": "A closer conversation",
+      "caption": "Two-seat sofa, rectangular coffee table and matching side table. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original TRIANON Blender render: A closer conversation",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/lounge-4k.png"
+    },
+    {
+      "image": "assets/collections/trianon/console.jpg",
+      "title": "A sculpted silhouette",
+      "caption": "Calacatta console, carved frieze and fluted piano-black legs. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original TRIANON Blender render: A sculpted silhouette",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/console-4k.png"
+    },
+    {
+      "image": "assets/collections/trianon/tables.jpg",
+      "title": "Emperor & antique gold",
+      "caption": "Unobstructed square coffee-table study. Actual Blender render: 3840 \u00d7 2160.",
+      "request": "the original TRIANON Blender render: Emperor & antique gold",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/tables-4k.png"
+    },
+    {
+      "image": "assets/collections/trianon/detail-carving.jpg",
+      "title": "Carved, cast & gilded",
+      "caption": "Actual geometric acanthus, rosettes and capitals. Blender detail render, 1600 \u00d7 1600.",
+      "request": "the original TRIANON Blender render: Carved, cast & gilded",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/detail-carving.png"
+    },
+    {
+      "image": "assets/collections/trianon/detail-velvet.jpg",
+      "title": "Softness within the scroll",
+      "caption": "Modelled velvet fullness, piping and gilded scroll arm. Blender detail render, 1600 \u00d7 1600.",
+      "request": "the original TRIANON Blender render: Softness within the scroll",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/detail-velvet.png"
+    }
+  ],
+  "materials": [
+    {
+      "image": "assets/collections/trianon/detail-carving.jpg",
+      "title": "Antique-gold relief",
+      "description": "Physical foliate geometry and chased metal surfaces interpret the catalogue carvings and cast bronze. A native Blender render, not a calibrated physical sample."
+    },
+    {
+      "image": "assets/collections/trianon/detail-velvet.jpg",
+      "title": "Sage velvet & scrolls",
+      "description": "Sculpted upholstery, cushion piping and authored woven normals inside gilded arms. A native Blender render."
+    }
+  ],
+  "files": [
+    {
+      "title": "Native Trianon exhibition",
+      "extension": ".BLEND",
+      "description": "Seven SKUs, ten placements, packed PBR maps and seven cameras.",
+      "request": "the TRIANON editable Blender exhibition master (.blend)",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/trianon-exhibition.blend"
+    },
+    {
+      "title": "Exhibition & individual models",
+      "extension": ".GLB",
+      "description": "Seven full-detail inspectable products and an optimised open gallery.",
+      "request": "the complete TRIANON exhibition GLB and seven individual product GLBs",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/assets/collections/trianon/trianon-exhibition.glb"
+    },
+    {
+      "title": "Complete rebuild project",
+      "extension": ".ZIP",
+      "description": "Editable scene, geometry scripts, textures, reference evidence and native audit.",
+      "request": "the complete TRIANON Blender project, textures and rebuild sources",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/trianon-project.zip"
+    },
+    {
+      "title": "Trianon living-room references",
+      "extension": ".PDF",
+      "description": "Four supplied MARINER reference spreads; PDF pages 21\u201324.",
+      "request": "the original TRIANON living-room catalogue reference pages",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/TRIANON-reference-pages.pdf"
+    },
+    {
+      "title": "Original 4K renders",
+      "extension": "4K PNG",
+      "description": "Five genuine 4K Blender renders and two 1600-pixel details.",
+      "request": "all TRIANON original 4K Blender renders and detail images",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/trianon/render-proof.json"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "collection": "TRIANON",
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "files": [
+    {
+      "destination": "downloads/trianon/overview-4k.png",
+      "bytes": 6491442,
+      "sha256": "0417c42f5bd8a5b854b45c9a87d4a3689a8faad4a7ebc051ca57a0c96a199dee"
+    },
+    {
+      "destination": "downloads/trianon/salon-4k.png",
+      "bytes": 7574237,
+      "sha256": "efbd39a91db104abd3aa5ec60f6c9336c7c6a5ffea450143b6f8b50a0ac74ea9"
+    },
+    {
+      "destination": "downloads/trianon/lounge-4k.png",
+      "bytes": 8413706,
+      "sha256": "0c776a5cd4f0555474d96bbdd1d69d9fdd35535032b04366fa822f8047b03725"
+    },
+    {
+      "destination": "downloads/trianon/console-4k.png",
+      "bytes": 6789690,
+      "sha256": "a149ee2349cb64d47d662cd0a284a4cf8dd37151f28884c4d3c63df8a8b9e59e"
+    },
+    {
+      "destination": "downloads/trianon/tables-4k.png",
+      "bytes": 7848494,
+      "sha256": "cf25571c5f560d08af515cd22ff1cfa48e3692f6ba8f509c85667c0b0f2e5ad0"
+    },
+    {
+      "destination": "downloads/trianon/detail-carving.png",
+      "bytes": 2510822,
+      "sha256": "23ba9fea5a80f9c526db6c8f32d26845579fc184b6ac700d8f99e52c95626acb"
+    },
+    {
+      "destination": "downloads/trianon/detail-velvet.png",
+      "bytes": 2433595,
+      "sha256": "de2b295132f0409d2afd422d2ee460dab7370e37c74ea6c75fe1ac2a54b1a262"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50472.0.jpg",
+      "bytes": 31135,
+      "sha256": "19b7cc42c50c5c2da132a075f91d9a976bd7a136f9d2175e27789af576bf665c"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50473.0.jpg",
+      "bytes": 50878,
+      "sha256": "922f42513ddb8659052a4e9cb1e710a6a5379f9aefa1966c4e6b7bb1f10d8e2e"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50474.0.jpg",
+      "bytes": 19931,
+      "sha256": "fa0448536a2cc69472abdaf14c108256a2c8e0c919e21e7096b47da00f6b2001"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50476.1.jpg",
+      "bytes": 159702,
+      "sha256": "38b700d6250557fe3f0cfbcade38667bb9751ba54b0b3de8a10b99c9d9d66548"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50475.1.jpg",
+      "bytes": 37107,
+      "sha256": "37e1a8a04e49d5caebae1cc2407e9a6e1867bd4f154dd59f1b28cdae19bcd361"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50411.0.jpg",
+      "bytes": 77433,
+      "sha256": "114a538364534e525d21fe6de20e260c081aa305e953d7e74dfae59b662724f1"
+    },
+    {
+      "destination": "assets/collections/trianon/catalogue/50412.1.jpg",
+      "bytes": 35191,
+      "sha256": "a2d2906c84aa581e1d89ff8198183fb8fb048d03a3a0a53a36cb01b0085e1aca"
+    },
+    {
+      "destination": "downloads/trianon/trianon-exhibition.blend",
+      "bytes": 23517680,
+      "sha256": "55306d9cef45d70f9075a775ea1631c4492c000b31f508eb6499b7763f0e2110"
+    },
+    {
+      "destination": "downloads/trianon/native-audit.json",
+      "bytes": 3368,
+      "sha256": "ccd62d5e3b36fd58d26d43ad593c66a6a102e341bdb2c27b6ffcb38696b3d280"
+    },
+    {
+      "destination": "assets/collections/trianon/source-reference.json",
+      "bytes": 26094,
+      "sha256": "661f943c1a2ad49b751cc5b928d95eb680d2ac9bb23f260f3a8bfa345cfcd944"
+    }
+  ],
+  "renderProof": {
+    "overview": {
+      "file": "overview-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "0417c42f5bd8a5b854b45c9a87d4a3689a8faad4a7ebc051ca57a0c96a199dee",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "salon": {
+      "file": "salon-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "efbd39a91db104abd3aa5ec60f6c9336c7c6a5ffea450143b6f8b50a0ac74ea9",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "lounge": {
+      "file": "lounge-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "0c776a5cd4f0555474d96bbdd1d69d9fdd35535032b04366fa822f8047b03725",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "console": {
+      "file": "console-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a149ee2349cb64d47d662cd0a284a4cf8dd37151f28884c4d3c63df8a8b9e59e",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "tables": {
+      "file": "tables-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "cf25571c5f560d08af515cd22ff1cfa48e3692f6ba8f509c85667c0b0f2e5ad0",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-carving": {
+      "file": "detail-carving.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "23ba9fea5a80f9c526db6c8f32d26845579fc184b6ac700d8f99e52c95626acb",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    },
+    "detail-velvet": {
+      "file": "detail-velvet.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "de2b295132f0409d2afd422d2ee460dab7370e37c74ea6c75fe1ac2a54b1a262",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "trianon-exhibition.blend",
+      "originalBlenderRender": true
+    }
+  }
+}

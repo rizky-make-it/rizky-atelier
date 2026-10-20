@@ -51,3 +51,16 @@ now contains28pieces.18unit/static tests and the full local browser/touch
 suite pass all4exhibitions and28actual GLB decodes. All3previous project
 working trees and native files remain unchanged. All visible file requests
 continue to open Muhammad Rizky's WhatsApp draft without sending it.
+
+TRIANON living-room addition (21 October 2026): next catalogue section,
+PDF pages 21–24, seven unique references, is now the fifth collection.
+Thirty-five products share the existing English website, source-image
+dialogs, material views and mobile-aware 3D viewer. The new native master
+contains ten wall-free placements, seven cameras and five packed authored
+maps. Seven individual GLBs, an exhibition LOD, five genuine 4K renders,
+two square details, catalogue reference evidence and a complete rebuild ZIP
+are packaged. Twenty unit tests and the full local browser/touch suite pass
+all five exhibitions and 35 actual GLB decodes with zero recorded errors.
+Original project assets remain unchanged. The rectangular coffee table's
+shared reference image and all hidden-construction interpretations are
+explicitly disclosed. GitHub Pages publication follows the existing workflow.

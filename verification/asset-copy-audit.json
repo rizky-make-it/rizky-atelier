@@ -25,6 +25,12 @@
       "products": 8,
       "placements": 12,
       "movingParts": 0
+    },
+    {
+      "id": "trianon",
+      "products": 7,
+      "placements": 10,
+      "movingParts": 0
     }
   ],
   "files": [
