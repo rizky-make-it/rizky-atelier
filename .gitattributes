@@ -1,4 +1,4 @@
 * text=auto
 # Preserve source-copy hashes across Windows and Linux checkouts.
-dist/assets/** -text
-dist/downloads/madison/** -text
+dist/assets/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+dist/downloads/madison/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
