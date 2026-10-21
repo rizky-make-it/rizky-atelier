@@ -18,7 +18,7 @@ try{
  await send('Page.enable');await send('Runtime.enable');await send('Network.enable');await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});await send('Page.navigate',{url:siteUrl});await until(`window.atelier?.ready&&document.querySelector('#hero-image').naturalWidth>0`);await evaluate('document.fonts.ready.then(()=>true)');await pause(200);
 
  if(process.argv.includes('--nantes-regression')){
-  await navigate('/gallery/nantes?load=1');await until(`atelier.gallery.ready&&!atelier.gallery.loading&&atelier.gallery.collection==='nantes'`,180);
+  await navigate('/gallery/nantes?load=1');await until(`atelier.gallery?.ready&&!atelier.gallery.loading&&atelier.gallery.collection==='nantes'`,180);
   assert.equal(await evaluate('atelier.gallery.mode'),'walk');assert.equal(await evaluate('atelier.gallery.interiorShell.every(o=>o.visible)'),true);assert.equal(await evaluate(`document.querySelector('#orbit-mode').textContent`),'Cutaway');
   await evaluate(`atelier.gallery.inspect('50381.0')`);await until(`atelier.gallery.mode==='product'&&!atelier.gallery.loading`,120);assert.equal(await evaluate(`document.querySelector('#back-house').textContent`),'← Interior');
   await evaluate(`(async()=>{const job=atelier.gallery.inspect('50375.0');await atelier.gallery.start();await job;})()`);assert.equal(await evaluate('atelier.gallery.mode'),'walk');assert.equal(await evaluate('atelier.gallery.room'),'living');assert.equal(await evaluate('atelier.gallery.loading'),false);assert.equal(await evaluate('atelier.gallery.interiorShell.every(o=>o.visible)'),true);
