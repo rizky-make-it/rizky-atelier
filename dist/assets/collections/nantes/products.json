@@ -1,0 +1,508 @@
+[
+  {
+    "sku": "50375.0",
+    "name": "Nantes Three-seat Sofa",
+    "dimensions": [
+      2500,
+      920,
+      780
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 34,
+    "imageShared": true,
+    "imageSize": [
+      805,
+      557
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50375.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original three-seat front view also serves as the explicitly disclosed shared family reference for separately dimensioned two-seat50376.0. Separate original rear view supports the continuous curved burl-veneered outer shell. No isolated two-seat photo is printed."
+  },
+  {
+    "sku": "50376.0",
+    "name": "Nantes Two-seat Sofa",
+    "dimensions": [
+      1800,
+      920,
+      780
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 34,
+    "imageShared": true,
+    "imageSize": [
+      805,
+      557
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50376.0.glb",
+    "articulations": 0,
+    "referenceNote": "SHARED FAMILY IMAGE: source prints SKU/dimensions for the two-seat variant but provides no isolated two-seat front photo. The unaltered original three-seat50375.0 image is shared as a family reference, not represented as a true two-seat photograph. Width and pillow arrangement in reconstruction are dimension-led interpretations."
+  },
+  {
+    "sku": "50377.0",
+    "name": "Nantes Lounge Armchair",
+    "dimensions": [
+      1090,
+      920,
+      780
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 34,
+    "imageShared": false,
+    "imageSize": [
+      348,
+      306
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50377.0.glb",
+    "articulations": 0,
+    "referenceNote": "Separate original rear photograph confirms curved oak-burl shell and fine inlaid panel perimeter. Upholstered tub chair is distinct from the dining armchair50345.0."
+  },
+  {
+    "sku": "50378.0",
+    "name": "Nantes Square Coffee Table",
+    "dimensions": [
+      1300,
+      1300,
+      470
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 35,
+    "imageShared": false,
+    "imageSize": [
+      427,
+      202
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50378.0.glb",
+    "articulations": 0,
+    "referenceNote": "Glass inset is visible in the source; lower shelf is solid wood, not an open stretcher assembly. Tabletop furnishings are styling only."
+  },
+  {
+    "sku": "50379.0",
+    "name": "Nantes Square Side Table",
+    "dimensions": [
+      700,
+      700,
+      650
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 35,
+    "imageShared": false,
+    "imageSize": [
+      227,
+      199
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50379.0.glb",
+    "articulations": 0,
+    "referenceNote": "Separate lifestyle close-up page35 supplies richer ornament/wood/shelf evidence than the small original isolated image. Original isolated image is227x199pixels; it is not upscaled."
+  },
+  {
+    "sku": "50380.0",
+    "name": "Nantes TV Cabinet",
+    "dimensions": [
+      2190,
+      480,
+      760
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 35,
+    "imageShared": false,
+    "imageSize": [
+      496,
+      357
+    ],
+    "finish": "NAN. / OF (544/ 55)",
+    "room": "living",
+    "model": "assets/models/50380.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original product composition includes television, books and equipment as styling, not additional catalogue SKUs. No opening or electronics mechanism is verified."
+  },
+  {
+    "sku": "50339.0",
+    "name": "Nantes Rectangular Dining Table",
+    "dimensions": [
+      2500,
+      1300,
+      760
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 99,
+    "imageShared": false,
+    "imageSize": [
+      633,
+      240
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50339.0.glb",
+    "articulations": 0,
+    "referenceNote": "Dining lifestyle scene and close-up corroborate the two-pedestal construction. Any under-top joinery is interpretative."
+  },
+  {
+    "sku": "50340.0",
+    "name": "Nantes Round Dining Table with Lazy Susan",
+    "dimensions": [
+      1600,
+      1600,
+      810
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 99,
+    "imageShared": false,
+    "imageSize": [
+      456,
+      273
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50340.0.glb",
+    "articulations": 0,
+    "referenceNote": "Catalogue explicitly states With Lazy Susan but does not dimension its diameter, bearing, rotation speed or exact construction; any separated rotating centre is interpretative."
+  },
+  {
+    "sku": "50343.0",
+    "name": "Nantes Glazed Display Cabinet",
+    "dimensions": [
+      1590,
+      500,
+      2180
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 100,
+    "imageShared": false,
+    "imageSize": [
+      565,
+      840
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50343.0.glb",
+    "articulations": 0,
+    "referenceNote": "Native-density rectangular crop of original lifestyle image; surrounding wall/floor/reflections retained. Wine glasses and tableware are styling. Reflections and overlapping edges make the exact interior glass-shelf count ambiguous; the printed specification does not state that count. Interior shelving, hinges, opening motion and lighting systems are not manufacturer-verified."
+  },
+  {
+    "sku": "50344.0",
+    "name": "Nantes Dining Side Chair",
+    "dimensions": [
+      550,
+      580,
+      970
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 100,
+    "imageShared": false,
+    "imageSize": [
+      319,
+      469
+    ],
+    "finish": "NAN. (544)",
+    "room": "dining",
+    "model": "assets/models/50344.0.glb",
+    "articulations": 0,
+    "referenceNote": ""
+  },
+  {
+    "sku": "50345.0",
+    "name": "Nantes Dining Armchair",
+    "dimensions": [
+      630,
+      580,
+      970
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 100,
+    "imageShared": false,
+    "imageSize": [
+      329,
+      488
+    ],
+    "finish": "NAN. (544)",
+    "room": "dining",
+    "model": "assets/models/50345.0.glb",
+    "articulations": 0,
+    "referenceNote": "This open-frame dining chair has arms; it is not the upholstered tub-style living armchair50377.0."
+  },
+  {
+    "sku": "50342.0",
+    "name": "Nantes Landscape Mirror",
+    "dimensions": [
+      2100,
+      60,
+      1060
+    ],
+    "category": "mirrors",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 101,
+    "imageShared": false,
+    "imageSize": [
+      370,
+      221
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50342.0.glb",
+    "articulations": 0,
+    "referenceNote": "This is the wide landscape mirror, not portrait50348.0. Exact mounting hardware and optical finish are not specified."
+  },
+  {
+    "sku": "50341.0",
+    "name": "Nantes Wide Sideboard",
+    "dimensions": [
+      2390,
+      520,
+      990
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 101,
+    "imageShared": false,
+    "imageSize": [
+      483,
+      251
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50341.0.glb",
+    "articulations": 0,
+    "referenceNote": "Front door seams and handles are visible; internal shelving, hinge type and opening range are not evidenced."
+  },
+  {
+    "sku": "50361.0",
+    "name": "Nantes Commode",
+    "dimensions": [
+      1640,
+      530,
+      960
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 123,
+    "imageShared": false,
+    "imageSize": [
+      547,
+      356
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50361.0.glb",
+    "articulations": 0,
+    "referenceNote": "Same50361.0 appears in dining PDF101 and bedroom PDF123; counted once. Original bedroom image chosen; dining original retained as additional evidence. It is a two-door commode, not a drawer chest."
+  },
+  {
+    "sku": "50348.0",
+    "name": "Nantes Portrait Mirror",
+    "dimensions": [
+      940,
+      60,
+      1040
+    ],
+    "category": "mirrors",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 124,
+    "imageShared": false,
+    "imageSize": [
+      300,
+      375
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50348.0.glb",
+    "articulations": 0,
+    "referenceNote": "Same50348.0 appears over the dining console on PDF101 and bedroom dressing table on PDF124; counted once. Native-density original lifestyle crop retains actual reflections and small objects; mirror is not a fabricated isolated photograph. Original PDF soft mask is preserved."
+  },
+  {
+    "sku": "50347.0",
+    "name": "Nantes Console",
+    "dimensions": [
+      1690,
+      460,
+      910
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 101,
+    "imageShared": false,
+    "imageSize": [
+      560,
+      370
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "dining",
+    "model": "assets/models/50347.0.glb",
+    "articulations": 0,
+    "referenceNote": "Native-density lifestyle crop retains lamp, wall/floor and styling. The original embedded image is horizontally mirrored in the source PDF. No drawer or hidden mechanism is evidenced."
+  },
+  {
+    "sku": "50381.0",
+    "name": "Nantes Tufted Bed",
+    "dimensions": [
+      2180,
+      2180,
+      1600
+    ],
+    "category": "beds",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 123,
+    "imageShared": false,
+    "imageSize": [
+      771,
+      545
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "bedroom",
+    "model": "assets/models/50381.0.glb",
+    "articulations": 0,
+    "referenceNote": "Printed overall width/depth are both218cm; do not infer mattress standard from the image. Bedding is styling. Catalogue image includes a printed decorative M pillow, not a separate product; reconstructed styling can omit this mark."
+  },
+  {
+    "sku": "50382.0",
+    "name": "Nantes Three-drawer Nightstand",
+    "dimensions": [
+      780,
+      450,
+      790
+    ],
+    "category": "bedsides",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 123,
+    "imageShared": false,
+    "imageSize": [
+      378,
+      319
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "bedroom",
+    "model": "assets/models/50382.0.glb",
+    "articulations": 0,
+    "referenceNote": "Three drawer count is visible in both product and lifestyle views. Drawer internals, rail mechanics and opening travel are not manufacturer-verified."
+  },
+  {
+    "sku": "50384.0",
+    "name": "Nantes Upholstered Bedroom Bench",
+    "dimensions": [
+      1520,
+      540,
+      520
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 123,
+    "imageShared": false,
+    "imageSize": [
+      487,
+      232
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "bedroom",
+    "model": "assets/models/50384.0.glb",
+    "articulations": 0,
+    "referenceNote": "Bench is upholstered, not a burl top. Lifestyle throw blanket is styling only."
+  },
+  {
+    "sku": "50383.0",
+    "name": "Nantes Dressing Table",
+    "dimensions": [
+      2100,
+      480,
+      800
+    ],
+    "category": "tables",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 124,
+    "imageShared": false,
+    "imageSize": [
+      720,
+      325
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "bedroom",
+    "model": "assets/models/50383.0.glb",
+    "articulations": 0,
+    "referenceNote": "Native-density crop of original lifestyle image. Stool partly overlaps centre recess and lower front and remains visible. Front seams/pulls guide reconstruction; hidden storage, drawer depth and mechanisms are unverified."
+  },
+  {
+    "sku": "50385.0",
+    "name": "Nantes Upholstered Stool",
+    "dimensions": [
+      540,
+      540,
+      430
+    ],
+    "category": "seating",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 124,
+    "imageShared": false,
+    "imageSize": [
+      265,
+      215
+    ],
+    "finish": "NAN (544)",
+    "room": "bedroom",
+    "model": "assets/models/50385.0.glb",
+    "articulations": 0,
+    "referenceNote": "Original lifestyle crop, not an isolated white-background product photo. Adjacent dressing-table surfaces remain behind the stool and no missing surface has been synthesized."
+  },
+  {
+    "sku": "50386.0",
+    "name": "Nantes Five-drawer Chest",
+    "dimensions": [
+      780,
+      450,
+      1340
+    ],
+    "category": "storage",
+    "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+    "sourceBrand": "MARINER",
+    "sourcePage": 124,
+    "imageShared": false,
+    "imageSize": [
+      383,
+      564
+    ],
+    "finish": "NAN. /OF (544/55)",
+    "room": "bedroom",
+    "model": "assets/models/50386.0.glb",
+    "articulations": 0,
+    "referenceNote": "Five-drawer count visible in isolated product source and bedroom lifestyle image. Drawer internals and opening mechanisms are unverified."
+  }
+]

@@ -7,7 +7,7 @@ import {cataloguePhoto,photoButton,referenceCard,featuredReferences} from '../di
 const manifest=JSON.parse(readFileSync(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
 const products=manifest.products;
 
-test('all 50 catalogue references use existing local images and exact 3D deep links',()=>{
+test('all 72 catalogue references use existing local images and exact 3D deep links',()=>{
   for(const p of products){
     const photo=cataloguePhoto(p),html=photoButton(p);
     assert.equal(photo.image,p.thumbnail);
@@ -75,4 +75,14 @@ test('Madison keeps MARINER provenance, native image sizes and distinct sofa ref
   assert.deepEqual(featuredReferences(products,'madison').map(p=>p.category),['seating','tables','storage']);
   const sofaImages=pieces.filter(p=>p.category==='seating').map(p=>createHash('sha256').update(readFileSync(new URL('../dist/'+p.thumbnail,import.meta.url))).digest('hex'));
   assert.equal(new Set(sofaImages).size,3);
+});
+
+test('Nantes combines three room sections without double-counting repeated products',()=>{
+ const pieces=products.filter(p=>p.collection==='nantes');assert.equal(pieces.length,22);assert.equal(new Set(pieces.map(p=>p.sku)).size,22);
+ for(const sku of ['50361.0','50348.0'])assert.equal(pieces.filter(p=>p.sku===sku).length,1);
+ const three=pieces.find(p=>p.sku==='50375.0'),two=pieces.find(p=>p.sku==='50376.0');
+ const hash=p=>createHash('sha256').update(readFileSync(new URL('../dist/'+p.thumbnail,import.meta.url))).digest('hex');assert.equal(hash(three),hash(two));assert.deepEqual(two.dimensions,[1800,920,780]);assert.match(cataloguePhoto(two).note,/shared|three-seat/i);assert.equal(cataloguePhoto(two).label,'Shared family reference');
+ assert.deepEqual(featuredReferences(products,'nantes').map(p=>p.sku),['50375.0','50339.0','50381.0']);
+ const bed=pieces.find(p=>p.sku==='50381.0');assert.equal(bed.imageShared,false);assert.doesNotMatch(cataloguePhoto(bed).caption,/Queen and King/);
+ for(const p of pieces){assert.equal(cataloguePhoto(p).brand,'MARINER');assert.deepEqual(cataloguePhoto(p).size,p.imageSize);}
 });

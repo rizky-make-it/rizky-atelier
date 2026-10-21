@@ -1,0 +1,588 @@
+{
+  "ok": true,
+  "scene": "C:\\Users\\Admin\\Desktop\\GPTsol6.1\\output\\nantes\\nantes-interior.blend",
+  "uniqueSKUs": 22,
+  "placements": 35,
+  "unsupportedMovingParts": 0,
+  "packedImages": 7,
+  "cameras": 10,
+  "walls": true,
+  "roof": true,
+  "layout": "furnished-interior",
+  "architecturalGroups": 11,
+  "resolution": [
+    3840,
+    2160
+  ],
+  "bounds": [
+    {
+      "sku": "50375.0",
+      "instance": "living-1",
+      "catalogue_mm": [
+        2500,
+        920,
+        780
+      ],
+      "geometry_mm": [
+        2500.0,
+        920.0,
+        780.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 118680
+    },
+    {
+      "sku": "50379.0",
+      "instance": "living-2",
+      "catalogue_mm": [
+        700,
+        700,
+        650
+      ],
+      "geometry_mm": [
+        700.0,
+        700.0,
+        651.196
+      ],
+      "max_error_mm": 1.196,
+      "triangles": 53446
+    },
+    {
+      "sku": "50379.0",
+      "instance": "living-3",
+      "catalogue_mm": [
+        700,
+        700,
+        650
+      ],
+      "geometry_mm": [
+        700.0,
+        700.0,
+        651.196
+      ],
+      "max_error_mm": 1.196,
+      "triangles": 53446
+    },
+    {
+      "sku": "50377.0",
+      "instance": "living-4",
+      "catalogue_mm": [
+        1090,
+        920,
+        780
+      ],
+      "geometry_mm": [
+        1090.0,
+        920.0,
+        780.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 83640
+    },
+    {
+      "sku": "50377.0",
+      "instance": "living-5",
+      "catalogue_mm": [
+        1090,
+        920,
+        780
+      ],
+      "geometry_mm": [
+        1090.0,
+        920.0,
+        780.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 83640
+    },
+    {
+      "sku": "50378.0",
+      "instance": "living-6",
+      "catalogue_mm": [
+        1300,
+        1300,
+        470
+      ],
+      "geometry_mm": [
+        1300.0,
+        1300.0,
+        471.291
+      ],
+      "max_error_mm": 1.291,
+      "triangles": 75578
+    },
+    {
+      "sku": "50376.0",
+      "instance": "living-7",
+      "catalogue_mm": [
+        1800,
+        920,
+        780
+      ],
+      "geometry_mm": [
+        1800.0,
+        920.0,
+        780.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 103464
+    },
+    {
+      "sku": "50380.0",
+      "instance": "living-8",
+      "catalogue_mm": [
+        2190,
+        480,
+        760
+      ],
+      "geometry_mm": [
+        2190.0,
+        480.0,
+        761.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 49958
+    },
+    {
+      "sku": "50339.0",
+      "instance": "dining-9",
+      "catalogue_mm": [
+        2500,
+        1300,
+        760
+      ],
+      "geometry_mm": [
+        2500.0,
+        1300.0,
+        761.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 75190
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-10",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-11",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-12",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-13",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-14",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-15",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50345.0",
+      "instance": "dining-16",
+      "catalogue_mm": [
+        630,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        630.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 29926
+    },
+    {
+      "sku": "50345.0",
+      "instance": "dining-17",
+      "catalogue_mm": [
+        630,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        630.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 29926
+    },
+    {
+      "sku": "50341.0",
+      "instance": "dining-18",
+      "catalogue_mm": [
+        2390,
+        520,
+        990
+      ],
+      "geometry_mm": [
+        2390.0,
+        520.0,
+        991.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 57054
+    },
+    {
+      "sku": "50342.0",
+      "instance": "dining-19",
+      "catalogue_mm": [
+        2100,
+        60,
+        1060
+      ],
+      "geometry_mm": [
+        2100.001,
+        62.033,
+        1060.0
+      ],
+      "max_error_mm": 2.033,
+      "triangles": 6888
+    },
+    {
+      "sku": "50343.0",
+      "instance": "dining-20",
+      "catalogue_mm": [
+        1590,
+        500,
+        2180
+      ],
+      "geometry_mm": [
+        1590.0,
+        500.0,
+        2181.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 74442
+    },
+    {
+      "sku": "50340.0",
+      "instance": "dining-21",
+      "catalogue_mm": [
+        1600,
+        1600,
+        810
+      ],
+      "geometry_mm": [
+        1600.0,
+        1600.0,
+        810.911
+      ],
+      "max_error_mm": 0.911,
+      "triangles": 44110
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-22",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50344.0",
+      "instance": "dining-23",
+      "catalogue_mm": [
+        550,
+        580,
+        970
+      ],
+      "geometry_mm": [
+        550.0,
+        580.0,
+        970.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 26586
+    },
+    {
+      "sku": "50347.0",
+      "instance": "dining-24",
+      "catalogue_mm": [
+        1690,
+        460,
+        910
+      ],
+      "geometry_mm": [
+        1690.0,
+        460.0,
+        911.196
+      ],
+      "max_error_mm": 1.196,
+      "triangles": 65326
+    },
+    {
+      "sku": "50348.0",
+      "instance": "dining-25",
+      "catalogue_mm": [
+        940,
+        60,
+        1040
+      ],
+      "geometry_mm": [
+        940.0,
+        62.033,
+        1040.0
+      ],
+      "max_error_mm": 2.033,
+      "triangles": 6888
+    },
+    {
+      "sku": "50361.0",
+      "instance": "dining-26",
+      "catalogue_mm": [
+        1640,
+        530,
+        960
+      ],
+      "geometry_mm": [
+        1640.0,
+        530.0,
+        961.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 51738
+    },
+    {
+      "sku": "50381.0",
+      "instance": "bedroom-27",
+      "catalogue_mm": [
+        2180,
+        2180,
+        1600
+      ],
+      "geometry_mm": [
+        2180.0,
+        2180.0,
+        1600.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 168172
+    },
+    {
+      "sku": "50382.0",
+      "instance": "bedroom-28",
+      "catalogue_mm": [
+        780,
+        450,
+        790
+      ],
+      "geometry_mm": [
+        780.0,
+        450.0,
+        791.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 33034
+    },
+    {
+      "sku": "50382.0",
+      "instance": "bedroom-29",
+      "catalogue_mm": [
+        780,
+        450,
+        790
+      ],
+      "geometry_mm": [
+        780.0,
+        450.0,
+        791.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 33034
+    },
+    {
+      "sku": "50384.0",
+      "instance": "bedroom-30",
+      "catalogue_mm": [
+        1520,
+        540,
+        520
+      ],
+      "geometry_mm": [
+        1520.0,
+        540.0,
+        520.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 30384
+    },
+    {
+      "sku": "50386.0",
+      "instance": "bedroom-31",
+      "catalogue_mm": [
+        780,
+        450,
+        1340
+      ],
+      "geometry_mm": [
+        780.0,
+        450.0,
+        1341.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 44166
+    },
+    {
+      "sku": "50383.0",
+      "instance": "bedroom-32",
+      "catalogue_mm": [
+        2100,
+        480,
+        800
+      ],
+      "geometry_mm": [
+        2100.0,
+        480.0,
+        801.196
+      ],
+      "max_error_mm": 1.196,
+      "triangles": 66200
+    },
+    {
+      "sku": "50348.0",
+      "instance": "bedroom-33",
+      "catalogue_mm": [
+        940,
+        60,
+        1040
+      ],
+      "geometry_mm": [
+        940.001,
+        62.034,
+        1040.0
+      ],
+      "max_error_mm": 2.034,
+      "triangles": 6888
+    },
+    {
+      "sku": "50385.0",
+      "instance": "bedroom-34",
+      "catalogue_mm": [
+        540,
+        540,
+        430
+      ],
+      "geometry_mm": [
+        540.0,
+        540.0,
+        430.0
+      ],
+      "max_error_mm": 0.0,
+      "triangles": 18520
+    },
+    {
+      "sku": "50361.0",
+      "instance": "bedroom-35",
+      "catalogue_mm": [
+        1640,
+        530,
+        960
+      ],
+      "geometry_mm": [
+        1640.0,
+        530.0,
+        961.101
+      ],
+      "max_error_mm": 1.101,
+      "triangles": 51738
+    }
+  ],
+  "rebuildSourceSHA256": {
+    "core.py": "7624d1761437e5380c332f1b1d4e264d1a00314d9ba1ea55d996d6cb669a1404",
+    "geometry.py": "948bd62f8615edcde1f05a697810ea392dfa0989a016ff63b4428a526ce3a5c9",
+    "sofas.py": "28bb09135527d622d875582037d5fe440333b67c4f7892e841e30ae614170510",
+    "casegoods.py": "b450e5c1a4655677f8ad8f485eb8473ce4f8309402074658566627b606c4afa3",
+    "build_scene.py": "0b6cc106d56e8b57f3089bdfae92b19ac30930da57077e8f5fd129e10242e4df"
+  },
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "materials": "Authored procedural catalogue interpretations, not certified manufacturer CAD/material samples"
+}

@@ -1,0 +1,112 @@
+{
+  "living": {
+    "file": "living-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b21625acf87abb1a60ad0fba24527f32e3cba9ececf71c0de86a588f32ccf397",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "living-wide": {
+    "file": "living-wide-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b8975563e5a3ed1f00f7dffb2ac164a7361aeaa5aff3d1753d4ce3c2ca07ca4d",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "dining": {
+    "file": "dining-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "12a3a14a66b80d3092f4c227179389ecfa745d2e05f4d4da741cad7391b13f30",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "dining-round": {
+    "file": "dining-round-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "d9f0b4d05349e5f0dea0e4ba2cf862c3eb44f042be258710bb28695376be28e7",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "bedroom": {
+    "file": "bedroom-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a342286e559798e50c53135c8d40afda515681679a2cfdab654ff9229ac378df",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "bedroom-front": {
+    "file": "bedroom-front-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "f2623943914d129f23757a970daa4386e0fae5c68f4a2cc90f605e7302406119",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "vanity": {
+    "file": "vanity-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "da9ccdb66b486831e0484cc1dd42836426e9c1153462778ba0b5a0ad2a322ae5",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "detail-burl": {
+    "file": "detail-burl.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "ba7d59170b077a9526ef4743025de36e8410cb6c6baa2038f5c7a3c3da6d9142",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "detail-upholstery": {
+    "file": "detail-upholstery.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "f3cd6c1b4fe015587022a9e41ffc37fae2ee3c2cd8dd6f44f1e529c41ecdb003",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  },
+  "detail-tufting": {
+    "file": "detail-tufting.png",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "2df27a564f28e7203720184f717465f5b9cc751da3e791bc712d78ea0334d8d7",
+    "engine": "BLENDER_EEVEE",
+    "nativeScene": "nantes-interior.blend",
+    "originalBlenderRender": true,
+    "walls": true,
+    "roof": true
+  }
+}

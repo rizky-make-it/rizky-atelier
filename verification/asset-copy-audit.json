@@ -37,6 +37,12 @@
       "products": 15,
       "placements": 20,
       "movingParts": 0
+    },
+    {
+      "id": "nantes",
+      "products": 22,
+      "placements": 35,
+      "movingParts": 0
     }
   ],
   "files": [

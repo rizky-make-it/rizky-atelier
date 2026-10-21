@@ -1,0 +1,2740 @@
+{
+  "collection": "NANTES",
+  "catalogue_brand": "MARINER",
+  "catalogue_title": "CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+  "sourceBrand": "MARINER",
+  "source_pdf": "C:\\Users\\Admin\\Downloads\\CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "source_pdf_sha256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "source_pdf_page_count": 139,
+  "source_pdf_pages": [
+    32,
+    33,
+    34,
+    35,
+    98,
+    99,
+    100,
+    101,
+    122,
+    123,
+    124
+  ],
+  "dimensions_unit": "millimetres",
+  "dimensions_order": "width, depth, height",
+  "source_material_statement": "OAK BURL VENEER, SYCAMORE INLAYS & CASTED BRONZE.",
+  "source_variant_note": "Three-seat50375.0 and separately dimensioned two-seat50376.0 share the catalogue three-seat front photograph; no isolated two-seat photo exists in the NANTES source pages. This is explicitly disclosed. Commode50361.0 and portrait mirror50348.0 repeat across dining/bedroom sections and are each counted once.",
+  "scope_note": "Full NANTES suite: living PDF32-35, dining PDF98-101, bedroom PDF122-124.22 unique product SKUs:6 living,10 dining,6 new bedroom;2 dining products repeat in bedroom. Original lighting, flowers, bedding, tableware, television, rugs and architecture are styling references, not extra product SKUs.",
+  "provenance_note": "Source images are exact embedded JPEG bytes, documented native-density rectangular crops, or faithful composites of original JPEGs with their original PDF soft masks over the original white page background. Raw originals, masks, xrefs, pixel sizes, transforms and SHA256 hashes are retained. No AI substitution, super-resolution, new subject segmentation, missing-product synthesis or subject alteration was performed. Original embedded orientation is retained and any source-PDF horizontal mirroring explicitly recorded.",
+  "reconstruction_caveat": "Printed dimensions and visibly documented details are source evidence. Hidden joinery, material substrate, exact finish/colour calibration, textile weave, storage internals and opening mechanisms remain interpretative. Source imagery is not independently verified as photography. Original styling is reference for a furnished interior, not a freestanding exhibition.",
+  "rights_note": "User-supplied MARINER catalogue; original designs and images remain the rights of their owners. Extraction conveys no commercial reuse licence or manufacturer endorsement.",
+  "room_reference_notes": {
+    "Living room": "Pale greige panel-moulded walls, ornate pale marble fireplace, crystal/brass chandelier, tall city windows, ivory curtains with double black bottom bands, blue/gold urn lamps, dark vintage rug.",
+    "Dining room": "Grey panel-moulded walls, polished pale veined marble floor, plum vintage rug, cream banded curtains, gilt chandelier, broad mirror over sideboard.",
+    "Bedroom": "Charcoal walls with white rectangular moulding, ornate cream cornice/coffered ceiling, pale veined marble floor, beige/gold vintage rug, black/gold urn lamps and gilt chandelier."
+  },
+  "products": [
+    {
+      "sku": "50375.0",
+      "name": "Nantes Three-seat Sofa",
+      "type": "Sofa",
+      "room": "Living room",
+      "dimensions_mm": [
+        2500,
+        920,
+        780
+      ],
+      "weight_kg": 108,
+      "source_pdf_page": 34,
+      "fabric_codes": [
+        "241.186",
+        "241.184"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.186 / 241.184",
+      "visible_details": [
+        "Continuous rounded wraparound wooden outer back and sides with inset veneer panels",
+        "Pale silver-greige floral upholstery, one continuous broad seat cushion and loose pillows",
+        "Tall narrow gold oval-lattice front uprights with square rosettes at their tops",
+        "Low glossy black front apron with central gold leaf-and-rosette motif",
+        "Short black feet below ribbed gold collars; no tall tapered sofa legs"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50376.0"
+      ],
+      "reference_note": "Original three-seat front view also serves as the explicitly disclosed shared family reference for separately dimensioned two-seat50376.0. Separate original rear view supports the continuous curved burl-veneered outer shell. No isolated two-seat photo is printed.",
+      "image": {
+        "source_pdf_page": 34,
+        "source_image_xref": 174,
+        "source_native_pixels": [
+          805,
+          557
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          805,
+          557
+        ],
+        "crop_rect_pdf_points": [
+          -1.20318603515625,
+          245.40951538085938,
+          602.16357421875,
+          662.465087890625
+        ],
+        "source_image_file": "originals/page-034-xref-174.jpeg",
+        "source_image_sha256": "a8d7951bde2fa919d050554d2e8e2eeeea500f4dd17a32215e0f8f88bbc880e0",
+        "source_image_to_pdf_transform": [
+          -603.3667602539062,
+          -0.0,
+          -0.0,
+          417.0555725097656,
+          602.16357421875,
+          245.40951538085938
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+        "file": "catalogue/50375.0.jpg",
+        "source_soft_mask_xref": 173,
+        "source_soft_mask_file": "originals/page-034-mask-173.png",
+        "source_soft_mask_sha256": "05c1e876882c6f7ded8bd186acaefd70909dfddbfcf822d94c292d0b9ef4a894",
+        "output_pixels": [
+          805,
+          557
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "3ef3cbc6b529a5aa4c4cac1200e105fc21e3f9787f55cc5d7de23e6db0128a74"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 34,
+      "sourcePages": [
+        34
+      ],
+      "category": "Sofa",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "66-67",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 250.0,
+        "depth": 92.0,
+        "height": 78.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 3 SEATER – Ref.: 50375.0\nHeight: 78 cm / 30,71 in\nWidth: 250 cm / 98,43 in\nDepth: 92 cm / 36,22 in\nNet weight: 108,00 Kg / 237,89 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50376.0",
+      "name": "Nantes Two-seat Sofa",
+      "type": "Sofa",
+      "room": "Living room",
+      "dimensions_mm": [
+        1800,
+        920,
+        780
+      ],
+      "weight_kg": 77,
+      "source_pdf_page": 34,
+      "fabric_codes": [
+        "241.186",
+        "241.184"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.186 / 241.184",
+      "visible_details": [
+        "Continuous rounded wraparound wooden outer back and sides with inset veneer panels",
+        "Pale silver-greige floral upholstery, one continuous broad seat cushion and loose pillows",
+        "Tall narrow gold oval-lattice front uprights with square rosettes at their tops",
+        "Low glossy black front apron with central gold leaf-and-rosette motif",
+        "Short black feet below ribbed gold collars; no tall tapered sofa legs"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50375.0"
+      ],
+      "reference_note": "SHARED FAMILY IMAGE: source prints SKU/dimensions for the two-seat variant but provides no isolated two-seat front photo. The unaltered original three-seat50375.0 image is shared as a family reference, not represented as a true two-seat photograph. Width and pillow arrangement in reconstruction are dimension-led interpretations.",
+      "image": {
+        "source_pdf_page": 34,
+        "source_image_xref": 174,
+        "source_native_pixels": [
+          805,
+          557
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          805,
+          557
+        ],
+        "crop_rect_pdf_points": [
+          -1.20318603515625,
+          245.40951538085938,
+          602.16357421875,
+          662.465087890625
+        ],
+        "source_image_file": "originals/page-034-xref-174.jpeg",
+        "source_image_sha256": "a8d7951bde2fa919d050554d2e8e2eeeea500f4dd17a32215e0f8f88bbc880e0",
+        "source_image_to_pdf_transform": [
+          -603.3667602539062,
+          -0.0,
+          -0.0,
+          417.0555725097656,
+          602.16357421875,
+          245.40951538085938
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+        "file": "catalogue/50376.0.jpg",
+        "source_soft_mask_xref": 173,
+        "source_soft_mask_file": "originals/page-034-mask-173.png",
+        "source_soft_mask_sha256": "05c1e876882c6f7ded8bd186acaefd70909dfddbfcf822d94c292d0b9ef4a894",
+        "output_pixels": [
+          805,
+          557
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "3ef3cbc6b529a5aa4c4cac1200e105fc21e3f9787f55cc5d7de23e6db0128a74"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 34,
+      "sourcePages": [
+        34
+      ],
+      "category": "Sofa",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "66-67",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 180.0,
+        "depth": 92.0,
+        "height": 78.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 2 SEATER – Ref.: 50376.0\nHeight: 78 cm / 30,71 in\nWidth: 180 cm / 70,87 in\nDepth: 92 cm / 36,22 in\nNet weight: 77,00 Kg / 169,60 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50377.0",
+      "name": "Nantes Lounge Armchair",
+      "type": "Armchair",
+      "room": "Living room",
+      "dimensions_mm": [
+        1090,
+        920,
+        780
+      ],
+      "weight_kg": 40,
+      "source_pdf_page": 34,
+      "fabric_codes": [
+        "241.186",
+        "241.184"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.186 / 241.184",
+      "visible_details": [
+        "Continuous rounded wraparound wooden outer back and sides with inset veneer panels",
+        "Pale silver-greige floral upholstery, one continuous broad seat cushion and loose pillows",
+        "Tall narrow gold oval-lattice front uprights with square rosettes at their tops",
+        "Low glossy black front apron with central gold leaf-and-rosette motif",
+        "Short black feet below ribbed gold collars; no tall tapered sofa legs",
+        "Single broad floral seat and one pale loose pillow; round backed tub silhouette"
+      ],
+      "reference_note": "Separate original rear photograph confirms curved oak-burl shell and fine inlaid panel perimeter. Upholstered tub chair is distinct from the dining armchair50345.0.",
+      "image": {
+        "source_pdf_page": 34,
+        "source_image_xref": 179,
+        "source_native_pixels": [
+          348,
+          306
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          348,
+          306
+        ],
+        "crop_rect_pdf_points": [
+          673.6382446289062,
+          76.06324768066406,
+          934.0406494140625,
+          305.4884033203125
+        ],
+        "source_image_file": "originals/page-034-xref-179.jpeg",
+        "source_image_sha256": "00bef57f2bded238be0e1542e1bb971679ddc186af15ec1d5c5a3c460b790d7b",
+        "source_image_to_pdf_transform": [
+          260.4024353027344,
+          0.0,
+          -0.0,
+          229.42515563964844,
+          673.6382446289062,
+          76.06324768066406
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50377.0.jpg",
+        "source_soft_mask_xref": 178,
+        "source_soft_mask_file": "originals/page-034-mask-178.jpeg",
+        "source_soft_mask_sha256": "270e4bb48d9d28a48e3840391ccd23c9cf08a77a3d3a74f422c10c57c7276a3e",
+        "output_pixels": [
+          348,
+          306
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "a5441a9d4ae953e76889b6157591d958ee4085d5fa2d3db4c110f41f170a2fff"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 34,
+      "sourcePages": [
+        34
+      ],
+      "category": "Armchair",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "66-67",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 109.0,
+        "depth": 92.0,
+        "height": 78.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 1 SEATER – Ref.: 50377.0\nHeight: 78 cm / 30,71 in\nWidth: 109 cm / 42,91 in\nDepth: 92 cm / 36,22 in\nNet weight: 40,00 Kg / 88,11 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50378.0",
+      "name": "Nantes Square Coffee Table",
+      "type": "Coffee table",
+      "room": "Living room",
+      "dimensions_mm": [
+        1300,
+        1300,
+        470
+      ],
+      "weight_kg": 85,
+      "source_pdf_page": 35,
+      "visible_details": [
+        "Square inset transparent glass tabletop surrounded by a wide polished burl-wood border",
+        "Full solid lower burl-wood shelf with subtly concave outer edges",
+        "Four short tapered black legs with ribbed gold upper collars",
+        "Gold overlapping-oval lattice on black apron, square corner rosettes and fluted centre plaques"
+      ],
+      "reference_note": "Glass inset is visible in the source; lower shelf is solid wood, not an open stretcher assembly. Tabletop furnishings are styling only.",
+      "image": {
+        "source_pdf_page": 35,
+        "source_image_xref": 189,
+        "source_native_pixels": [
+          427,
+          202
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          427,
+          202
+        ],
+        "crop_rect_pdf_points": [
+          684.6903076171875,
+          615.1183471679688,
+          1004.6375122070312,
+          765.89453125
+        ],
+        "source_image_file": "originals/page-035-xref-189.jpeg",
+        "source_image_sha256": "dd3624bc53f5e73d7f133ae5eabc371fa68de9bc57eded31fa2b32ed19c22183",
+        "source_image_to_pdf_transform": [
+          319.94720458984375,
+          0.0,
+          -0.0,
+          150.7761688232422,
+          684.6903076171875,
+          615.1183471679688
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50378.0.jpg",
+        "source_soft_mask_xref": 188,
+        "source_soft_mask_file": "originals/page-035-mask-188.jpeg",
+        "source_soft_mask_sha256": "3ca43ae1a0a886d959de337231762d1f7c2fa1981aa0d26e0e2b4bf603a4469a",
+        "output_pixels": [
+          427,
+          202
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "95376a791f10526794e457e3b5d1953e1b21f1c3a9fd1ea8c3b22441b7dd39f5"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 35,
+      "sourcePages": [
+        35
+      ],
+      "category": "Coffee table",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "68-69",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 130.0,
+        "depth": 130.0,
+        "height": 47.0
+      },
+      "source_product_text_blocks": [
+        "COFFEE TABLE – Ref.: 50378.0\nHeight: 47 cm / 18,5 in\nWidth: 130 cm / 51,18 in\nDepth: 130 cm / 51,18 in\nNet weight: 85,00 Kg / 187,22 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50379.0",
+      "name": "Nantes Square Side Table",
+      "type": "Side table",
+      "room": "Living room",
+      "dimensions_mm": [
+        700,
+        700,
+        650
+      ],
+      "weight_kg": 31,
+      "source_pdf_page": 35,
+      "visible_details": [
+        "Square solid oak-burl tabletop with fine rectangular inlay perimeter",
+        "Four tall tapered glossy black legs with ribbed gold collars below the apron",
+        "Full solid lower wood shelf with inward-curving sides",
+        "Gold oval-lattice black apron and four square corner rosettes"
+      ],
+      "reference_note": "Separate lifestyle close-up page35 supplies richer ornament/wood/shelf evidence than the small original isolated image. Original isolated image is227x199pixels; it is not upscaled.",
+      "image": {
+        "source_pdf_page": 35,
+        "source_image_xref": 187,
+        "source_native_pixels": [
+          227,
+          199
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          227,
+          199
+        ],
+        "crop_rect_pdf_points": [
+          896.3706665039062,
+          396.3311462402344,
+          1066.21435546875,
+          545.1266479492188
+        ],
+        "source_image_file": "originals/page-035-xref-187.jpeg",
+        "source_image_sha256": "79eb69b262d2074c047fd05dfcec30bf1fb81faac0e99909470bf0bc4ad43dc2",
+        "source_image_to_pdf_transform": [
+          169.8437042236328,
+          0.0,
+          -0.0,
+          148.79550170898438,
+          896.3706665039062,
+          396.3311462402344
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50379.0.jpg",
+        "source_soft_mask_xref": 186,
+        "source_soft_mask_file": "originals/page-035-mask-186.jpeg",
+        "source_soft_mask_sha256": "15c14cd0744b7718169993359e379fd3fcf2cae7be396be22b35face71376eab",
+        "output_pixels": [
+          227,
+          199
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "421a5c5e112b35e210270d6604a53aa0f47749f474f6232e7b43e67af675f69a"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 35,
+      "sourcePages": [
+        35
+      ],
+      "category": "Side table",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "68-69",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 70.0,
+        "depth": 70.0,
+        "height": 65.0
+      },
+      "source_product_text_blocks": [
+        "SIDE TABLE – Ref.: 50379.0\nHeight: 65 cm / 25,59 in\nWidth: 70 cm / 27,56 in\nDepth: 70 cm / 27,56 in\nNet weight: 31,00 Kg / 68,28 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50380.0",
+      "name": "Nantes TV Cabinet",
+      "type": "TV furniture",
+      "room": "Living room",
+      "dimensions_mm": [
+        2190,
+        480,
+        760
+      ],
+      "weight_kg": 143,
+      "source_pdf_page": 35,
+      "visible_details": [
+        "Long burl top with narrow dark edge",
+        "Two outer burl cabinet panels flanking a central open equipment bay",
+        "Horizontal shelf across centre bay creates two storage levels",
+        "Central fluted gold vertical divider and paired square gold pull details",
+        "Narrow oval-lattice top apron and side uprights; black lower apron with central gold leaf motif",
+        "Short black feet with gold fluted collars"
+      ],
+      "reference_note": "Original product composition includes television, books and equipment as styling, not additional catalogue SKUs. No opening or electronics mechanism is verified.",
+      "image": {
+        "source_pdf_page": 35,
+        "source_image_xref": 185,
+        "source_native_pixels": [
+          496,
+          357
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          496,
+          357
+        ],
+        "crop_rect_pdf_points": [
+          661.4173583984375,
+          74.05718994140625,
+          1033.38818359375,
+          341.5250244140625
+        ],
+        "source_image_file": "originals/page-035-xref-185.jpeg",
+        "source_image_sha256": "343306b0eceec76e2c3ce9cf8704c93abb73f4d6e01db5105832a042d22d6fcd",
+        "source_image_to_pdf_transform": [
+          371.97076416015625,
+          0.0,
+          -0.0,
+          267.46783447265625,
+          661.4173583984375,
+          74.05718994140625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50380.0.jpg",
+        "source_soft_mask_xref": 184,
+        "source_soft_mask_file": "originals/page-035-mask-184.jpeg",
+        "source_soft_mask_sha256": "2a0b3c23bc417367c62672f731e240362923e695515db4b9800271dfb6fec700",
+        "output_pixels": [
+          496,
+          357
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "d0b42b7e0d7654a7550899aaa82b442b13401c907d1f14ad6c0dda4976cf6bba"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 35,
+      "sourcePages": [
+        35
+      ],
+      "category": "TV furniture",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "NAN. / OF (544/ 55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "68-69",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 219.0,
+        "depth": 48.0,
+        "height": 76.0
+      },
+      "source_product_text_blocks": [
+        "TV FURNITURE  – Ref.: 50380.0\nHeight: 76 cm / 29,92 in\nWidth: 219 cm / 86,22 in\nDepth: 48 cm / 18,9 in\nNet weight: 143,00 Kg / 314,98 Ib\nFinish: NAN. / OF (544/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50339.0",
+      "name": "Nantes Rectangular Dining Table",
+      "type": "Dining table",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2500,
+        1300,
+        760
+      ],
+      "weight_kg": 212,
+      "source_pdf_page": 99,
+      "visible_details": [
+        "Long rectangular polished burl top with dark perimeter and fine inlay border",
+        "Two substantial flared burl pedestal supports, not four legs",
+        "Each pedestal terminates in stepped rectangular plinth base",
+        "Black pedestal base fascia with gold overlapping-oval lattice and square rosettes"
+      ],
+      "reference_note": "Dining lifestyle scene and close-up corroborate the two-pedestal construction. Any under-top joinery is interpretative.",
+      "image": {
+        "source_pdf_page": 99,
+        "source_image_xref": 594,
+        "source_native_pixels": [
+          633,
+          240
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          633,
+          240
+        ],
+        "crop_rect_pdf_points": [
+          53.3717041015625,
+          152.08509826660156,
+          527.60791015625,
+          331.6269226074219
+        ],
+        "source_image_file": "originals/page-099-xref-594.jpeg",
+        "source_image_sha256": "896dbd72355843ed43820a912dc9329058968834745277504f36a2816ee34427",
+        "source_image_to_pdf_transform": [
+          474.2362365722656,
+          0.0,
+          -0.0,
+          179.5418243408203,
+          53.3717041015625,
+          152.08509826660156
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50339.0.jpg",
+        "source_soft_mask_xref": 593,
+        "source_soft_mask_file": "originals/page-099-mask-593.jpeg",
+        "source_soft_mask_sha256": "89b65df57d13018d33429edbd63d8906ad7cb6194713a83b47f7fd1818456881",
+        "output_pixels": [
+          633,
+          240
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "035824e5d311e61832e6b75202eb896842cab55844c5540b1e73054a6e109cd5"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 99,
+      "sourcePages": [
+        99
+      ],
+      "category": "Dining table",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "196-197",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 250.0,
+        "depth": 130.0,
+        "height": 76.0
+      },
+      "source_product_text_blocks": [
+        "DINING TABLE – Ref.: 50339.0\nHeight: 76 cm / 29,92 in\nWidth: 250 cm / 98,43 in\nDepth: 130 cm / 51,18 in\nNet weight: 212,00 Kg /466,96 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50340.0",
+      "name": "Nantes Round Dining Table with Lazy Susan",
+      "type": "Dining table",
+      "room": "Dining room",
+      "dimensions_mm": [
+        1600,
+        1600,
+        810
+      ],
+      "diameter_mm": 1600,
+      "weight_kg": 135,
+      "source_pdf_page": 99,
+      "visible_details": [
+        "Round polished burl top with concentric fine sycamore/dark inlay perimeter",
+        "Single flared burl pedestal on stepped square base",
+        "Gold overlapping-oval lattice and corner rosettes around black pedestal base",
+        "Lazy Susan specified in catalogue"
+      ],
+      "reference_note": "Catalogue explicitly states With Lazy Susan but does not dimension its diameter, bearing, rotation speed or exact construction; any separated rotating centre is interpretative.",
+      "image": {
+        "source_pdf_page": 99,
+        "source_image_xref": 596,
+        "source_native_pixels": [
+          456,
+          273
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          456,
+          273
+        ],
+        "crop_rect_pdf_points": [
+          173.6432647705078,
+          498.7447509765625,
+          515.122802734375,
+          703.4317626953125
+        ],
+        "source_image_file": "originals/page-099-xref-596.jpeg",
+        "source_image_sha256": "7e9a8fe93d03c7de64ac1a691e270441e277132ca8c0baaa5aa68da696877049",
+        "source_image_to_pdf_transform": [
+          341.47955322265625,
+          0.0,
+          -0.0,
+          204.68699645996094,
+          173.6432647705078,
+          498.7447509765625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50340.0.jpg",
+        "source_soft_mask_xref": 595,
+        "source_soft_mask_file": "originals/page-099-mask-595.jpeg",
+        "source_soft_mask_sha256": "5700ab22651eccf4959794ffa931e16297b1eff303dfcca791a4a174ee3a5aaf",
+        "output_pixels": [
+          456,
+          273
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "0c252ecbccae4b8c89624c400fe936cd2de575b4fda9d955a0b61f970c5b2e78"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 99,
+      "sourcePages": [
+        99
+      ],
+      "category": "Dining table",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "196-197",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "height": 81.0,
+        "diameter": 160.0
+      },
+      "source_product_text_blocks": [
+        "DINING TABLE – Ref.: 50340.0\nHeight: 81 cm / 31,89 in\nWidth: Ø160 cm / 62,99 in\nNet weight: 135,00 Kg / 297,36 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50343.0",
+      "name": "Nantes Glazed Display Cabinet",
+      "type": "Cabinet",
+      "room": "Dining room",
+      "dimensions_mm": [
+        1590,
+        500,
+        2180
+      ],
+      "weight_kg": 205,
+      "source_pdf_page": 100,
+      "visible_details": [
+        "Tall double-door glazed cabinet with warm burl interior and glazed side panels",
+        "Multiple transparent glass shelves and four visibly staged groups of tableware",
+        "Central tall fluted gold divider and two square gold pulls",
+        "Gold oval-lattice front uprights and top band; square corner rosettes",
+        "Broad black lower apron with central gold foliate motif and short feet with gold collars"
+      ],
+      "reference_note": "Native-density rectangular crop of original lifestyle image; surrounding wall/floor/reflections retained. Wine glasses and tableware are styling. Reflections and overlapping edges make the exact interior glass-shelf count ambiguous; the printed specification does not state that count. Interior shelving, hinges, opening motion and lighting systems are not manufacturer-verified.",
+      "image": {
+        "source_pdf_page": 100,
+        "source_image_xref": 601,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          25,
+          135,
+          590,
+          975
+        ],
+        "crop_rect_pdf_points": [
+          17.732315063476562,
+          100.17281341552734,
+          441.2097473144531,
+          729.7259521484375
+        ],
+        "source_image_file": "originals/page-100-xref-601.jpeg",
+        "source_image_sha256": "78d393440890a4c1a9173a5e308279c7b2f5c78a9d22c6c843c4174e8a4d019c",
+        "source_image_to_pdf_transform": [
+          597.365478515625,
+          0.0,
+          -0.0,
+          843.9010009765625,
+          -1.0056244134902954,
+          -1.00537109375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50343.0.jpg",
+        "output_pixels": [
+          565,
+          840
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "5c083d8b77199385ae2d33f6f89cc5b36edebcac86d38da27191272f9d7735f1"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 100,
+      "sourcePages": [
+        100
+      ],
+      "category": "Cabinet",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "198-199",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 159.0,
+        "depth": 50.0,
+        "height": 218.0
+      },
+      "source_product_text_blocks": [
+        "CABINET – Ref.: 50343.0\nHeight: 218 cm / 85,83 in\nWidth: 159 cm / 62,6 in\nDepth: 50 cm / 19,69  in\nNet weight: 205,00 Kg / 451,54 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50344.0",
+      "name": "Nantes Dining Side Chair",
+      "type": "Dining chair",
+      "room": "Dining room",
+      "dimensions_mm": [
+        550,
+        580,
+        970
+      ],
+      "weight_kg": 7,
+      "source_pdf_page": 100,
+      "finish": "NAN. (544)",
+      "fabric_codes": [
+        "241.185"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.185",
+      "visible_details": [
+        "Glossy black four-leg chair without arms",
+        "Shield-like silver-grey floral upholstered upper back, narrowing to a rounded point",
+        "Open lower back with intertwined gold double-loop ornament",
+        "Soft upholstered seat with narrow gold piping and black apron",
+        "Tapered black front legs with ribbed gold upper collars and tiny gold toes"
+      ],
+      "image": {
+        "source_pdf_page": 100,
+        "source_image_xref": 603,
+        "source_native_pixels": [
+          319,
+          469
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          319,
+          469
+        ],
+        "crop_rect_pdf_points": [
+          702.9920654296875,
+          107.57940673828125,
+          941.9896850585938,
+          459.2129211425781
+        ],
+        "source_image_file": "originals/page-100-xref-603.jpeg",
+        "source_image_sha256": "54b36a474cffc2c9502c67a408899c5d03d05ac6de9bb9298477354c48a7291d",
+        "source_image_to_pdf_transform": [
+          238.9976348876953,
+          0.0,
+          -0.0,
+          351.6335144042969,
+          702.9920654296875,
+          107.57940673828125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50344.0.jpg",
+        "source_soft_mask_xref": 602,
+        "source_soft_mask_file": "originals/page-100-mask-602.jpeg",
+        "source_soft_mask_sha256": "6db5284d4dddbb34a156f47eb0f7c390e100d1e6315d8c99886a11a06d0ab1ef",
+        "output_pixels": [
+          319,
+          469
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "97d9d02eca49eb685e74937119318291e731ed403ed8a7ed6dee6edb2e8de69e"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 100,
+      "sourcePages": [
+        100
+      ],
+      "category": "Dining chair",
+      "rooms": [
+        "Dining room"
+      ],
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "198-199",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 55.0,
+        "depth": 58.0,
+        "height": 97.0
+      },
+      "source_product_text_blocks": [
+        "CHAIR – Ref.: 50344.0\nHeight: 97 cm / 38,19 in\nWidth: 55 cm / 21,65 in\nDepth: 58 cm / 22,83 in\nNet weight: 7,00 Kg / 15,42 Ib\nFinish: NAN. (544)\n"
+      ]
+    },
+    {
+      "sku": "50345.0",
+      "name": "Nantes Dining Armchair",
+      "type": "Dining armchair",
+      "room": "Dining room",
+      "dimensions_mm": [
+        630,
+        580,
+        970
+      ],
+      "weight_kg": 8,
+      "source_pdf_page": 100,
+      "finish": "NAN. (544)",
+      "fabric_codes": [
+        "241.185"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.185",
+      "visible_details": [
+        "Glossy black four-leg dining chair with narrow swept curved arms and front arm uprights",
+        "Shield-like silver-grey floral upholstered upper back, narrowing to a rounded point",
+        "Open lower back with intertwined gold double-loop ornament",
+        "Soft upholstered seat with narrow gold piping",
+        "Tapered black front legs with ribbed gold upper collars and tiny gold toes"
+      ],
+      "reference_note": "This open-frame dining chair has arms; it is not the upholstered tub-style living armchair50377.0.",
+      "image": {
+        "source_pdf_page": 100,
+        "source_image_xref": 605,
+        "source_native_pixels": [
+          329,
+          488
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          329,
+          488
+        ],
+        "crop_rect_pdf_points": [
+          894.7589111328125,
+          438.4473876953125,
+          1141.366943359375,
+          804.4248046875
+        ],
+        "source_image_file": "originals/page-100-xref-605.jpeg",
+        "source_image_sha256": "bc4b4024f664eb4295e8d0e45f9d53365e036b65d802165a55c8fe868390de3e",
+        "source_image_to_pdf_transform": [
+          246.6080780029297,
+          0.0,
+          -0.0,
+          365.9774169921875,
+          894.7589111328125,
+          438.4473876953125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50345.0.jpg",
+        "source_soft_mask_xref": 604,
+        "source_soft_mask_file": "originals/page-100-mask-604.jpeg",
+        "source_soft_mask_sha256": "3f394250003091c9346efea9d2a4db93ef4e4d8949fcdd14238728e0e7e11973",
+        "output_pixels": [
+          329,
+          488
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "f216965872a72bd16ff120739c359f5a2c4c8395c91c8ccffc253a2c12c12499"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 100,
+      "sourcePages": [
+        100
+      ],
+      "category": "Dining armchair",
+      "rooms": [
+        "Dining room"
+      ],
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "198-199",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 63.0,
+        "depth": 58.0,
+        "height": 97.0
+      },
+      "source_product_text_blocks": [
+        "ARMCHAIR – Ref.: 50345.0\nHeight: 97 cm / 38,19 in\nWidth: 63 cm / 24,8 in\nDepth: 58 cm / 22,83 in\nNet weight: 8,00 Kg / 17,62 Ib\nFinish: NAN. (544)\n"
+      ]
+    },
+    {
+      "sku": "50342.0",
+      "name": "Nantes Landscape Mirror",
+      "type": "Mirror",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2100,
+        60,
+        1060
+      ],
+      "weight_kg": 68,
+      "source_pdf_page": 101,
+      "visible_details": [
+        "Wide landscape rectangular mirror with narrow black side rails",
+        "Broad black top and bottom rails with shaped stepped/curved outer shoulders",
+        "Gold edge pinstripe and central gold leaf-and-rosette crest above top",
+        "Large clear mirrored centre"
+      ],
+      "reference_note": "This is the wide landscape mirror, not portrait50348.0. Exact mounting hardware and optical finish are not specified.",
+      "image": {
+        "source_pdf_page": 101,
+        "source_image_xref": 610,
+        "source_native_pixels": [
+          370,
+          221
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          370,
+          221
+        ],
+        "crop_rect_pdf_points": [
+          56.916046142578125,
+          122.11050415039062,
+          334.402587890625,
+          287.44769287109375
+        ],
+        "source_image_file": "originals/page-101-xref-610.jpeg",
+        "source_image_sha256": "f02b0a8aab57812a0de743158e816f22b48b8543daa2f554137049820578d74e",
+        "source_image_to_pdf_transform": [
+          277.4865417480469,
+          0.0,
+          -0.0,
+          165.33718872070312,
+          56.916046142578125,
+          122.11050415039062
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50342.0.jpg",
+        "source_soft_mask_xref": 609,
+        "source_soft_mask_file": "originals/page-101-mask-609.jpeg",
+        "source_soft_mask_sha256": "ec25fe44e8f0341cbcd1a2361ce4b5c9f1eb4b6ed4521cfdbd9379deca49a30c",
+        "output_pixels": [
+          370,
+          221
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "7fb1fa78665c27c33da4c01c49f3112c9ca58b7eb1cb51cd56e8a683dfe10302"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 101,
+      "sourcePages": [
+        101
+      ],
+      "category": "Mirror",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "200-201",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 210.0,
+        "depth": 6.0,
+        "height": 106.0
+      },
+      "source_product_text_blocks": [
+        "MIRROR– Ref.: 50342.0\nHeight: 106 cm / 41,73 in\nWidth: 210 cm / 82,68 in\nDepth: 6 cm / 2,36  in\nNet weight: 68,00 Kg / 149,78 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50341.0",
+      "name": "Nantes Wide Sideboard",
+      "type": "Sideboard",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2390,
+        520,
+        990
+      ],
+      "weight_kg": 220,
+      "source_pdf_page": 101,
+      "visible_details": [
+        "Very wide burl cabinet with four front door panels arranged as two pairs",
+        "Paired rectangular gold handles above door mid-height",
+        "Central fluted gold divider, gold oval-lattice top band and outer uprights",
+        "Broad black lower apron with central gold leaf-and-rosette motif",
+        "Short decorated black feet with ribbed gold collars"
+      ],
+      "reference_note": "Front door seams and handles are visible; internal shelving, hinge type and opening range are not evidenced.",
+      "image": {
+        "source_pdf_page": 101,
+        "source_image_xref": 612,
+        "source_native_pixels": [
+          483,
+          251
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          483,
+          251
+        ],
+        "crop_rect_pdf_points": [
+          29.763763427734375,
+          301.487060546875,
+          391.9633483886719,
+          489.0506591796875
+        ],
+        "source_image_file": "originals/page-101-xref-612.jpeg",
+        "source_image_sha256": "0c949a1b3e1a753886921a2c92eb9300891695b15a8b42fe00e130c5ad876bd4",
+        "source_image_to_pdf_transform": [
+          362.1995849609375,
+          0.0,
+          -0.0,
+          187.5635986328125,
+          29.763763427734375,
+          301.487060546875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50341.0.jpg",
+        "source_soft_mask_xref": 611,
+        "source_soft_mask_file": "originals/page-101-mask-611.jpeg",
+        "source_soft_mask_sha256": "5d31cac813e729e52c153c500f071746f0ebd071de9dbc58711fa72d3985537b",
+        "output_pixels": [
+          483,
+          251
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "855667fc3ffbd30ac13aa29f7fd0f257891c3b836ab7d5aadd82a787010b98e4"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 101,
+      "sourcePages": [
+        101
+      ],
+      "category": "Sideboard",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "200-201",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 239.0,
+        "depth": 52.0,
+        "height": 99.0
+      },
+      "source_product_text_blocks": [
+        "SIDEBOARD – Ref.: 50341.0\nHeight: 99 cm / 38,98 in\nWidth: 239 cm / 94,09 in\nDepth: 52  cm / 20,47  in\nNet weight: 220,00 Kg / 484,58 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50361.0",
+      "name": "Nantes Commode",
+      "type": "Commode",
+      "room": "Dining room / Bedroom",
+      "rooms": [
+        "Dining room",
+        "Bedroom"
+      ],
+      "dimensions_mm": [
+        1640,
+        530,
+        960
+      ],
+      "weight_kg": 98,
+      "source_pdf_page": 123,
+      "sourcePages": [
+        101,
+        123
+      ],
+      "visible_details": [
+        "Two burl front doors with nested rectangular dark and pale inlay borders",
+        "Small decorative gold escutcheons or pulls near centre seam",
+        "Central fluted gold divider, oval-lattice outer uprights and top rail",
+        "Black lower apron with central gold leaf motif and short black/gold feet"
+      ],
+      "reference_note": "Same50361.0 appears in dining PDF101 and bedroom PDF123; counted once. Original bedroom image chosen; dining original retained as additional evidence. It is a two-door commode, not a drawer chest.",
+      "image": {
+        "source_pdf_page": 123,
+        "source_image_xref": 734,
+        "source_native_pixels": [
+          547,
+          356
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          547,
+          356
+        ],
+        "crop_rect_pdf_points": [
+          738.9942016601562,
+          475.29803466796875,
+          1149.029296875,
+          741.8733520507812
+        ],
+        "source_image_file": "originals/page-123-xref-734.jpeg",
+        "source_image_sha256": "a1a30d1301395bf8afac9e3281808214971809ad4721f6a290a82dbca696a452",
+        "source_image_to_pdf_transform": [
+          410.0351257324219,
+          0.0,
+          -0.0,
+          266.5753173828125,
+          738.9942016601562,
+          475.29803466796875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50361.0.jpg",
+        "source_soft_mask_xref": 733,
+        "source_soft_mask_file": "originals/page-123-mask-733.jpeg",
+        "source_soft_mask_sha256": "31b4cc5abb77a84e0d28234262ebfa71b13b9149787b2dcd83f95fb5dac0add0",
+        "output_pixels": [
+          547,
+          356
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "cd2be19cbc578ba97dd9743a4f69d97ee51a027530a88c88bb7ffac9aa7542ca"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 123,
+      "category": "Commode",
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "244-245",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 164.0,
+        "depth": 53.0,
+        "height": 96.0
+      },
+      "source_product_text_blocks": [
+        "COMMODE – Ref.: 50361.0\nHeight: 96 cm / 37,8 in\nWidth: 164 cm / 64,57 in\nDepth: 53 cm / 20,87 in\nNet weight: 98,00 Kg / 215,86 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50348.0",
+      "name": "Nantes Portrait Mirror",
+      "type": "Mirror",
+      "room": "Dining room / Bedroom",
+      "rooms": [
+        "Dining room",
+        "Bedroom"
+      ],
+      "dimensions_mm": [
+        940,
+        60,
+        1040
+      ],
+      "weight_kg": 26,
+      "source_pdf_page": 124,
+      "sourcePages": [
+        101,
+        124
+      ],
+      "visible_details": [
+        "Portrait rectangular mirrored centre with narrow glossy black side rails",
+        "Broad shaped black upper rail with gold leaf-and-rosette crest",
+        "Broad glossy black lower rail with narrow gold edge"
+      ],
+      "reference_note": "Same50348.0 appears over the dining console on PDF101 and bedroom dressing table on PDF124; counted once. Native-density original lifestyle crop retains actual reflections and small objects; mirror is not a fabricated isolated photograph. Original PDF soft mask is preserved.",
+      "image": {
+        "source_pdf_page": 124,
+        "source_image_xref": 739,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          210,
+          270,
+          510,
+          645
+        ],
+        "crop_rect_pdf_points": [
+          156.26258850097656,
+          201.27572631835938,
+          381.15289306640625,
+          482.4377746582031
+        ],
+        "source_image_file": "originals/page-124-xref-739.jpeg",
+        "source_image_sha256": "2cf8cd7fcea3a680988840c77234854e2a40048de532c10d1dc697092873cc89",
+        "source_image_to_pdf_transform": [
+          597.4586181640625,
+          0.0,
+          -0.0,
+          844.2359008789062,
+          -1.1606390476226807,
+          -1.16094970703125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50348.0.jpg",
+        "source_soft_mask_xref": 738,
+        "source_soft_mask_file": "originals/page-124-mask-738.png",
+        "source_soft_mask_sha256": "43b54b6c2f23befa856f38690bff87aab75195a34d2c96eb536a9cc978a13653",
+        "output_pixels": [
+          300,
+          375
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "3b2194c02be662c121f7bccbfeb675c89feeccd5cdbce73c098adcc690872b04"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 124,
+      "category": "Mirror",
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "246-247",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 94.0,
+        "depth": 6.0,
+        "height": 104.0
+      },
+      "source_product_text_blocks": [
+        "MIRROR – Ref.: 50348.0\nHeight: 104 cm / 40,94 in\nWidth: 94 cm / 37,01 in\nDepth: 6 cm / 2,36 in\nNet weight: 26,00 Kg / 57,27 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50347.0",
+      "name": "Nantes Console",
+      "type": "Console",
+      "room": "Dining room",
+      "dimensions_mm": [
+        1690,
+        460,
+        910
+      ],
+      "weight_kg": 50,
+      "source_pdf_page": 101,
+      "visible_details": [
+        "Long narrow polished burl top with black edge pinstripe",
+        "Fine oval-lattice black apron, square gold corner rosettes and central fluted plaque",
+        "Four long tapered black legs with gold fluted upper collars and small gold toes",
+        "Open lower curved wood stretcher links, not a solid shelf"
+      ],
+      "reference_note": "Native-density lifestyle crop retains lamp, wall/floor and styling. The original embedded image is horizontally mirrored in the source PDF. No drawer or hidden mechanism is evidenced.",
+      "image": {
+        "source_pdf_page": 101,
+        "source_image_xref": 615,
+        "source_native_pixels": [
+          654,
+          872
+        ],
+        "crop_rect_native_pixels": [
+          35,
+          465,
+          595,
+          835
+        ],
+        "crop_rect_pdf_points": [
+          709.30810546875,
+          398.35833740234375,
+          1129.302490234375,
+          675.70947265625
+        ],
+        "source_image_file": "originals/page-101-xref-615.jpeg",
+        "source_image_sha256": "3baf6506f8bfe644700dc3aa2baa9751d4fc03ad4ac3cd9aaf528755bb84f077",
+        "source_image_to_pdf_transform": [
+          -490.4934387207031,
+          -0.0,
+          -0.0,
+          653.649169921875,
+          1155.5521240234375,
+          49.79541015625
+        ],
+        "source_pdf_horizontal_mirror": true,
+        "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+        "file": "catalogue/50347.0.jpg",
+        "output_pixels": [
+          560,
+          370
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "9e689757556b1100a91f8f65123d3d319f4cc09b5133b423b081fcdf5cce563e"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 101,
+      "sourcePages": [
+        101
+      ],
+      "category": "Console",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "200-201",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 169.0,
+        "depth": 46.0,
+        "height": 91.0
+      },
+      "source_product_text_blocks": [
+        "CONSOLE– Ref.: 50347.0\nHeight: 91 cm / 35,83 in\nWidth: 169 cm / 66,54 in\nDepth: 46 cm / 18,11 in\nNet weight: 50,00 Kg / 110,13 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50381.0",
+      "name": "Nantes Tufted Bed",
+      "type": "Bed",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        2180,
+        2180,
+        1600
+      ],
+      "weight_kg": 135,
+      "source_pdf_page": 123,
+      "fabric_codes": [
+        "243.135"
+      ],
+      "fabric_statement": "Suggested Fabric: 243.135",
+      "visible_details": [
+        "Tall rectangular headboard containing TWO separate pale diamond-button-tufted panels",
+        "Central fluted gold vertical divider and oval-lattice gold top/side black framing",
+        "Broad stepped glossy-black headboard crest outlined in gold",
+        "Low rectangular oak-burl footboard and side rails above black shaped lower plinth",
+        "Short black feet with gold fluted collars; pale bedding with dark taupe runner and striped/dark pillows"
+      ],
+      "reference_note": "Printed overall width/depth are both218cm; do not infer mattress standard from the image. Bedding is styling. Catalogue image includes a printed decorative M pillow, not a separate product; reconstructed styling can omit this mark.",
+      "image": {
+        "source_pdf_page": 123,
+        "source_image_xref": 728,
+        "source_native_pixels": [
+          771,
+          545
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          771,
+          545
+        ],
+        "crop_rect_pdf_points": [
+          53.48674774169922,
+          -7.254401683807373,
+          635.5694580078125,
+          407.2248840332031
+        ],
+        "source_image_file": "originals/page-123-xref-728.jpeg",
+        "source_image_sha256": "defa56a3620f77c98cbfaf8679da72bda3301c3b6a488f2d00d75b1ad6a4e849",
+        "source_image_to_pdf_transform": [
+          577.6300048828125,
+          -6.301215648651123,
+          4.452708721160889,
+          408.1780700683594,
+          53.48674774169922,
+          -0.95318603515625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50381.0.jpg",
+        "output_pixels": [
+          771,
+          545
+        ],
+        "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+        "sha256": "defa56a3620f77c98cbfaf8679da72bda3301c3b6a488f2d00d75b1ad6a4e849"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 123,
+      "sourcePages": [
+        123
+      ],
+      "category": "Bed",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "244-245",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 218.0,
+        "depth": 218.0,
+        "height": 160.0
+      },
+      "source_product_text_blocks": [
+        "BED – Ref.: 50381.0\nHeight: 160 cm / 62,99 in\nWidth: 218 cm / 85,85 in\nDepth: 218 cm / 85,83 in\nNet weight: 135,00 Kg / 297,36 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50382.0",
+      "name": "Nantes Three-drawer Nightstand",
+      "type": "Nightstand",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        780,
+        450,
+        790
+      ],
+      "weight_kg": 55,
+      "source_pdf_page": 123,
+      "visible_details": [
+        "THREE stacked full-width burl drawers, each with a small rectangular black-framed gold pull",
+        "Polished burl top with dark edge and fine perimeter inlay",
+        "Gold overlapping-oval lattice on top band and both black outer uprights",
+        "Broad shaped black lower apron and short black feet with ribbed gold collars"
+      ],
+      "reference_note": "Three drawer count is visible in both product and lifestyle views. Drawer internals, rail mechanics and opening travel are not manufacturer-verified.",
+      "image": {
+        "source_pdf_page": 123,
+        "source_image_xref": 730,
+        "source_native_pixels": [
+          378,
+          319
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          378,
+          319
+        ],
+        "crop_rect_pdf_points": [
+          212.88827514648438,
+          461.35760498046875,
+          495.81317138671875,
+          700.4031982421875
+        ],
+        "source_image_file": "originals/page-123-xref-730.jpeg",
+        "source_image_sha256": "e6b000fe942ca5ef23c5fa6381d8378a7d01969a78a5ec82375829392ee4be70",
+        "source_image_to_pdf_transform": [
+          282.9248962402344,
+          0.0,
+          -0.0,
+          239.0455780029297,
+          212.88827514648438,
+          461.35760498046875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50382.0.jpg",
+        "source_soft_mask_xref": 729,
+        "source_soft_mask_file": "originals/page-123-mask-729.jpeg",
+        "source_soft_mask_sha256": "78107f2039c55a2f97e1007f60457fbff3f138b623a4e7c513defb1fccf39541",
+        "output_pixels": [
+          378,
+          319
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "859e0ed72b728d4c3a09b6ab4a834b5b5c7c11c5905cbcbf816e61b31d2599cd"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 123,
+      "sourcePages": [
+        123
+      ],
+      "category": "Nightstand",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "244-245",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 78.0,
+        "depth": 45.0,
+        "height": 79.0
+      },
+      "source_product_text_blocks": [
+        "NIGHT TABLE – Ref.: 50382.0\nHeight: 79 cm / 31,1 in\nWidth: 78 cm / 30,71 in\nDepth: 45 cm / 17,72 in\nNet weight: 55,00 Kg / 121,15 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50384.0",
+      "name": "Nantes Upholstered Bedroom Bench",
+      "type": "Bench",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        1520,
+        540,
+        520
+      ],
+      "weight_kg": 26,
+      "source_pdf_page": 123,
+      "fabric_codes": [
+        "243.135"
+      ],
+      "fabric_statement": "Suggested Fabric:243.135",
+      "visible_details": [
+        "Long rectangular pale silver-beige upholstered cushion with subtle perimeter piping",
+        "Broad glossy black shaped apron with central gold leaf-and-rosette motif",
+        "Four tapered black legs with ribbed gold collars and small gold toes"
+      ],
+      "reference_note": "Bench is upholstered, not a burl top. Lifestyle throw blanket is styling only.",
+      "image": {
+        "source_pdf_page": 123,
+        "source_image_xref": 732,
+        "source_native_pixels": [
+          487,
+          232
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          487,
+          232
+        ],
+        "crop_rect_pdf_points": [
+          745.2056274414062,
+          121.710693359375,
+          1110.1673583984375,
+          295.50201416015625
+        ],
+        "source_image_file": "originals/page-123-xref-732.jpeg",
+        "source_image_sha256": "b7fc54aa7a9a6667afb42a3a8f3e491ad069df6c7fd170780df6ce044328b196",
+        "source_image_to_pdf_transform": [
+          364.9617614746094,
+          0.0,
+          -0.0,
+          173.79132080078125,
+          745.2056274414062,
+          121.710693359375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50384.0.jpg",
+        "source_soft_mask_xref": 731,
+        "source_soft_mask_file": "originals/page-123-mask-731.jpeg",
+        "source_soft_mask_sha256": "ed5c0e0acc3198eb1950f213ffa028e5dbb0766fb610b723f9ba09e7afb9e8d4",
+        "output_pixels": [
+          487,
+          232
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "31f8b107ad873062a74f85fca6867c0197802db60052990878f6c90c014ac170"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 123,
+      "sourcePages": [
+        123
+      ],
+      "category": "Bench",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "244-245",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 152.0,
+        "depth": 54.0,
+        "height": 52.0
+      },
+      "source_product_text_blocks": [
+        "BENCH – Ref.: 50384.0\nHeight: 52 cm / 20,47 in\nWidth: 152 cm / 59,84 in\nDepth: 54 cm / 21,26 in\nNet weight: 26,00 Kg / 57,27 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50383.0",
+      "name": "Nantes Dressing Table",
+      "type": "Dressing table",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        2100,
+        480,
+        800
+      ],
+      "weight_kg": 127,
+      "source_pdf_page": 124,
+      "visible_details": [
+        "Wide polished burl top with two flanking storage pedestals and open central knee recess",
+        "Each pedestal front shows one shallow upper drawer and one larger lower panel with small rectangular gold pulls",
+        "Central top rail is fluted gold, flanked by oval-lattice black bands and corner rosettes",
+        "Outer vertical gold oval-lattice borders and inset rectangular door/panel details",
+        "Low black shaped plinths on short gold-collared black feet"
+      ],
+      "reference_note": "Native-density crop of original lifestyle image. Stool partly overlaps centre recess and lower front and remains visible. Front seams/pulls guide reconstruction; hidden storage, drawer depth and mechanisms are unverified.",
+      "image": {
+        "source_pdf_page": 124,
+        "source_image_xref": 739,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          10,
+          685,
+          730,
+          1010
+        ],
+        "crop_rect_pdf_points": [
+          6.335704803466797,
+          512.4284057617188,
+          546.0724487304688,
+          756.1021728515625
+        ],
+        "source_image_file": "originals/page-124-xref-739.jpeg",
+        "source_image_sha256": "2cf8cd7fcea3a680988840c77234854e2a40048de532c10d1dc697092873cc89",
+        "source_image_to_pdf_transform": [
+          597.4586181640625,
+          0.0,
+          -0.0,
+          844.2359008789062,
+          -1.1606390476226807,
+          -1.16094970703125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50383.0.jpg",
+        "source_soft_mask_xref": 738,
+        "source_soft_mask_file": "originals/page-124-mask-738.png",
+        "source_soft_mask_sha256": "43b54b6c2f23befa856f38690bff87aab75195a34d2c96eb536a9cc978a13653",
+        "output_pixels": [
+          720,
+          325
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "b43ffd1bf1d2a674224d416be70afe30b5a29d1df82efd8bd7335cea6a88ad7b"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 124,
+      "sourcePages": [
+        124
+      ],
+      "category": "Dressing table",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "246-247",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 210.0,
+        "depth": 48.0,
+        "height": 80.0
+      },
+      "source_product_text_blocks": [
+        "DRESSING TABLE – Ref.: 50383.0\nHeight: 80 cm / 31,5 in\nWidth: 210 cm / 82,68 in\nDepth: 48 cm / 18,9 in\nNet weight: 127,00 Kg / 279,74 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    },
+    {
+      "sku": "50385.0",
+      "name": "Nantes Upholstered Stool",
+      "type": "Stool",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        540,
+        540,
+        430
+      ],
+      "weight_kg": 13,
+      "source_pdf_page": 124,
+      "finish": "NAN (544)",
+      "fabric_codes": [
+        "243.135"
+      ],
+      "fabric_statement": "Suggested Fabric: 243.135",
+      "visible_details": [
+        "Compact square pale upholstered stool with upper cushion seam and upholstered lower block",
+        "Low glossy-black shaped apron with narrow gold edge",
+        "Four short black feet with wide ribbed gold collars"
+      ],
+      "reference_note": "Original lifestyle crop, not an isolated white-background product photo. Adjacent dressing-table surfaces remain behind the stool and no missing surface has been synthesized.",
+      "image": {
+        "source_pdf_page": 124,
+        "source_image_xref": 739,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          325,
+          815,
+          590,
+          1030
+        ],
+        "crop_rect_pdf_points": [
+          242.47052001953125,
+          609.8978881835938,
+          441.1236572265625,
+          771.0974731445312
+        ],
+        "source_image_file": "originals/page-124-xref-739.jpeg",
+        "source_image_sha256": "2cf8cd7fcea3a680988840c77234854e2a40048de532c10d1dc697092873cc89",
+        "source_image_to_pdf_transform": [
+          597.4586181640625,
+          0.0,
+          -0.0,
+          844.2359008789062,
+          -1.1606390476226807,
+          -1.16094970703125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50385.0.jpg",
+        "source_soft_mask_xref": 738,
+        "source_soft_mask_file": "originals/page-124-mask-738.png",
+        "source_soft_mask_sha256": "43b54b6c2f23befa856f38690bff87aab75195a34d2c96eb536a9cc978a13653",
+        "output_pixels": [
+          265,
+          215
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "23741363b591d2e8f699f6c71abe2b524154e080db5e605ebccb4e7f6107752d"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 124,
+      "sourcePages": [
+        124
+      ],
+      "category": "Stool",
+      "rooms": [
+        "Bedroom"
+      ],
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "246-247",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 54.0,
+        "depth": 54.0,
+        "height": 43.0
+      },
+      "source_product_text_blocks": [
+        "STOOL – Ref.: 50385.0\nHeight: 43 cm / 16,93 in\nWidth: 54 cm / 21,26 in\nDepth: 54 cm / 21,26 in\nNet weight: 13,00 Kg / 28,63 Ib\nFinish: NAN (544)\n"
+      ]
+    },
+    {
+      "sku": "50386.0",
+      "name": "Nantes Five-drawer Chest",
+      "type": "Chest of drawers",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        780,
+        450,
+        1340
+      ],
+      "weight_kg": 105,
+      "source_pdf_page": 124,
+      "visible_details": [
+        "FIVE stacked full-width burl drawers each with small rectangular gold/black handle",
+        "Gold oval-lattice black top band and outer uprights with square top-corner rosettes",
+        "Fine framed inlay detail on side panels",
+        "Shaped black lower plinth outlined in gold and short feet with ribbed gold collars"
+      ],
+      "reference_note": "Five-drawer count visible in isolated product source and bedroom lifestyle image. Drawer internals and opening mechanisms are unverified.",
+      "image": {
+        "source_pdf_page": 124,
+        "source_image_xref": 741,
+        "source_native_pixels": [
+          383,
+          564
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          383,
+          564
+        ],
+        "crop_rect_pdf_points": [
+          891.83740234375,
+          232.63253784179688,
+          1178.814208984375,
+          655.2528076171875
+        ],
+        "source_image_file": "originals/page-124-xref-741.jpeg",
+        "source_image_sha256": "417bb60783923734bd5bebb55d9dd0643fe9192728fa058dc11a502f351952cc",
+        "source_image_to_pdf_transform": [
+          286.9767761230469,
+          0.0,
+          -0.0,
+          422.6202697753906,
+          891.83740234375,
+          232.63253784179688
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50386.0.jpg",
+        "source_soft_mask_xref": 740,
+        "source_soft_mask_file": "originals/page-124-mask-740.jpeg",
+        "source_soft_mask_sha256": "0372701640e23405e6e1721f6dfce3161269a167ae5edb159f31a2128bc8c7ce",
+        "output_pixels": [
+          383,
+          564
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "536083e465e3f5a36cb42997d88e5c8173afd18857cb1d4e1ad64a6a4b0405ad"
+      },
+      "collection": "NANTES",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 124,
+      "sourcePages": [
+        124
+      ],
+      "category": "Chest of drawers",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "NAN. /OF (544/55)",
+      "imageShared": false,
+      "materials": [
+        "Oak burl veneer",
+        "Sycamore inlays",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "246-247",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 78.0,
+        "depth": 45.0,
+        "height": 134.0
+      },
+      "source_product_text_blocks": [
+        "CHEST OF DRAWERS – Ref.: 50386.0\nHeight: 134 cm / 52,76 in\nWidth: 78 cm / 30,71 in\nDepth: 45 cm / 17,72 in\nNet weight: 105,00 Kg / 231,28 Ib\nFinish: NAN. /OF (544/55)\n"
+      ]
+    }
+  ],
+  "supporting_images": [
+    {
+      "source_pdf_page": 32,
+      "source_image_xref": 166,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.1691646575927734,
+        -1.18353271484375,
+        1191.6578369140625,
+        843.07373046875
+      ],
+      "source_image_file": "originals/page-032-xref-166.jpeg",
+      "source_image_sha256": "156efc1cafac199a235e17a5b0947d84663961c84d23b7d224b61ae8a60682c5",
+      "source_image_to_pdf_transform": [
+        1192.8270263671875,
+        0.0,
+        -0.0,
+        844.2572631835938,
+        -1.1691646575927734,
+        -1.18353271484375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-living.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "156efc1cafac199a235e17a5b0947d84663961c84d23b7d224b61ae8a60682c5",
+      "room": "Living room",
+      "description": "Original full living room including pale panelled walls, marble fireplace, crystal chandelier, blue urn lamps, grey rug"
+    },
+    {
+      "source_pdf_page": 33,
+      "source_image_xref": 169,
+      "source_native_pixels": [
+        797,
+        945
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        945
+      ],
+      "crop_rect_pdf_points": [
+        -1.1022419929504395,
+        75.46905517578125,
+        596.4373779296875,
+        783.7796630859375
+      ],
+      "source_image_file": "originals/page-033-xref-169.jpeg",
+      "source_image_sha256": "22391ebd9e9f139e307c0192eea1b9e916909cb76fe100bb6abfc28ab196466a",
+      "source_image_to_pdf_transform": [
+        597.5396118164062,
+        0.0,
+        -0.0,
+        708.3106079101562,
+        -1.1022419929504395,
+        75.46905517578125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-living-window-left.jpg",
+      "output_pixels": [
+        797,
+        945
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "22391ebd9e9f139e307c0192eea1b9e916909cb76fe100bb6abfc28ab196466a",
+      "room": "Living room",
+      "description": "Original left-half room window/seating image"
+    },
+    {
+      "source_pdf_page": 33,
+      "source_image_xref": 170,
+      "source_native_pixels": [
+        803,
+        945
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        803,
+        945
+      ],
+      "crop_rect_pdf_points": [
+        589.9884033203125,
+        75.46905517578125,
+        1191.7584228515625,
+        783.7796630859375
+      ],
+      "source_image_file": "originals/page-033-xref-170.jpeg",
+      "source_image_sha256": "535cbb388a4826d02f3f8a5dd938c02a82e0602d3319c25a378e353f4d9f2113",
+      "source_image_to_pdf_transform": [
+        601.77001953125,
+        0.0,
+        -0.0,
+        708.3106079101562,
+        589.9884033203125,
+        75.46905517578125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-living-window-right.jpg",
+      "output_pixels": [
+        803,
+        945
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "535cbb388a4826d02f3f8a5dd938c02a82e0602d3319c25a378e353f4d9f2113",
+      "room": "Living room",
+      "description": "Original right-half room window/seating image; complementary full-height city window and striped curtains"
+    },
+    {
+      "source_pdf_page": 34,
+      "source_image_xref": 175,
+      "source_native_pixels": [
+        713,
+        415
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        713,
+        415
+      ],
+      "crop_rect_pdf_points": [
+        4.77166748046875,
+        -1.076904296875,
+        539.3196411132812,
+        310.06201171875
+      ],
+      "source_image_file": "originals/page-034-xref-175.jpeg",
+      "source_image_sha256": "edb0e70146e6424f16b9f4bd76391265c7f564b28159ccd6e96ea28b15e57cc8",
+      "source_image_to_pdf_transform": [
+        -534.5479736328125,
+        -0.0,
+        -0.0,
+        311.138916015625,
+        539.3196411132812,
+        -1.076904296875
+      ],
+      "source_pdf_horizontal_mirror": true,
+      "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+      "file": "original-sofa-rear.jpg",
+      "output_pixels": [
+        713,
+        415
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "edb0e70146e6424f16b9f4bd76391265c7f564b28159ccd6e96ea28b15e57cc8",
+      "room": "Living room",
+      "description": "Original continuous curved oak-burl sofa shell and inlay borders"
+    },
+    {
+      "source_pdf_page": 34,
+      "source_image_xref": 177,
+      "source_native_pixels": [
+        797,
+        930
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        930
+      ],
+      "crop_rect_pdf_points": [
+        594.0733032226562,
+        146.02001953125,
+        1191.75341796875,
+        842.9212036132812
+      ],
+      "source_image_file": "originals/page-034-xref-177.jpeg",
+      "source_image_sha256": "bbf0a13a851705242f6ec27963cf96042d1a7ba7fd3db18aed7b2c97289094c9",
+      "source_image_to_pdf_transform": [
+        597.68017578125,
+        0.0,
+        -0.0,
+        696.9011840820312,
+        594.0733032226562,
+        146.02001953125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-armchair-rear.jpg",
+      "source_soft_mask_xref": 176,
+      "source_soft_mask_file": "originals/page-034-mask-176.png",
+      "source_soft_mask_sha256": "ccc5db066b7d591ddd292f4ea2e96456df856b92939fffb906f9f2f7d903a19e",
+      "output_pixels": [
+        797,
+        930
+      ],
+      "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+      "sha256": "af87956d2fc02f84aef652b416ae25309c92e25c6e2e46f1068d12047fb3ad6b",
+      "room": "Living room",
+      "description": "Original rounded armchair shell/back"
+    },
+    {
+      "source_pdf_page": 35,
+      "source_image_xref": 183,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0753662586212158,
+        -1.07708740234375,
+        596.3173828125,
+        842.9362182617188
+      ],
+      "source_image_file": "originals/page-035-xref-183.jpeg",
+      "source_image_sha256": "dcc53ad85a0cdd5c1d7420ebe6362facbc56aab08ea8f19f7d1d1a785709263b",
+      "source_image_to_pdf_transform": [
+        597.3927612304688,
+        0.0,
+        -0.0,
+        844.0133056640625,
+        -1.0753662586212158,
+        -1.07708740234375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-side-table-lifestyle.jpg",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "dcc53ad85a0cdd5c1d7420ebe6362facbc56aab08ea8f19f7d1d1a785709263b",
+      "room": "Living room",
+      "description": "Original side-table detail, lamp, curtains and city window"
+    },
+    {
+      "source_pdf_page": 98,
+      "source_image_xref": 590,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0966084003448486,
+        -1.07379150390625,
+        1191.65283203125,
+        842.9656982421875
+      ],
+      "source_image_file": "originals/page-098-xref-590.jpeg",
+      "source_image_sha256": "83f486a776408171feaaf076c09fd6544b556268a3b646258b59066e817ce39a",
+      "source_image_to_pdf_transform": [
+        1192.7493896484375,
+        0.0,
+        -0.0,
+        844.0394897460938,
+        -1.0966084003448486,
+        -1.07379150390625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-dining.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "83f486a776408171feaaf076c09fd6544b556268a3b646258b59066e817ce39a",
+      "room": "Dining room",
+      "description": "Original dining room with grey panel walls, marble floor, plum rug and gold chandelier"
+    },
+    {
+      "source_pdf_page": 99,
+      "source_image_xref": 597,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        594.0977172851562,
+        -1.169921875,
+        1191.572265625,
+        842.9033203125
+      ],
+      "source_image_file": "originals/page-099-xref-597.jpeg",
+      "source_image_sha256": "c59dddb8d76cc7fd129ae5441f1943bdd3f02a833d856a27cb5d036b1e321f44",
+      "source_image_to_pdf_transform": [
+        597.474609375,
+        0.0,
+        -0.0,
+        844.0732421875,
+        594.0977172851562,
+        -1.169921875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-dining-table-lifestyle.jpg",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "c59dddb8d76cc7fd129ae5441f1943bdd3f02a833d856a27cb5d036b1e321f44",
+      "room": "Dining room",
+      "description": "Original close-up two-pedestal dining table, table settings and floral centrepiece"
+    },
+    {
+      "source_pdf_page": 100,
+      "source_image_xref": 601,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0056244134902954,
+        -1.00537109375,
+        596.35986328125,
+        842.8956298828125
+      ],
+      "source_image_file": "originals/page-100-xref-601.jpeg",
+      "source_image_sha256": "78d393440890a4c1a9173a5e308279c7b2f5c78a9d22c6c843c4174e8a4d019c",
+      "source_image_to_pdf_transform": [
+        597.365478515625,
+        0.0,
+        -0.0,
+        843.9010009765625,
+        -1.0056244134902954,
+        -1.00537109375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-cabinet-lifestyle.jpg",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "78d393440890a4c1a9173a5e308279c7b2f5c78a9d22c6c843c4174e8a4d019c",
+      "room": "Dining room",
+      "description": "Original glazed cabinet and adjacent dining armchair"
+    },
+    {
+      "source_pdf_page": 101,
+      "source_image_xref": 614,
+      "source_native_pixels": [
+        449,
+        288
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        449,
+        288
+      ],
+      "crop_rect_pdf_points": [
+        187.86407470703125,
+        561.233154296875,
+        524.1640625,
+        776.693115234375
+      ],
+      "source_image_file": "originals/page-101-xref-614.jpeg",
+      "source_image_sha256": "bcf6d81b66f91b4fe10c6afe235a939fdfe51fb426c2357348d5f2d663021180",
+      "source_image_to_pdf_transform": [
+        336.29998779296875,
+        0.0,
+        -0.0,
+        215.45999145507812,
+        187.86407470703125,
+        561.233154296875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-commode-dining.jpg",
+      "source_soft_mask_xref": 613,
+      "source_soft_mask_file": "originals/page-101-mask-613.jpeg",
+      "source_soft_mask_sha256": "094f32a1dd685918b1909365cb6c2ac416961107bb3be229ace56b16b447bbf7",
+      "output_pixels": [
+        449,
+        288
+      ],
+      "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+      "sha256": "6d648e4f547958375612d70cd01c21b2520d88f347caf3120b2b810cc4031a48",
+      "room": "Dining room",
+      "description": "Original second published view of commode50361.0"
+    },
+    {
+      "source_pdf_page": 101,
+      "source_image_xref": 615,
+      "source_native_pixels": [
+        654,
+        872
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        654,
+        872
+      ],
+      "crop_rect_pdf_points": [
+        665.0587158203125,
+        49.79541015625,
+        1155.5521240234375,
+        703.444580078125
+      ],
+      "source_image_file": "originals/page-101-xref-615.jpeg",
+      "source_image_sha256": "3baf6506f8bfe644700dc3aa2baa9751d4fc03ad4ac3cd9aaf528755bb84f077",
+      "source_image_to_pdf_transform": [
+        -490.4934387207031,
+        -0.0,
+        -0.0,
+        653.649169921875,
+        1155.5521240234375,
+        49.79541015625
+      ],
+      "source_pdf_horizontal_mirror": true,
+      "orientation_note": "Original embedded image orientation retained; the source PDF displays this image horizontally mirrored.",
+      "file": "original-console-and-mirror.jpg",
+      "output_pixels": [
+        654,
+        872
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "3baf6506f8bfe644700dc3aa2baa9751d4fc03ad4ac3cd9aaf528755bb84f077",
+      "room": "Dining room",
+      "description": "Original console50347.0 and portrait mirror50348.0 lifestyle composition"
+    },
+    {
+      "source_pdf_page": 122,
+      "source_image_xref": 725,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.1336913108825684,
+        -1.0860595703125,
+        1191.6644287109375,
+        842.9169311523438
+      ],
+      "source_image_file": "originals/page-122-xref-725.jpeg",
+      "source_image_sha256": "214bcc2b2839e178a525f1f0401749d1bde0f79900642c5cb72fe573bf46d740",
+      "source_image_to_pdf_transform": [
+        1192.798095703125,
+        0.0,
+        -0.0,
+        844.0029907226562,
+        -1.1336913108825684,
+        -1.0860595703125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-bedroom.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "214bcc2b2839e178a525f1f0401749d1bde0f79900642c5cb72fe573bf46d740",
+      "room": "Bedroom",
+      "description": "Original charcoal panelled bedroom with ornate cream cornice, chandelier, pale marble floor and beige rug"
+    },
+    {
+      "source_pdf_page": 124,
+      "source_image_xref": 739,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.1606390476226807,
+        -1.16094970703125,
+        596.2979736328125,
+        843.074951171875
+      ],
+      "source_image_file": "originals/page-124-xref-739.jpeg",
+      "source_image_sha256": "2cf8cd7fcea3a680988840c77234854e2a40048de532c10d1dc697092873cc89",
+      "source_image_to_pdf_transform": [
+        597.4586181640625,
+        0.0,
+        -0.0,
+        844.2359008789062,
+        -1.1606390476226807,
+        -1.16094970703125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-dressing-table-mirror-and-stool.jpg",
+      "source_soft_mask_xref": 738,
+      "source_soft_mask_file": "originals/page-124-mask-738.png",
+      "source_soft_mask_sha256": "43b54b6c2f23befa856f38690bff87aab75195a34d2c96eb536a9cc978a13653",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+      "sha256": "1f16db87fd6c0c38403133072debd45e0c4521a045acbb8790039ce129becd07",
+      "room": "Bedroom",
+      "description": "Original dressing table50383.0, portrait mirror50348.0 and stool50385.0 lifestyle composition; original PDF soft mask preserved"
+    },
+    {
+      "source_pdf_page": 35,
+      "source_image_xref": 183,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        65,
+        505,
+        710,
+        1000
+      ],
+      "crop_rect_pdf_points": [
+        47.64550018310547,
+        377.45465087890625,
+        531.1063842773438,
+        748.49072265625
+      ],
+      "source_image_file": "originals/page-035-xref-183.jpeg",
+      "source_image_sha256": "dcc53ad85a0cdd5c1d7420ebe6362facbc56aab08ea8f19f7d1d1a785709263b",
+      "source_image_to_pdf_transform": [
+        597.3927612304688,
+        0.0,
+        -0.0,
+        844.0133056640625,
+        -1.0753662586212158,
+        -1.07708740234375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-oval-lattice-and-collar.jpg",
+      "output_pixels": [
+        645,
+        495
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "2b9480d71bd6be1e62833bd776a91efa3a98893f25c2d9fe4836f19e5583db28",
+      "room": "Living room",
+      "description": "Native source close-up of oval-lattice rail, gold collars and solid lower shelf"
+    },
+    {
+      "source_pdf_page": 122,
+      "source_image_xref": 725,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        180,
+        450,
+        675,
+        725
+      ],
+      "crop_rect_pdf_points": [
+        133.815185546875,
+        336.2153015136719,
+        504.9245910644531,
+        542.3439331054688
+      ],
+      "source_image_file": "originals/page-122-xref-725.jpeg",
+      "source_image_sha256": "214bcc2b2839e178a525f1f0401749d1bde0f79900642c5cb72fe573bf46d740",
+      "source_image_to_pdf_transform": [
+        1192.798095703125,
+        0.0,
+        -0.0,
+        844.0029907226562,
+        -1.1336913108825684,
+        -1.0860595703125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-headboard.jpg",
+      "output_pixels": [
+        495,
+        275
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "af95cbb438b56e8bfd47b079c05e128ee6ec76d3ae4ad47d044e6315c4931039",
+      "room": "Bedroom",
+      "description": "Native source crop of two-panel diamond-tufted bed headboard"
+    }
+  ]
+}

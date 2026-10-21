@@ -1,0 +1,328 @@
+{
+  "collection": "NANTES",
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "files": [
+    {
+      "destination": "downloads/nantes/living-4k.png",
+      "bytes": 9016412,
+      "sha256": "b21625acf87abb1a60ad0fba24527f32e3cba9ececf71c0de86a588f32ccf397"
+    },
+    {
+      "destination": "downloads/nantes/living-wide-4k.png",
+      "bytes": 9295563,
+      "sha256": "b8975563e5a3ed1f00f7dffb2ac164a7361aeaa5aff3d1753d4ce3c2ca07ca4d"
+    },
+    {
+      "destination": "downloads/nantes/dining-4k.png",
+      "bytes": 9861914,
+      "sha256": "12a3a14a66b80d3092f4c227179389ecfa745d2e05f4d4da741cad7391b13f30"
+    },
+    {
+      "destination": "downloads/nantes/dining-round-4k.png",
+      "bytes": 9387688,
+      "sha256": "d9f0b4d05349e5f0dea0e4ba2cf862c3eb44f042be258710bb28695376be28e7"
+    },
+    {
+      "destination": "downloads/nantes/bedroom-4k.png",
+      "bytes": 9468303,
+      "sha256": "a342286e559798e50c53135c8d40afda515681679a2cfdab654ff9229ac378df"
+    },
+    {
+      "destination": "downloads/nantes/bedroom-front-4k.png",
+      "bytes": 8907370,
+      "sha256": "f2623943914d129f23757a970daa4386e0fae5c68f4a2cc90f605e7302406119"
+    },
+    {
+      "destination": "downloads/nantes/vanity-4k.png",
+      "bytes": 7370360,
+      "sha256": "da9ccdb66b486831e0484cc1dd42836426e9c1153462778ba0b5a0ad2a322ae5"
+    },
+    {
+      "destination": "downloads/nantes/detail-burl.png",
+      "bytes": 2690837,
+      "sha256": "ba7d59170b077a9526ef4743025de36e8410cb6c6baa2038f5c7a3c3da6d9142"
+    },
+    {
+      "destination": "downloads/nantes/detail-upholstery.png",
+      "bytes": 2153485,
+      "sha256": "f3cd6c1b4fe015587022a9e41ffc37fae2ee3c2cd8dd6f44f1e529c41ecdb003"
+    },
+    {
+      "destination": "downloads/nantes/detail-tufting.png",
+      "bytes": 2986826,
+      "sha256": "2df27a564f28e7203720184f717465f5b9cc751da3e791bc712d78ea0334d8d7"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50375.0.jpg",
+      "bytes": 65195,
+      "sha256": "3ef3cbc6b529a5aa4c4cac1200e105fc21e3f9787f55cc5d7de23e6db0128a74"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50376.0.jpg",
+      "bytes": 65195,
+      "sha256": "3ef3cbc6b529a5aa4c4cac1200e105fc21e3f9787f55cc5d7de23e6db0128a74"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50377.0.jpg",
+      "bytes": 41198,
+      "sha256": "a5441a9d4ae953e76889b6157591d958ee4085d5fa2d3db4c110f41f170a2fff"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50378.0.jpg",
+      "bytes": 33666,
+      "sha256": "95376a791f10526794e457e3b5d1953e1b21f1c3a9fd1ea8c3b22441b7dd39f5"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50379.0.jpg",
+      "bytes": 19881,
+      "sha256": "421a5c5e112b35e210270d6604a53aa0f47749f474f6232e7b43e67af675f69a"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50380.0.jpg",
+      "bytes": 41806,
+      "sha256": "d0b42b7e0d7654a7550899aaa82b442b13401c907d1f14ad6c0dda4976cf6bba"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50339.0.jpg",
+      "bytes": 38239,
+      "sha256": "035824e5d311e61832e6b75202eb896842cab55844c5540b1e73054a6e109cd5"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50340.0.jpg",
+      "bytes": 33399,
+      "sha256": "0c252ecbccae4b8c89624c400fe936cd2de575b4fda9d955a0b61f970c5b2e78"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50343.0.jpg",
+      "bytes": 248892,
+      "sha256": "5c083d8b77199385ae2d33f6f89cc5b36edebcac86d38da27191272f9d7735f1"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50344.0.jpg",
+      "bytes": 36782,
+      "sha256": "97d9d02eca49eb685e74937119318291e731ed403ed8a7ed6dee6edb2e8de69e"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50345.0.jpg",
+      "bytes": 41240,
+      "sha256": "f216965872a72bd16ff120739c359f5a2c4c8395c91c8ccffc253a2c12c12499"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50342.0.jpg",
+      "bytes": 11912,
+      "sha256": "7fb1fa78665c27c33da4c01c49f3112c9ca58b7eb1cb51cd56e8a683dfe10302"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50341.0.jpg",
+      "bytes": 50203,
+      "sha256": "855667fc3ffbd30ac13aa29f7fd0f257891c3b836ab7d5aadd82a787010b98e4"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50361.0.jpg",
+      "bytes": 91922,
+      "sha256": "cd2be19cbc578ba97dd9743a4f69d97ee51a027530a88c88bb7ffac9aa7542ca"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50348.0.jpg",
+      "bytes": 52387,
+      "sha256": "3b2194c02be662c121f7bccbfeb675c89feeccd5cdbce73c098adcc690872b04"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50347.0.jpg",
+      "bytes": 83856,
+      "sha256": "9e689757556b1100a91f8f65123d3d319f4cc09b5133b423b081fcdf5cce563e"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50381.0.jpg",
+      "bytes": 38392,
+      "sha256": "defa56a3620f77c98cbfaf8679da72bda3301c3b6a488f2d00d75b1ad6a4e849"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50382.0.jpg",
+      "bytes": 48924,
+      "sha256": "859e0ed72b728d4c3a09b6ab4a834b5b5c7c11c5905cbcbf816e61b31d2599cd"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50384.0.jpg",
+      "bytes": 26323,
+      "sha256": "31f8b107ad873062a74f85fca6867c0197802db60052990878f6c90c014ac170"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50383.0.jpg",
+      "bytes": 131983,
+      "sha256": "b43ffd1bf1d2a674224d416be70afe30b5a29d1df82efd8bd7335cea6a88ad7b"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50385.0.jpg",
+      "bytes": 29360,
+      "sha256": "23741363b591d2e8f699f6c71abe2b524154e080db5e605ebccb4e7f6107752d"
+    },
+    {
+      "destination": "assets/collections/nantes/catalogue/50386.0.jpg",
+      "bytes": 77991,
+      "sha256": "536083e465e3f5a36cb42997d88e5c8173afd18857cb1d4e1ad64a6a4b0405ad"
+    },
+    {
+      "destination": "assets/collections/nantes/original-room-living.jpg",
+      "bytes": 160064,
+      "sha256": "156efc1cafac199a235e17a5b0947d84663961c84d23b7d224b61ae8a60682c5"
+    },
+    {
+      "destination": "assets/collections/nantes/original-room-dining.jpg",
+      "bytes": 160796,
+      "sha256": "83f486a776408171feaaf076c09fd6544b556268a3b646258b59066e817ce39a"
+    },
+    {
+      "destination": "assets/collections/nantes/original-room-bedroom.jpg",
+      "bytes": 162239,
+      "sha256": "214bcc2b2839e178a525f1f0401749d1bde0f79900642c5cb72fe573bf46d740"
+    },
+    {
+      "destination": "downloads/nantes/nantes-interior.blend",
+      "bytes": 23706199,
+      "sha256": "3c0ffdffd1a52330f9b40597ccbd5a2e8a0c703b0ba67ab8a16108d0c77dfe49"
+    },
+    {
+      "destination": "downloads/nantes/native-audit.json",
+      "bytes": 11092,
+      "sha256": "b8acc28816ebba04c01f7d2eb60f7cd4c7d9d5a7c2621c04f86058195cd65581"
+    },
+    {
+      "destination": "downloads/nantes/render-run-audit.json",
+      "bytes": 7969,
+      "sha256": "f8effa09c158ceada815bb801d786598712d42be4e70ff6b6ffa476d611cb46a"
+    },
+    {
+      "destination": "assets/collections/nantes/source-reference.json",
+      "bytes": 102703,
+      "sha256": "7b054b420b8a8746dd486dd85071f30d614a4d060d97a00f539e22d51f74c03e"
+    },
+    {
+      "destination": "downloads/nantes/render-proof.json",
+      "bytes": 3340,
+      "sha256": "7957832a8911d3afa24ed5fb79d9f5769d8ad6d4e013765da85fe10a166d2880"
+    },
+    {
+      "destination": "downloads/nantes/NANTES-reference-pages.pdf",
+      "bytes": 1834295,
+      "sha256": "57ac7183f64672ee25406b7a60e261dcd6b2ae921cac7a28aefec227480e7bc9"
+    },
+    {
+      "destination": "downloads/nantes/nantes-project.zip",
+      "bytes": 44235831,
+      "sha256": "cbc1ac9ed8e1e6daac4d804a392494f9af44064fc9ff111ad20904b8fbdc3d04"
+    }
+  ],
+  "renderProof": {
+    "living": {
+      "file": "living-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "b21625acf87abb1a60ad0fba24527f32e3cba9ececf71c0de86a588f32ccf397",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "living-wide": {
+      "file": "living-wide-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "b8975563e5a3ed1f00f7dffb2ac164a7361aeaa5aff3d1753d4ce3c2ca07ca4d",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "dining": {
+      "file": "dining-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "12a3a14a66b80d3092f4c227179389ecfa745d2e05f4d4da741cad7391b13f30",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "dining-round": {
+      "file": "dining-round-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "d9f0b4d05349e5f0dea0e4ba2cf862c3eb44f042be258710bb28695376be28e7",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "bedroom": {
+      "file": "bedroom-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a342286e559798e50c53135c8d40afda515681679a2cfdab654ff9229ac378df",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "bedroom-front": {
+      "file": "bedroom-front-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f2623943914d129f23757a970daa4386e0fae5c68f4a2cc90f605e7302406119",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "vanity": {
+      "file": "vanity-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "da9ccdb66b486831e0484cc1dd42836426e9c1153462778ba0b5a0ad2a322ae5",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-burl": {
+      "file": "detail-burl.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "ba7d59170b077a9526ef4743025de36e8410cb6c6baa2038f5c7a3c3da6d9142",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-upholstery": {
+      "file": "detail-upholstery.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "f3cd6c1b4fe015587022a9e41ffc37fae2ee3c2cd8dd6f44f1e529c41ecdb003",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-tufting": {
+      "file": "detail-tufting.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "2df27a564f28e7203720184f717465f5b9cc751da3e791bc712d78ea0334d8d7",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "nantes-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    }
+  }
+}
