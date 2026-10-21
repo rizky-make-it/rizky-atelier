@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "siteUrl": "http://127.0.0.1:4176/",
+  "nantesInterior": true,
+  "returnToInteriorCancelsStaleProduct": true,
+  "enclosureRestored": true,
+  "errors": [],
+  "consoleErrors": [],
+  "httpErrors": []
+}

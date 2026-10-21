@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './core.js?v=nantes-1';
+import {escapeHtml as esc} from './core.js?v=nantes-2';
 
 // Supplied catalogue crops are separate from this website's render details.
 // Upstream photography/CGI and calibrated physical samples are not verified.
