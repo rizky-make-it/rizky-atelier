@@ -859,6 +859,187 @@
           "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/nantes/render-proof.json"
         }
       ]
+    },
+    {
+      "id": "belgravia",
+      "name": "BELGRAVIA",
+      "number": "08",
+      "referenceYear": 2023,
+      "kind": "Furnished catalogue interior",
+      "layout": "furnished-interior",
+      "title": "An elegant life, in ivory.",
+      "tagline": "Walnut burl. Ivory lacquer. Gilded detail.",
+      "description": "Twenty-two distinct MARINER references inhabit an arched-window salon, a walnut dining room, a soft ivory bedroom and a classical office. Dark walnut burl, white lacquer, sycamore-tone marquetry, carved gilt columns and faceted diamond aprons follow the supplied BELGRAVIA pages. Crystal lighting, pleated curtains, panel mouldings and pale textiles interpret the original room compositions. The connected plan, unseen construction and exact finish calibration remain authored interpretations, not certified manufacturer CAD or a measured source building.",
+      "finish": "BEL. / OF (488/55); high-back stool BEL. (488); ornate mirror POE. (380)",
+      "hero": "assets/collections/belgravia/living-wide.jpg",
+      "exhibition": "assets/collections/belgravia/belgravia-interior.glb",
+      "scene": "assets/collections/belgravia/scene.json",
+      "placementCount": 36,
+      "movingParts": 0,
+      "sourceSite": "https://rizky-make-it.github.io/rizky-atelier/#/collections/belgravia",
+      "sourceRepo": "https://github.com/rizky-make-it/rizky-atelier",
+      "productCount": 22,
+      "palette": [
+        "#473024",
+        "#ded9ca",
+        "#b28b42",
+        "#444742"
+      ],
+      "roomReferences": [
+        {
+          "image": "assets/collections/belgravia/original-room-living.jpg",
+          "title": "The original arched-window salon",
+          "caption": "MARINER classic catalogue, PDF page 36. Original supplied room composition, separate from the authored Blender render."
+        },
+        {
+          "image": "assets/collections/belgravia/original-room-dining.jpg",
+          "title": "The original dining room",
+          "caption": "MARINER classic catalogue, PDF page 102. Original supplied room composition, separate from the authored Blender render."
+        },
+        {
+          "image": "assets/collections/belgravia/original-room-bedroom.jpg",
+          "title": "The original ivory bedroom",
+          "caption": "MARINER classic catalogue, PDF page 125. Original supplied room composition, separate from the authored Blender render."
+        },
+        {
+          "image": "assets/collections/belgravia/original-room-office.jpg",
+          "title": "The original classic office",
+          "caption": "MARINER classic catalogue, PDF page 132. Original supplied room composition, separate from the authored Blender render."
+        }
+      ],
+      "renders": [
+        {
+          "image": "assets/collections/belgravia/living.jpg",
+          "title": "The arched-window salon",
+          "caption": "Damask seating, crystal-stem lamps, grey oak flooring and white arch-top windows. Native enclosed-room Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The arched-window salon",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/living-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/living-wide.jpg",
+          "title": "An ivory conversation",
+          "caption": "Individually modelled gilt columns, a square walnut coffee table and white-lacquer seating within charcoal architecture. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: An ivory conversation",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/living-wide-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/dining.jpg",
+          "title": "The walnut dining room",
+          "caption": "The distinct six-legged dining table, striped chairs, scroll-arm chairs, three-drawer sideboard, broad mirror and glazed cabinet. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The walnut dining room",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/dining-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/dining-pedestal.jpg",
+          "title": "The twin-pedestal setting",
+          "caption": "A separately specified dining table with two white/burl pedestals and splayed gilt claw feet. Not a colour variant of the six-leg table. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The twin-pedestal setting",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/dining-pedestal-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/bedroom.jpg",
+          "title": "The ivory bedroom",
+          "caption": "One broad tufted headboard field, faceted friezes, paired nightstands, raised rolled-end bench and cream/gold rug. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The ivory bedroom",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/bedroom-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/vanity.jpg",
+          "title": "The dressing corner",
+          "caption": "A separate dressing table and portrait mirror with the catalogue's 800 mm high-back, skirted vanity chair. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The dressing corner",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/vanity-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/office.jpg",
+          "title": "The classic office",
+          "caption": "Walnut-burl writing desk, floral armchair, fluted pilasters, shutters and olive-brown drapes. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: The classic office",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/office-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/office-wide.jpg",
+          "title": "A room for thought",
+          "caption": "The reverse desk panels, marble fireplace and pale floral rug interpret the supplied office composition. Native Blender render, 3840 × 2160.",
+          "request": "the original BELGRAVIA Blender interior render: A room for thought",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/office-wide-4k.png"
+        },
+        {
+          "image": "assets/collections/belgravia/detail-burl.jpg",
+          "title": "Walnut, diamonds & gilt",
+          "caption": "Authored walnut-burl PBR and physical diamond frieze with carved-column geometry. Actual native Blender detail, 1600 × 1600.",
+          "request": "the original BELGRAVIA Blender interior render: Walnut, diamonds & gilt",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-burl.png"
+        },
+        {
+          "image": "assets/collections/belgravia/detail-upholstery.jpg",
+          "title": "Damask & carved framing",
+          "caption": "Authored acanthus textile, fine thread normal, cushion seams and gilded front uprights. Not a scanned or calibrated manufacturer fabric. Native detail, 1600 × 1600.",
+          "request": "the original BELGRAVIA Blender interior render: Damask & carved framing",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-upholstery.png"
+        },
+        {
+          "image": "assets/collections/belgravia/detail-tufting.jpg",
+          "title": "A single field of tufting",
+          "caption": "Physical diamond-button recesses, faceted white frieze and gilt framing on the broad headboard. Native Blender detail, 1600 × 1600.",
+          "request": "the original BELGRAVIA Blender interior render: A single field of tufting",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-tufting.png"
+        }
+      ],
+      "materials": [
+        {
+          "image": "assets/collections/belgravia/detail-burl.jpg",
+          "title": "Walnut burl & diamond relief",
+          "description": "Dark authored walnut-burl veneer, fine inlay lines, white lacquer and actual raised diamond geometry. Digital interpretation, not a physical sample."
+        },
+        {
+          "image": "assets/collections/belgravia/detail-upholstery.jpg",
+          "title": "Ivory acanthus damask",
+          "description": "Reference-inspired pale botanical weave, packed micro-thread normals and modelled seams. Exact manufacturer fabric is not certified."
+        },
+        {
+          "image": "assets/collections/belgravia/detail-tufting.jpg",
+          "title": "Tufting & gilt columns",
+          "description": "Recessed buttons, soft tufted geometry, gilded framing and a faceted white-lacquer frieze, rendered from the editable scene."
+        }
+      ],
+      "files": [
+        {
+          "title": "Native Belgravia residence",
+          "extension": ".BLEND",
+          "description": "22 unique references, four complete rooms, packed PBR maps and eleven cameras.",
+          "request": "the BELGRAVIA editable Blender furnished-interior master (.blend)",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/belgravia-interior.blend"
+        },
+        {
+          "title": "Interior & individual models",
+          "extension": ".GLB",
+          "description": "An enclosed furnished residence and 22 full-detail individual product models.",
+          "request": "the BELGRAVIA furnished residence GLB and 22 individual product GLBs",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/assets/collections/belgravia/belgravia-interior.glb"
+        },
+        {
+          "title": "Complete rebuild project",
+          "extension": ".ZIP",
+          "description": "Native scene, source geometry, PBR maps, reference provenance and audits.",
+          "request": "the complete BELGRAVIA Blender project, textures, reference evidence and rebuild scripts",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/belgravia-project.zip"
+        },
+        {
+          "title": "Original room & product references",
+          "extension": ".PDF",
+          "description": "Twelve supplied MARINER spreads across living, dining, bedroom and office.",
+          "request": "the BELGRAVIA living, dining, bedroom and office source catalogue reference pages",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/BELGRAVIA-reference-pages.pdf"
+        },
+        {
+          "title": "Original 4K interior renders",
+          "extension": "4K PNG",
+          "description": "Eight genuine 4K Blender room renders and three 1600-square details.",
+          "request": "all BELGRAVIA original 4K Blender interior renders and detailed material images",
+          "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/render-proof.json"
+        }
+      ]
     }
   ],
   "products": [
@@ -2551,6 +2732,578 @@
       "collection": "nantes",
       "collectionName": "NANTES",
       "thumbnail": "assets/collections/nantes/catalogue/50386.0.jpg"
+    },
+    {
+      "sku": "50036.0",
+      "name": "Belgravia Three-seat Sofa",
+      "dimensions": [
+        2210,
+        800,
+        1130
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "imageShared": true,
+      "imageSize": [
+        572,
+        340
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50036.0.glb",
+      "articulations": 0,
+      "referenceNote": "Original isolated three-seat photograph also serves as explicitly disclosed family evidence for separately dimensioned two-seat50037.0. No isolated two-seat image appears in these source pages. Original lifestyle view on PDF36 confirms white upholstery; navy installation on PDF39 is a separately preserved alternate styling reference.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50036.0.jpg"
+    },
+    {
+      "sku": "50037.0",
+      "name": "Belgravia Two-seat Sofa",
+      "dimensions": [
+        1500,
+        800,
+        1110
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "imageShared": true,
+      "imageSize": [
+        572,
+        340
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50037.0.glb",
+      "articulations": 0,
+      "referenceNote": "SHARED FAMILY IMAGE: catalogue separately prints two-seat SKU50037.0 and dimensions but no isolated two-seat photo. The original three-seat50036.0 photograph is shared as family reference, not represented as a true two-seat photograph. Two-seat cushion count/arrangement and centre support are dimension-led reconstruction choices.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50037.0.jpg"
+    },
+    {
+      "sku": "50038.0",
+      "name": "Belgravia Lounge Armchair",
+      "dimensions": [
+        780,
+        800,
+        1110
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "imageShared": false,
+      "imageSize": [
+        282,
+        327
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50038.0.glb",
+      "articulations": 0,
+      "referenceNote": "Living lounge armchair50038.0 is a high fully upholstered side-panel chair, not the open scroll-arm dining/office50035.0.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50038.0.jpg"
+    },
+    {
+      "sku": "50061.0",
+      "name": "Belgravia Gilt Oval-in-Rectangle Mirror",
+      "dimensions": [
+        940,
+        90,
+        1380
+      ],
+      "category": "mirrors",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "imageShared": false,
+      "imageSize": [
+        405,
+        580
+      ],
+      "finish": "POE (380)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50061.0.glb",
+      "articulations": 0,
+      "referenceNote": "Native-density crop of original console lifestyle photo, retaining actual reflection and overlapping crystal vessel. Special printed finish POE(380), not BEL/OF white-walnut. Catalogue does not specify substrate, gilding chemistry or mirror bevel thickness. Exact ornamental carving is an interpretation of visible source detail.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50061.0.jpg"
+    },
+    {
+      "sku": "50050.0",
+      "name": "Belgravia Carved-leg Console",
+      "dimensions": [
+        1490,
+        450,
+        830
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "imageShared": false,
+      "imageSize": [
+        635,
+        375
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50050.0.glb",
+      "articulations": 0,
+      "referenceNote": "Original lifestyle crop retains vase base, baskets/boxes, wall and floor; no isolated console photo is printed. Visible lower stretcher curves in plan. Decorative objects are styling, not additional product SKUs. No drawer is evidenced.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50050.0.jpg"
+    },
+    {
+      "sku": "50039.0",
+      "name": "Belgravia Square Coffee Table",
+      "dimensions": [
+        1160,
+        1160,
+        480
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "imageShared": false,
+      "imageSize": [
+        770,
+        465
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50039.0.glb",
+      "articulations": 0,
+      "referenceNote": "Printed SKU/specification is on PDF38, while the clearest complete table photo is a native-density crop of original full-room image PDF36. Decorative bowl/boxes and nearby furnishings remain in the crop. Do not confuse with circular side table50040.0. Exact tabletop marquetry hidden by objects is not verified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50039.0.jpg"
+    },
+    {
+      "sku": "50040.0",
+      "name": "Belgravia Round Pedestal Side Table",
+      "dimensions": [
+        680,
+        680,
+        650
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "imageShared": false,
+      "imageSize": [
+        237,
+        267
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50040.0.glb",
+      "articulations": 0,
+      "referenceNote": "Catalogue prints diameter68cm and height65cm, not width/depth separately. Dimensions_mm uses diameter for both planar axes solely for a web/model bounding box. Tray/objects on top are styling.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50040.0.jpg"
+    },
+    {
+      "sku": "50194.0",
+      "name": "Belgravia TV Cabinet",
+      "dimensions": [
+        2200,
+        500,
+        760
+      ],
+      "category": "storage",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "imageShared": false,
+      "imageSize": [
+        618,
+        234
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "living",
+      "model": "assets/collections/belgravia/models/50194.0.glb",
+      "articulations": 0,
+      "referenceNote": "Visible front seams and open centre shelf are reference evidence; hidden storage internals, opening range and AV wiring are not. Electronics/books/glasses are styling only.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50194.0.jpg"
+    },
+    {
+      "sku": "50031.0",
+      "name": "Belgravia Twin-pedestal Dining Table",
+      "dimensions": [
+        2460,
+        1320,
+        760
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 103,
+      "imageShared": false,
+      "imageSize": [
+        634,
+        298
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50031.0.glb",
+      "articulations": 0,
+      "referenceNote": "This250kg twin-pedestal variant differs from six-carved-leg50043.0 despite identical printed overall dimensions. Manufacturer does not dimension separate pedestal footprint or hidden fixings.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50031.0.jpg"
+    },
+    {
+      "sku": "50043.0",
+      "name": "Belgravia Six-leg Dining Table",
+      "dimensions": [
+        2460,
+        1320,
+        760
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 103,
+      "imageShared": false,
+      "imageSize": [
+        588,
+        287
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50043.0.glb",
+      "articulations": 0,
+      "referenceNote": "Same overall size as twin-pedestal50031.0 but source photo and188kg printed weight show a distinct six-leg construction. Six leg positions are visible in isolated photo. Hidden joinery is unverified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50043.0.jpg"
+    },
+    {
+      "sku": "50034.0",
+      "name": "Belgravia Dining Side Chair",
+      "dimensions": [
+        470,
+        620,
+        980
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "imageShared": false,
+      "imageSize": [
+        315,
+        442
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50034.0.glb",
+      "articulations": 0,
+      "referenceNote": "Original isolated side-chair photo is striped while armchair50035.0 on the same source page is floral, despite both printing241.188. Preserve this visible fabric distinction rather than assigning identical patterns solely from code. Office lifestyle PDF132 also shows striped armless chairs, not new labelled SKUs.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50034.0.jpg"
+    },
+    {
+      "sku": "50035.0",
+      "name": "Belgravia Scroll-arm Dining and Office Chair",
+      "dimensions": [
+        470,
+        620,
+        980
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "imageShared": false,
+      "imageSize": [
+        344,
+        486
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50035.0.glb",
+      "articulations": 0,
+      "referenceNote": "Same SKU repeats in dining PDF104 and office PDF133 and is counted once. Original dining image selected; office original and rear lifestyle view retained as supporting evidence. Printed470mm width is unusual for a scroll-arm chair and is not independently verified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50035.0.jpg"
+    },
+    {
+      "sku": "50032.0",
+      "name": "Belgravia Wide Landscape Mirror",
+      "dimensions": [
+        2120,
+        60,
+        1070
+      ],
+      "category": "mirrors",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "imageShared": false,
+      "imageSize": [
+        541,
+        307
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50032.0.glb",
+      "articulations": 0,
+      "referenceNote": "Landscape dining mirror is2120mm wide; bedroom50047.0 is1300mm wide. Optical bevel, backing, fixing type and exact reflection properties not specified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50032.0.jpg"
+    },
+    {
+      "sku": "50028.0",
+      "name": "Belgravia Three-drawer Sideboard",
+      "dimensions": [
+        2220,
+        530,
+        910
+      ],
+      "category": "storage",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "imageShared": false,
+      "imageSize": [
+        660,
+        393
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50028.0.glb",
+      "articulations": 0,
+      "referenceNote": "Three central drawer fronts plus two side doors are visible. Interior shelving, drawer boxes, runners and mechanisms are not manufacturer-verified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50028.0.jpg"
+    },
+    {
+      "sku": "50033.0",
+      "name": "Belgravia Glazed Display Cabinet",
+      "dimensions": [
+        1540,
+        510,
+        2100
+      ],
+      "category": "storage",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 105,
+      "imageShared": false,
+      "imageSize": [
+        710,
+        1055
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "dining",
+      "model": "assets/collections/belgravia/models/50033.0.glb",
+      "articulations": 0,
+      "referenceNote": "Native-density crop of original cabinet lifestyle photo; surrounding wall, window curtain and floor remain. Two internal glass shelves are visible, not four. Vases/books/tableware are staging. Hinges, opening travel, exact shelf thickness and internal lighting are not specified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50033.0.jpg"
+    },
+    {
+      "sku": "50044.0",
+      "name": "Belgravia Tufted Bed",
+      "dimensions": [
+        2230,
+        2150,
+        1440
+      ],
+      "category": "beds",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        576,
+        448
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50044.0.glb",
+      "articulations": 0,
+      "referenceNote": "Printed dimensions describe overall bed frame, not a certified mattress standard. Bedding/pillows are styling. Hidden mattress support, underside construction and tuft spacing are interpretative.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50044.0.jpg"
+    },
+    {
+      "sku": "50045.0",
+      "name": "Belgravia Drawer-and-door Nightstand",
+      "dimensions": [
+        720,
+        450,
+        750
+      ],
+      "category": "bedsides",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        269,
+        231
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50045.0.glb",
+      "articulations": 0,
+      "referenceNote": "One upper drawer and one lower door panel are visible. Nightstand does not carry the large white pyramid fascia seen on dressing table/bed. Drawer/door internal construction and opening mechanisms not verified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50045.0.jpg"
+    },
+    {
+      "sku": "50048.0",
+      "name": "Belgravia Rolled-end Bedroom Bench",
+      "dimensions": [
+        1620,
+        530,
+        700
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        409,
+        288
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50048.0.glb",
+      "articulations": 0,
+      "referenceNote": "Printed700mm height includes the TWO high rolled ends, not a700mm seat. Seat height is not separately specified. Bench is not a backless flat rectangular stool.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50048.0.jpg"
+    },
+    {
+      "sku": "50047.0",
+      "name": "Belgravia Bedroom Dressing Mirror",
+      "dimensions": [
+        1300,
+        60,
+        1060
+      ],
+      "category": "mirrors",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        360,
+        390
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50047.0.glb",
+      "articulations": 0,
+      "referenceNote": "Native-density crop of original dressing-table lifestyle image retains real reflection and some overlapping peacock-feather styling. Not a synthesized isolated photograph. Width1300mm differs from the wider dining mirror50032.0.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50047.0.jpg"
+    },
+    {
+      "sku": "50046.0",
+      "name": "Belgravia Dressing Table",
+      "dimensions": [
+        1820,
+        520,
+        780
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        590,
+        370
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50046.0.glb",
+      "articulations": 0,
+      "referenceNote": "Native-density original lifestyle crop retains overlapping stool50049.0, wall/floor and decorative objects. Stool hides part of knee space and lower edge; hidden storage/internals and mechanisms are unverified.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50046.0.jpg"
+    },
+    {
+      "sku": "50049.0",
+      "name": "Belgravia Skirted Vanity Stool Chair",
+      "dimensions": [
+        500,
+        520,
+        800
+      ],
+      "category": "seating",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "imageShared": false,
+      "imageSize": [
+        250,
+        353
+      ],
+      "finish": "BEL (488)",
+      "room": "bedroom",
+      "model": "assets/collections/belgravia/models/50049.0.glb",
+      "articulations": 0,
+      "referenceNote": "Original source calls50049.0 a stool despite clear high chair-back silhouette. Native-density lifestyle crop preserves actual view from behind and surrounding dressing table. Front upholstery details, concealed legs and exact seat height not visible and remain interpretative.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50049.0.jpg"
+    },
+    {
+      "sku": "50051.0",
+      "name": "Belgravia Carved-leg Writing Desk",
+      "dimensions": [
+        1720,
+        800,
+        790
+      ],
+      "category": "tables",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 133,
+      "imageShared": false,
+      "imageSize": [
+        476,
+        300
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "room": "office",
+      "model": "assets/collections/belgravia/models/50051.0.glb",
+      "articulations": 0,
+      "referenceNote": "Printed1720x800x790mm overall dimensions retained exactly. Original isolated view shows diamond apron face; office lifestyle PDF132 shows the opposite dark-burl drawer-panel face. Reverse-face drawer count is visually three panels but opening construction is unverified; no functioning drawer mechanism is claimed. Lamp/books are styling.",
+      "collection": "belgravia",
+      "collectionName": "BELGRAVIA",
+      "thumbnail": "assets/collections/belgravia/catalogue/50051.0.jpg"
     }
   ]
 }

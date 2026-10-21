@@ -1,0 +1,354 @@
+{
+  "collection": "BELGRAVIA",
+  "sourcePDFSHA256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "files": [
+    {
+      "destination": "downloads/belgravia/living-4k.png",
+      "bytes": 8827744,
+      "sha256": "574df59f96c0005c80f7cc2d1f4a2f22a4bf91bb8791897e3b9de79e23b9a9c8"
+    },
+    {
+      "destination": "downloads/belgravia/living-wide-4k.png",
+      "bytes": 8733752,
+      "sha256": "a44b9b5f0beca696551c6e124380d919d2ed4f28d7c7f268645ec50ac4576994"
+    },
+    {
+      "destination": "downloads/belgravia/dining-4k.png",
+      "bytes": 9078517,
+      "sha256": "55cedfcf61d8263d01f6e81ed2437677f073b220d0f717c4b6b38a158ff28e07"
+    },
+    {
+      "destination": "downloads/belgravia/dining-pedestal-4k.png",
+      "bytes": 8862354,
+      "sha256": "5ba3f2d19236ba10b554e71a3c388546d6ced18056562d69ae2d0ff12e88e87f"
+    },
+    {
+      "destination": "downloads/belgravia/bedroom-4k.png",
+      "bytes": 8474527,
+      "sha256": "a4e8f5fccbc3c2877720a49160331774bae10f6b5ab0a704a63d63ac66f01768"
+    },
+    {
+      "destination": "downloads/belgravia/vanity-4k.png",
+      "bytes": 7709308,
+      "sha256": "7fb437a92fa433c31b8a151385a4c4c1a3baa3d3c9a7fcc22a7538ede461a21b"
+    },
+    {
+      "destination": "downloads/belgravia/office-4k.png",
+      "bytes": 8322096,
+      "sha256": "a297ec730299cb83c48bcdc6c85e5383bb7aaf90cd48dc9e4dab130d1ec35cef"
+    },
+    {
+      "destination": "downloads/belgravia/office-wide-4k.png",
+      "bytes": 8130826,
+      "sha256": "25d187442eae1d45d3cf574b9fcba91edb03340550988a8dbc9a9398d19b73c0"
+    },
+    {
+      "destination": "downloads/belgravia/detail-burl.png",
+      "bytes": 2472887,
+      "sha256": "6ef0b3e937b1bfa51557322471fde807cba6ee7da3421fc7dae01e95135b1957"
+    },
+    {
+      "destination": "downloads/belgravia/detail-upholstery.png",
+      "bytes": 2222969,
+      "sha256": "7d6c0c501c812962ef1eca00308db391e657b27d3657969377775638bf0db446"
+    },
+    {
+      "destination": "downloads/belgravia/detail-tufting.png",
+      "bytes": 2498086,
+      "sha256": "8f3b462a2d78f15d92760a394078a879b0889d16d9bc6422c91779c944518d02"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50036.0.jpg",
+      "bytes": 46536,
+      "sha256": "4c42825184aeaf4d7a5e838a8dbf6c8a8176fb55dc761922187b0a1bed714d3d"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50037.0.jpg",
+      "bytes": 46536,
+      "sha256": "4c42825184aeaf4d7a5e838a8dbf6c8a8176fb55dc761922187b0a1bed714d3d"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50038.0.jpg",
+      "bytes": 25882,
+      "sha256": "e00fff5ebbbeb03ed18656a3b27fe862938e5ef49b87f8bb81bf31c0b7b20cd9"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50061.0.jpg",
+      "bytes": 134519,
+      "sha256": "941589d50ca4dc47afe242d948d613f1069e6f8200c9a311d3d3ba9b7381e26f"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50050.0.jpg",
+      "bytes": 92484,
+      "sha256": "cfddbb1f025bed43c5aff8e3bfdadba717eb31bf1239c77119f715f13221cf54"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50039.0.jpg",
+      "bytes": 210662,
+      "sha256": "a653f1cafafff8b3e144c13684d28b0720d8ac8fea098b47a968768771efe167"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50040.0.jpg",
+      "bytes": 16821,
+      "sha256": "401ca5b681888ef421dbbdfa245a420e749fa55f7b67a5b8bbfbf1956603062e"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50194.0.jpg",
+      "bytes": 47319,
+      "sha256": "953020def0f7e044469ea2dff3a23f20081941082a7b96f74796a6967a25e0c2"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50031.0.jpg",
+      "bytes": 43090,
+      "sha256": "38ef4d345fddcbb0350daaa9ee87021328cf9f332e272e1a1479e4ceeb0c6bc4"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50043.0.jpg",
+      "bytes": 42096,
+      "sha256": "940d47cb4eac62d5b8b6fcbb68a6f12ab5702b713b9ed27f47939727c308ed68"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50034.0.jpg",
+      "bytes": 32764,
+      "sha256": "71d3c4ad49d79bfaa516df267488045907fb2272cef32526f4da8add7822c547"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50035.0.jpg",
+      "bytes": 41781,
+      "sha256": "02c3bf4e21b10e9ebb381385a0704435f5af6191b4be1d2043761453a5c02ea1"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50032.0.jpg",
+      "bytes": 30861,
+      "sha256": "09372ab6fb3f9ea41402132e1c584a1f34259ee095898cd7b4423e8091821889"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50028.0.jpg",
+      "bytes": 78516,
+      "sha256": "0ac6ddb961118714182359f6a4c405fe7ce449e44fc28f8bc3e742216f353bb6"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50033.0.jpg",
+      "bytes": 343856,
+      "sha256": "cb11bb552e50354d85c663cc6d66a0e0a2a8a6c5527da2a7d10d4e40d15d7c7b"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50044.0.jpg",
+      "bytes": 61802,
+      "sha256": "520a5175821d4e33f264d2dbf023d6e3ac7e7d331a1bafc9b17ce8c902b4eba3"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50045.0.jpg",
+      "bytes": 17577,
+      "sha256": "720006a489b0cafaab8d3c16367a7afc64b1f512279d5556e3ae99183ef999b2"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50048.0.jpg",
+      "bytes": 18950,
+      "sha256": "d84f0da4e91bc8b2d821e800cf9f738a321ec1d1226ecdaf8424363acfb30ea0"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50047.0.jpg",
+      "bytes": 62680,
+      "sha256": "494bcdae2c3be210395075dfd0ba758dbead5c6edb8e81abfad7edd1fbd289f3"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50046.0.jpg",
+      "bytes": 104027,
+      "sha256": "c88191e89e8d2373f3aa578bd46154f8dccd362309896b32ccc840afc45ae0a2"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50049.0.jpg",
+      "bytes": 40350,
+      "sha256": "3bd4e36aab5da04ae46475c3e336ae41fe8435077183496ec386cce0ccd39a96"
+    },
+    {
+      "destination": "assets/collections/belgravia/catalogue/50051.0.jpg",
+      "bytes": 27936,
+      "sha256": "348319ddf987a803727ffb205e7ada966b23b39163538aa8ab3c896628c3601b"
+    },
+    {
+      "destination": "assets/collections/belgravia/original-room-living.jpg",
+      "bytes": 174652,
+      "sha256": "b2c84f1262c9a9cf79200f3e413e12ae38e36948c3226efeba23aa5e3e5ea2cf"
+    },
+    {
+      "destination": "assets/collections/belgravia/original-room-dining.jpg",
+      "bytes": 202209,
+      "sha256": "34415ae12e8f73835a511b7c96fd57a7a7734ccd3414151ffd60b3eb55c07f09"
+    },
+    {
+      "destination": "assets/collections/belgravia/original-room-bedroom.jpg",
+      "bytes": 132838,
+      "sha256": "77311df3eac65a38143edd008c0658d72cf7ca138172c245347bf08ba36709a9"
+    },
+    {
+      "destination": "assets/collections/belgravia/original-room-office.jpg",
+      "bytes": 162504,
+      "sha256": "52c7b2f935a8876f65265290527f7b696d41369dc1a99f61c0b2c2d4a96ccbea"
+    },
+    {
+      "destination": "downloads/belgravia/belgravia-interior.blend",
+      "bytes": 29172257,
+      "sha256": "7e5a44ff3542bcc5decafc9224475d76389d163271eee8b9b24c1bc1d165452c"
+    },
+    {
+      "destination": "downloads/belgravia/native-audit.json",
+      "bytes": 11351,
+      "sha256": "b5f630745f1ae2396fb7343cf974fc8af4b90eb20b1d794fd095866f769a9152"
+    },
+    {
+      "destination": "downloads/belgravia/render-run-audit.json",
+      "bytes": 8870,
+      "sha256": "6ecc627a8b2688f51d123e4fd4c66b04b05b8c523f7cbd53d6b5145ccfabe1af"
+    },
+    {
+      "destination": "downloads/belgravia/export-run-audit.json",
+      "bytes": 98554,
+      "sha256": "c9a1c1b3c9801688b55a79890e7f929f6382360db503ce3e4a092fcf230da196"
+    },
+    {
+      "destination": "assets/collections/belgravia/source-reference.json",
+      "bytes": 109325,
+      "sha256": "7a4f6dc61f68c43f6fadb2e655f445f324ff6df879466bfb66ebb77464e0f074"
+    },
+    {
+      "destination": "downloads/belgravia/render-proof.json",
+      "bytes": 3701,
+      "sha256": "72b541cf0cec6810861f5497642658930681c63154657b8bfaa865ab32c5de39"
+    },
+    {
+      "destination": "downloads/belgravia/BELGRAVIA-reference-pages.pdf",
+      "bytes": 2028297,
+      "sha256": "ceed34dff5abc9073cac33636e8878510e0a88cec1bae61941a885bd1adce1c3"
+    },
+    {
+      "destination": "downloads/belgravia/belgravia-project.zip",
+      "bytes": 62486911,
+      "sha256": "ac71e1fea7139ca5b998f46f43819566dbabf1e90a18e2e079d096e33da4d2cc"
+    }
+  ],
+  "renderProof": {
+    "living": {
+      "file": "living-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "574df59f96c0005c80f7cc2d1f4a2f22a4bf91bb8791897e3b9de79e23b9a9c8",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "living-wide": {
+      "file": "living-wide-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a44b9b5f0beca696551c6e124380d919d2ed4f28d7c7f268645ec50ac4576994",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "dining": {
+      "file": "dining-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "55cedfcf61d8263d01f6e81ed2437677f073b220d0f717c4b6b38a158ff28e07",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "dining-pedestal": {
+      "file": "dining-pedestal-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "5ba3f2d19236ba10b554e71a3c388546d6ced18056562d69ae2d0ff12e88e87f",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "bedroom": {
+      "file": "bedroom-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a4e8f5fccbc3c2877720a49160331774bae10f6b5ab0a704a63d63ac66f01768",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "vanity": {
+      "file": "vanity-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "7fb437a92fa433c31b8a151385a4c4c1a3baa3d3c9a7fcc22a7538ede461a21b",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "office": {
+      "file": "office-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a297ec730299cb83c48bcdc6c85e5383bb7aaf90cd48dc9e4dab130d1ec35cef",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "office-wide": {
+      "file": "office-wide-4k.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "25d187442eae1d45d3cf574b9fcba91edb03340550988a8dbc9a9398d19b73c0",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-burl": {
+      "file": "detail-burl.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "6ef0b3e937b1bfa51557322471fde807cba6ee7da3421fc7dae01e95135b1957",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-upholstery": {
+      "file": "detail-upholstery.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "7d6c0c501c812962ef1eca00308db391e657b27d3657969377775638bf0db446",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    },
+    "detail-tufting": {
+      "file": "detail-tufting.png",
+      "width": 1600,
+      "height": 1600,
+      "sha256": "8f3b462a2d78f15d92760a394078a879b0889d16d9bc6422c91779c944518d02",
+      "engine": "BLENDER_EEVEE",
+      "nativeScene": "belgravia-interior.blend",
+      "originalBlenderRender": true,
+      "walls": true,
+      "roof": true
+    }
+  }
+}

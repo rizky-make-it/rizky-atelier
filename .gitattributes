@@ -5,3 +5,4 @@ dist/downloads/madison/** -text whitespace=blank-at-eol,blank-at-eof,space-befor
 dist/downloads/trianon/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 dist/downloads/wellington/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 dist/downloads/nantes/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+dist/downloads/belgravia/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

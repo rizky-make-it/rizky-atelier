@@ -11,3 +11,6 @@
 body[data-page=collection] .collection-intro .button{background:var(--collection)}body[data-page=collection] .finish-line{border-color:var(--collection)}.collection-tabs button[aria-pressed=true]{color:var(--collection);border-color:var(--collection)}
 @media(pointer:coarse){.viewer-top>button{width:44px;height:44px}.view-modes button{min-height:44px;min-width:44px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+/* Eight collection previews retain their touch targets without overlap. */
+.hero-bottom{align-items:stretch;flex-direction:column;gap:12px}.hero-tabs{max-width:100%;overflow-x:auto;padding-bottom:5px}.hero-tabs button{flex:1 0 96px}.hero-bottom>span{line-height:1.7}
+@media(max-width:760px){.hero{height:calc(100svh - 164px)}.hero-tabs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2px 12px;overflow:visible}.hero-tabs button{min-width:0;min-height:44px;font-size:8px}.hero-tabs button span{margin-left:4px}.hero-copy{top:16%}.hero-bottom{bottom:15px}}

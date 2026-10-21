@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './core.js?v=nantes-2';
+import {escapeHtml as esc} from './core.js?v=belgravia-1';
 
 // Supplied catalogue crops are separate from this website's render details.
 // Upstream photography/CGI and calibrated physical samples are not verified.
@@ -12,7 +12,7 @@ export function cataloguePhoto(product) {
     request:`a conversation about ${product.collectionName} ${product.name} (${product.sku}), its catalogue reference and reconstructed 3D model`,
     inspect:`#/gallery/${product.collection}?product=${encodeURIComponent(product.sku)}`,
     source,brand,size:product.imageSize||[800,600],
-    label:['50491.0','50376.0'].includes(product.sku)?'Shared family reference':'Original catalogue image',
+    label:['50491.0','50376.0','50037.0'].includes(product.sku)?'Shared family reference':'Original catalogue image',
     note:product.referenceNote|| (sharedBed?'The catalogue uses one image for Queen and King beds. The dimensions and 3D model follow the selected SKU.':'The supplied catalogue crop is shown at its available resolution, without AI enhancement.'),
   };
 }
@@ -29,6 +29,7 @@ export function referenceCard(product) {
 
 export function featuredReferences(products,collectionId) {
   const matching=products.filter(p=>p.collection===collectionId);
+  if(collectionId==='belgravia')return ['50036.0','50043.0','50044.0'].map(sku=>matching.find(p=>p.sku===sku)).filter(Boolean);
   if(collectionId==='nantes')return ['50375.0','50339.0','50381.0'].map(sku=>matching.find(p=>p.sku===sku)).filter(Boolean);
   if(collectionId==='wellington')return ['50292.0','50296.0','50297.0'].map(sku=>matching.find(p=>p.sku===sku)).filter(Boolean);
   if(collectionId==='trianon')return ['50472.0','50475.1','50411.0'].map(sku=>matching.find(p=>p.sku===sku)).filter(Boolean);

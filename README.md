@@ -94,3 +94,30 @@ High-detail geometry is demanding on old phones. Only the selected collection is
 22 unique MARINER references across PDF32–35,98–101,122–124 form35furniture placements within a complete three-room architectural shell. The living room, dining room and bedroom follow the catalogue's greige/charcoal walls, white mouldings, pale marble, curtains, chandeliers and classical lighting. The connected floor plan and unmeasured styling are authored interpretations. A default enclosed room view replaces the open-exhibition approach for this collection only. The explicitly labelled architectural overview uses a cutaway; room/guide modes restore all walls and ceilings. Actual doorways connect rooms, with wall-aware walking and guided transition waypoints along the doorway lane.
 
 Native master: dist/downloads/nantes/nantes-interior.blend.22product GLBs and one optimized residence are under dist/assets/collections/nantes/. The full rebuild ZIP includes original image provenance and source scripts; seven actual4K renders and three1600-square details come from this native scene. Three original room-composition images are displayed separately from authored Blender renders. Shared two-seat sofa imagery and duplicated commode/mirror references are explicitly handled; manufacturer dimensions remain W×D×H millimetres. Fixed storage does not invent unverified opening mechanics. All earlier collection models/images remain unchanged.
+## BELGRAVIA — four furnished rooms
+
+22 unique MARINER references from the classic catalogue, PDF36–39,102–105,
+125–126,132–133, become36staged instances in a salon, dining room, bedroom
+and office. Four original room compositions are labelled separately from eight
+genuine4K native Blender room renders and three1600-square material details.
+
+Editable native master: dist/downloads/belgravia/belgravia-interior.blend.
+Rebuild project, original evidence and packed authored PBR maps:
+dist/downloads/belgravia/belgravia-project.zip.22individual GLBs and a complete
+interior GLB are under dist/assets/collections/belgravia/. All prior collections
+and their assets are retained; the site now has8collections and94unique SKUs.
+
+The tour retains complete walls/ceilings and real doorways; only the labelled
+overview is a cutaway. Separate twin-pedestal/six-leg dining tables, walnut
+burl/white lacquer, gilt columns, diamond friezes, rolled-end bench, high-backed
+skirted chair and specialPOE380mirror follow source evidence. The unusual
+printed470mm dining-armchair width is preserved, not independently verified.
+Shared two-seat sofa imagery is disclosed. Unseen construction, exact material
+calibration and connected architecture are interpretations, not certified CAD.
+Visible file requests use the existing English Muhammad Rizky WhatsApp popup.
+
+Verification: npm test, node scripts/qa.mjs, node scripts/qa.mjs
+--belgravia-regression, and node scripts/verify-publication.mjs
+--collection=belgravia. QA checks all94decoded product models, source images,
+8collection routes, mobile multi-touch, enclosed/cutaway transitions, stale
+request cancellation, originals-to-model links and draft-only contact.

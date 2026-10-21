@@ -7,7 +7,7 @@ import {cataloguePhoto,photoButton,referenceCard,featuredReferences} from '../di
 const manifest=JSON.parse(readFileSync(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
 const products=manifest.products;
 
-test('all 72 catalogue references use existing local images and exact 3D deep links',()=>{
+test('all 94 catalogue references use existing local images and exact 3D deep links',()=>{
   for(const p of products){
     const photo=cataloguePhoto(p),html=photoButton(p);
     assert.equal(photo.image,p.thumbnail);
@@ -20,7 +20,6 @@ test('all 72 catalogue references use existing local images and exact 3D deep li
     assert.match(html,/data-request-label="Ask about this piece"/);
   }
 });
-
 test('both collections disclose shared queen and king catalogue images',()=>{
   for(const id of ['sienna','hoi-an']){
     const beds=products.filter(p=>p.collection===id&&p.category==='beds');
@@ -31,7 +30,6 @@ test('both collections disclose shared queen and king catalogue images',()=>{
     assert.notEqual(beds[0].dimensions[0],beds[1].dimensions[0]);
   }
 });
-
 test('material references show bed, dresser and bedside, with no invented Walnut photographs',()=>{
   for(const id of ['sienna','hoi-an']){
     const featured=featuredReferences(products,id);
@@ -85,4 +83,12 @@ test('Nantes combines three room sections without double-counting repeated produ
  assert.deepEqual(featuredReferences(products,'nantes').map(p=>p.sku),['50375.0','50339.0','50381.0']);
  const bed=pieces.find(p=>p.sku==='50381.0');assert.equal(bed.imageShared,false);assert.doesNotMatch(cataloguePhoto(bed).caption,/Queen and King/);
  for(const p of pieces){assert.equal(cataloguePhoto(p).brand,'MARINER');assert.deepEqual(cataloguePhoto(p).size,p.imageSize);}
+});
+test('Belgravia retains22 SKUs, original dimensions, special mirror and shared two-seat disclosure',()=>{
+ const p=products.filter(p=>p.collection==='belgravia');assert.equal(p.length,22);
+ assert.deepEqual(p.find(x=>x.sku==='50035.0').dimensions,[470,620,980]);assert.deepEqual(p.find(x=>x.sku==='50049.0').dimensions,[500,520,800]);
+ assert.match(p.find(x=>x.sku==='50061.0').finish,/POE.*380/);assert.equal(cataloguePhoto(p.find(x=>x.sku==='50037.0')).label,'Shared family reference');assert.match(cataloguePhoto(p.find(x=>x.sku==='50037.0')).note,/shared|three-seat/i);
+ assert.doesNotMatch(cataloguePhoto(p.find(x=>x.sku==='50044.0')).caption,/Queen and King/);
+ assert.deepEqual(featuredReferences(products,'belgravia').map(p=>p.sku),['50036.0','50043.0','50044.0']);
+ const c=manifest.collections.find(c=>c.id==='belgravia');assert.equal(c.layout,'furnished-interior');assert.equal(c.roomReferences.length,4);assert.equal(c.renders.length,11);assert.equal(c.placementCount,36);
 });

@@ -171,13 +171,16 @@ for(const p of JSON.parse(await readFile(join(dist,wellingtonPrefix,'products.js
 const nantesPrefix='assets/collections/nantes';
 collections.push(JSON.parse(await readFile(join(dist,nantesPrefix,'collection.json'),'utf8')));
 for(const p of JSON.parse(await readFile(join(dist,nantesPrefix,'products.json'),'utf8'))){products.push({...p,collection:'nantes',collectionName:'NANTES',model:`${nantesPrefix}/models/${p.sku}.glb`,thumbnail:`${nantesPrefix}/catalogue/${p.sku}.jpg`});}
+const belgraviaPrefix='assets/collections/belgravia';
+collections.push(JSON.parse(await readFile(join(dist,belgraviaPrefix,'collection.json'),'utf8')));
+for(const p of JSON.parse(await readFile(join(dist,belgraviaPrefix,'products.json'),'utf8'))){products.push({...p,collection:'belgravia',collectionName:'BELGRAVIA',model:`${belgraviaPrefix}/models/${p.sku}.glb`,thumbnail:`${belgraviaPrefix}/catalogue/${p.sku}.jpg`});}
 for (const c of collections) for (const f of c.files) if (f.extension === 'GITHUB') f.sourceUrl = c.sourceRepo;
-assert.equal(collections.length, 7);
-assert.equal(products.length, 72);
-assert.equal(new Set(products.map(p => p.sku)).size, 72);
-assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6, 8, 7, 15, 22]);
-assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12, 12, 10, 20, 35]);
-assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28, 0, 0, 0, 0]);
+assert.equal(collections.length, 8);
+assert.equal(products.length, 94);
+assert.equal(new Set(products.map(p => p.sku)).size, 94);
+assert.deepEqual(collections.map(c => c.productCount), [0, 14, 6, 8, 7, 15, 22, 22]);
+assert.deepEqual(collections.map(c => c.placementCount), [null, 17, 12, 12, 10, 20, 35, 36]);
+assert.deepEqual(collections.map(c => c.movingParts), [null, 32, 28, 0, 0, 0, 0, 0]);
 for (const p of products) {
   assert.ok(['beds', 'bedsides', 'storage', 'tables', 'seating', 'mirrors'].includes(p.category));
   assert.equal(p.dimensions.length, 3);

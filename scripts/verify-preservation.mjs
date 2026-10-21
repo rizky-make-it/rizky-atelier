@@ -1,0 +1,17 @@
+import {execFileSync} from 'node:child_process';
+import {readFile,writeFile} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import assert from 'node:assert/strict';
+const root=fileURLToPath(new URL('../',import.meta.url));
+const baseline='58d743897ba18e8236061032db0d89d66588dcdc';
+const old=JSON.parse(execFileSync('git',['show',baseline+':dist/assets/manifest.json'],{cwd:root,encoding:'utf8'}));
+const now=JSON.parse(await readFile(new URL('../dist/assets/manifest.json',import.meta.url),'utf8'));
+assert.deepEqual(now.collections.filter(c=>c.id!=='belgravia'),old.collections);
+assert.deepEqual(now.products.filter(p=>p.collection!=='belgravia'),old.products);
+const dirs=old.collections.flatMap(c=>['dist/assets/collections/'+c.id,'dist/downloads/'+c.id]);
+const changes=execFileSync('git',['diff','--name-only',baseline,'--',...dirs],{cwd:root,encoding:'utf8'}).trim();
+assert.equal(changes,'','Previous collection assets changed');
+const tracked=execFileSync('git',['ls-files','--',...dirs],{cwd:root,encoding:'utf8'}).trim().split('\n').filter(Boolean);
+const report={ok:true,baseline,previousCollections:old.collections.length,previousProducts:old.products.length,unchangedTrackedAssets:tracked.length,oldCollectionMetadataUnchanged:true,oldProductMetadataUnchanged:true,newCollection:'belgravia',newProducts:22};
+await writeFile(new URL('../verification/belgravia-preservation.json',import.meta.url),JSON.stringify(report,null,2));
+console.log(JSON.stringify(report));

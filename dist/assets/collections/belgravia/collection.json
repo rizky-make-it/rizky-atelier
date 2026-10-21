@@ -1,0 +1,181 @@
+{
+  "id": "belgravia",
+  "name": "BELGRAVIA",
+  "number": "08",
+  "referenceYear": 2023,
+  "kind": "Furnished catalogue interior",
+  "layout": "furnished-interior",
+  "title": "An elegant life, in ivory.",
+  "tagline": "Walnut burl. Ivory lacquer. Gilded detail.",
+  "description": "Twenty-two distinct MARINER references inhabit an arched-window salon, a walnut dining room, a soft ivory bedroom and a classical office. Dark walnut burl, white lacquer, sycamore-tone marquetry, carved gilt columns and faceted diamond aprons follow the supplied BELGRAVIA pages. Crystal lighting, pleated curtains, panel mouldings and pale textiles interpret the original room compositions. The connected plan, unseen construction and exact finish calibration remain authored interpretations, not certified manufacturer CAD or a measured source building.",
+  "finish": "BEL. / OF (488/55); high-back stool BEL. (488); ornate mirror POE. (380)",
+  "hero": "assets/collections/belgravia/living-wide.jpg",
+  "exhibition": "assets/collections/belgravia/belgravia-interior.glb",
+  "scene": "assets/collections/belgravia/scene.json",
+  "placementCount": 36,
+  "movingParts": 0,
+  "sourceSite": "https://rizky-make-it.github.io/rizky-atelier/#/collections/belgravia",
+  "sourceRepo": "https://github.com/rizky-make-it/rizky-atelier",
+  "productCount": 22,
+  "palette": [
+    "#473024",
+    "#ded9ca",
+    "#b28b42",
+    "#444742"
+  ],
+  "roomReferences": [
+    {
+      "image": "assets/collections/belgravia/original-room-living.jpg",
+      "title": "The original arched-window salon",
+      "caption": "MARINER classic catalogue, PDF page 36. Original supplied room composition, separate from the authored Blender render."
+    },
+    {
+      "image": "assets/collections/belgravia/original-room-dining.jpg",
+      "title": "The original dining room",
+      "caption": "MARINER classic catalogue, PDF page 102. Original supplied room composition, separate from the authored Blender render."
+    },
+    {
+      "image": "assets/collections/belgravia/original-room-bedroom.jpg",
+      "title": "The original ivory bedroom",
+      "caption": "MARINER classic catalogue, PDF page 125. Original supplied room composition, separate from the authored Blender render."
+    },
+    {
+      "image": "assets/collections/belgravia/original-room-office.jpg",
+      "title": "The original classic office",
+      "caption": "MARINER classic catalogue, PDF page 132. Original supplied room composition, separate from the authored Blender render."
+    }
+  ],
+  "renders": [
+    {
+      "image": "assets/collections/belgravia/living.jpg",
+      "title": "The arched-window salon",
+      "caption": "Damask seating, crystal-stem lamps, grey oak flooring and white arch-top windows. Native enclosed-room Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The arched-window salon",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/living-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/living-wide.jpg",
+      "title": "An ivory conversation",
+      "caption": "Individually modelled gilt columns, a square walnut coffee table and white-lacquer seating within charcoal architecture. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: An ivory conversation",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/living-wide-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/dining.jpg",
+      "title": "The walnut dining room",
+      "caption": "The distinct six-legged dining table, striped chairs, scroll-arm chairs, three-drawer sideboard, broad mirror and glazed cabinet. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The walnut dining room",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/dining-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/dining-pedestal.jpg",
+      "title": "The twin-pedestal setting",
+      "caption": "A separately specified dining table with two white/burl pedestals and splayed gilt claw feet. Not a colour variant of the six-leg table. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The twin-pedestal setting",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/dining-pedestal-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/bedroom.jpg",
+      "title": "The ivory bedroom",
+      "caption": "One broad tufted headboard field, faceted friezes, paired nightstands, raised rolled-end bench and cream/gold rug. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The ivory bedroom",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/bedroom-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/vanity.jpg",
+      "title": "The dressing corner",
+      "caption": "A separate dressing table and portrait mirror with the catalogue's 800 mm high-back, skirted vanity chair. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The dressing corner",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/vanity-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/office.jpg",
+      "title": "The classic office",
+      "caption": "Walnut-burl writing desk, floral armchair, fluted pilasters, shutters and olive-brown drapes. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: The classic office",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/office-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/office-wide.jpg",
+      "title": "A room for thought",
+      "caption": "The reverse desk panels, marble fireplace and pale floral rug interpret the supplied office composition. Native Blender render, 3840 \u00d7 2160.",
+      "request": "the original BELGRAVIA Blender interior render: A room for thought",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/office-wide-4k.png"
+    },
+    {
+      "image": "assets/collections/belgravia/detail-burl.jpg",
+      "title": "Walnut, diamonds & gilt",
+      "caption": "Authored walnut-burl PBR and physical diamond frieze with carved-column geometry. Actual native Blender detail, 1600 \u00d7 1600.",
+      "request": "the original BELGRAVIA Blender interior render: Walnut, diamonds & gilt",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-burl.png"
+    },
+    {
+      "image": "assets/collections/belgravia/detail-upholstery.jpg",
+      "title": "Damask & carved framing",
+      "caption": "Authored acanthus textile, fine thread normal, cushion seams and gilded front uprights. Not a scanned or calibrated manufacturer fabric. Native detail, 1600 \u00d7 1600.",
+      "request": "the original BELGRAVIA Blender interior render: Damask & carved framing",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-upholstery.png"
+    },
+    {
+      "image": "assets/collections/belgravia/detail-tufting.jpg",
+      "title": "A single field of tufting",
+      "caption": "Physical diamond-button recesses, faceted white frieze and gilt framing on the broad headboard. Native Blender detail, 1600 \u00d7 1600.",
+      "request": "the original BELGRAVIA Blender interior render: A single field of tufting",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/detail-tufting.png"
+    }
+  ],
+  "materials": [
+    {
+      "image": "assets/collections/belgravia/detail-burl.jpg",
+      "title": "Walnut burl & diamond relief",
+      "description": "Dark authored walnut-burl veneer, fine inlay lines, white lacquer and actual raised diamond geometry. Digital interpretation, not a physical sample."
+    },
+    {
+      "image": "assets/collections/belgravia/detail-upholstery.jpg",
+      "title": "Ivory acanthus damask",
+      "description": "Reference-inspired pale botanical weave, packed micro-thread normals and modelled seams. Exact manufacturer fabric is not certified."
+    },
+    {
+      "image": "assets/collections/belgravia/detail-tufting.jpg",
+      "title": "Tufting & gilt columns",
+      "description": "Recessed buttons, soft tufted geometry, gilded framing and a faceted white-lacquer frieze, rendered from the editable scene."
+    }
+  ],
+  "files": [
+    {
+      "title": "Native Belgravia residence",
+      "extension": ".BLEND",
+      "description": "22 unique references, four complete rooms, packed PBR maps and eleven cameras.",
+      "request": "the BELGRAVIA editable Blender furnished-interior master (.blend)",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/belgravia-interior.blend"
+    },
+    {
+      "title": "Interior & individual models",
+      "extension": ".GLB",
+      "description": "An enclosed furnished residence and 22 full-detail individual product models.",
+      "request": "the BELGRAVIA furnished residence GLB and 22 individual product GLBs",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/assets/collections/belgravia/belgravia-interior.glb"
+    },
+    {
+      "title": "Complete rebuild project",
+      "extension": ".ZIP",
+      "description": "Native scene, source geometry, PBR maps, reference provenance and audits.",
+      "request": "the complete BELGRAVIA Blender project, textures, reference evidence and rebuild scripts",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/belgravia-project.zip"
+    },
+    {
+      "title": "Original room & product references",
+      "extension": ".PDF",
+      "description": "Twelve supplied MARINER spreads across living, dining, bedroom and office.",
+      "request": "the BELGRAVIA living, dining, bedroom and office source catalogue reference pages",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/BELGRAVIA-reference-pages.pdf"
+    },
+    {
+      "title": "Original 4K interior renders",
+      "extension": "4K PNG",
+      "description": "Eight genuine 4K Blender room renders and three 1600-square details.",
+      "request": "all BELGRAVIA original 4K Blender interior renders and detailed material images",
+      "sourceUrl": "https://rizky-make-it.github.io/rizky-atelier/downloads/belgravia/render-proof.json"
+    }
+  ]
+}

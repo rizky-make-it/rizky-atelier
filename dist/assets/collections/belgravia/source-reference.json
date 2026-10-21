@@ -1,0 +1,2834 @@
+{
+  "collection": "BELGRAVIA",
+  "catalogue_brand": "MARINER",
+  "catalogue_title": "CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+  "sourceBrand": "MARINER",
+  "source_pdf": "C:\\Users\\Admin\\Downloads\\CLASSIC_FURNITURE_CATALOG_2023.pdf",
+  "source_pdf_sha256": "ce8ec15e3c67e962c5d3c308ecc60eaf10f2983652b4537c410c17dbe3a5df24",
+  "source_pdf_page_count": 139,
+  "source_pdf_pages": [
+    36,
+    37,
+    38,
+    39,
+    102,
+    103,
+    104,
+    105,
+    125,
+    126,
+    132,
+    133
+  ],
+  "dimensions_unit": "millimetres",
+  "dimensions_order": "width, depth, height",
+  "source_material_statement": "WALNUT BURL VENEER COMBINED WITH WHITE LACQUER, SYCAMORE MARQUETRY INLAYS, HAND-CARVED WOOD COLUMNS AND CASTED BRONZE ORNAMENTS.",
+  "source_variant_note": "Three-seat50036.0 and separately dimensioned two-seat50037.0 share the original three-seat front photograph; no isolated two-seat photo appears. This is explicitly disclosed. Armchair50035.0 repeats in dining/office and is counted once. Mirror50061.0 has special printed POE(380) finish, not the common BEL/OF white-walnut finish.",
+  "scope_note": "Full BELGRAVIA suite: living PDF36-39; dining PDF102-105; bedroom PDF125-126; office PDF132-133.22 unique product SKUs:8 living,7 dining,6 bedroom,1 new office. Dining armchair50035.0 repeats in office. Original lamps, crystal chandeliers, rugs, bedding, tableware, wall art, architecture and other room styling are not extra product SKUs.",
+  "provenance_note": "Source images are exact embedded JPEG bytes, documented native-density rectangular crops, or faithful composites of original embedded JPEGs with their original PDF soft masks over white. Raw originals, original masks, xrefs, dimensions, transforms and SHA256 hashes retained. No AI substitution, super-resolution, subject segmentation, missing-photo synthesis, recolouring or geometric image manipulation was performed.",
+  "reconstruction_caveat": "Printed dimensions and visibly documented construction are source evidence. Hidden joinery, calibrated finish/colour, exact metal coating, textile weave and fabric-code inconsistency, concealed stool legs, internal storage and opening mechanisms remain interpretative. Source images are not independently verified as photography. Original environments guide a furnished reference interior, not a freestanding exhibition.",
+  "dimension_caveats": [
+    "Armchair50035.0 width470mm is explicitly printed, even though same as armless50034.0; preserve as source oddity, not an independently verified width.",
+    "Stool50049.0 printed height800mm is overall high-back height, not seat height.",
+    "Bench50048.0 printed height700mm includes rolled raised ends, not seat height.",
+    "Side table50040.0 prints diameter680mm; duplicate planar dimensions are a model/web bounding-box convention."
+  ],
+  "rights_note": "User-supplied MARINER catalogue; original designs/images remain the rights of their owners. Extraction grants no commercial reuse licence or manufacturer endorsement.",
+  "room_reference_notes": {
+    "Living room": "Grey and charcoal walls, tall white-framed arched sash openings, cream curtains, grey timber floor, taupe shag rug, crystal-stem brass lamps and brass/crystal chandelier; white damask seating is primary reference. Navy palace installation PDF39 is a preserved alternate styling reference, not a separately specified product.",
+    "Dining room": "Grey walls and grey timber floor, arched tall windows with cream curtains, pale shag rug, warm brass chandelier, gilt small wall lights, cabinet at left and large landscape mirror above sideboard.",
+    "Bedroom": "Warm pale cream walls with fine white panel mouldings/chair rail, plain tall rear window and cream curtains, pale carpet, cream/gold floral rug, gold/crystal chandelier, twin-arm crystal wall sconces and silver urn lamp.",
+    "Office": "Cream panel walls, fluted white pilasters, shuttered tall rectangular window with full-height dark olive-brown drapes, pale carpet, cream/gold floral rug, marble fireplace, ornate urn lamp and crystal chandelier."
+  },
+  "products": [
+    {
+      "sku": "50036.0",
+      "name": "Belgravia Three-seat Sofa",
+      "type": "Sofa",
+      "room": "Living room",
+      "dimensions_mm": [
+        2210,
+        800,
+        1130
+      ],
+      "weight_kg": 53,
+      "source_pdf_page": 37,
+      "fabric_codes": [
+        "241.187",
+        "243.095"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.187 / 243.095",
+      "visible_details": [
+        "High straight upper back with sloping inward-curved shoulders down to the arms",
+        "Cream-white damask upholstery with large pale floral medallions",
+        "Gold interlocking beaded upper/side frame, white outer frame and dark burl lower apron insets",
+        "Gold centre crest on a dark rectangular top plaque and two small corner finials",
+        "Rolled front arm ends with round gold rosettes over tall gold acanthus front uprights",
+        "Short tapered white legs with dark burl front insets; no long gold table-style legs",
+        "Three individual seat cushions, two square pale pillows and two round end bolsters",
+        "Additional centre support beneath the long front rail"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50037.0"
+      ],
+      "reference_note": "Original isolated three-seat photograph also serves as explicitly disclosed family evidence for separately dimensioned two-seat50037.0. No isolated two-seat image appears in these source pages. Original lifestyle view on PDF36 confirms white upholstery; navy installation on PDF39 is a separately preserved alternate styling reference.",
+      "image": {
+        "source_pdf_page": 37,
+        "source_image_xref": 200,
+        "source_native_pixels": [
+          572,
+          340
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          572,
+          340
+        ],
+        "crop_rect_pdf_points": [
+          699.9761352539062,
+          358.58294677734375,
+          1128.968505859375,
+          613.5035400390625
+        ],
+        "source_image_file": "originals/page-037-xref-200.jpeg",
+        "source_image_sha256": "db270dcfd3ffcb09d8ddf00a26175f1cabc99415d0cd8246d4e3571a82f821c7",
+        "source_image_to_pdf_transform": [
+          428.99237060546875,
+          0.0,
+          -0.0,
+          254.9205780029297,
+          699.9761352539062,
+          358.58294677734375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50036.0.jpg",
+        "source_soft_mask_xref": 199,
+        "source_soft_mask_file": "originals/page-037-mask-199.jpeg",
+        "source_soft_mask_sha256": "d0908723816451bdd03534c985f238274054ac6561d0bdc3f61c29baa375b350",
+        "output_pixels": [
+          572,
+          340
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "4c42825184aeaf4d7a5e838a8dbf6c8a8176fb55dc761922187b0a1bed714d3d"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "category": "Sofa",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "72-73",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 221.0,
+        "depth": 80.0,
+        "height": 113.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 3 SEATER – Ref.: 50036.0\nHeight: 113 cm / 44,49 in\nWidth: 221 cm / 87,01 in\nDepth: 80 cm / 31,5 in\nNet weight: 53,00 Kg / 116,74 Ib\nFinish:  BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50037.0",
+      "name": "Belgravia Two-seat Sofa",
+      "type": "Sofa",
+      "room": "Living room",
+      "dimensions_mm": [
+        1500,
+        800,
+        1110
+      ],
+      "weight_kg": 42,
+      "source_pdf_page": 37,
+      "fabric_codes": [
+        "241.187",
+        "243.095"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.187 / 243.095",
+      "visible_details": [
+        "High straight upper back with sloping inward-curved shoulders down to the arms",
+        "Cream-white damask upholstery with large pale floral medallions",
+        "Gold interlocking beaded upper/side frame, white outer frame and dark burl lower apron insets",
+        "Gold centre crest on a dark rectangular top plaque and two small corner finials",
+        "Rolled front arm ends with round gold rosettes over tall gold acanthus front uprights",
+        "Short tapered white legs with dark burl front insets; no long gold table-style legs"
+      ],
+      "imageShared": true,
+      "imageSharedWith": [
+        "50036.0"
+      ],
+      "reference_note": "SHARED FAMILY IMAGE: catalogue separately prints two-seat SKU50037.0 and dimensions but no isolated two-seat photo. The original three-seat50036.0 photograph is shared as family reference, not represented as a true two-seat photograph. Two-seat cushion count/arrangement and centre support are dimension-led reconstruction choices.",
+      "image": {
+        "source_pdf_page": 37,
+        "source_image_xref": 200,
+        "source_native_pixels": [
+          572,
+          340
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          572,
+          340
+        ],
+        "crop_rect_pdf_points": [
+          699.9761352539062,
+          358.58294677734375,
+          1128.968505859375,
+          613.5035400390625
+        ],
+        "source_image_file": "originals/page-037-xref-200.jpeg",
+        "source_image_sha256": "db270dcfd3ffcb09d8ddf00a26175f1cabc99415d0cd8246d4e3571a82f821c7",
+        "source_image_to_pdf_transform": [
+          428.99237060546875,
+          0.0,
+          -0.0,
+          254.9205780029297,
+          699.9761352539062,
+          358.58294677734375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50037.0.jpg",
+        "source_soft_mask_xref": 199,
+        "source_soft_mask_file": "originals/page-037-mask-199.jpeg",
+        "source_soft_mask_sha256": "d0908723816451bdd03534c985f238274054ac6561d0bdc3f61c29baa375b350",
+        "output_pixels": [
+          572,
+          340
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "4c42825184aeaf4d7a5e838a8dbf6c8a8176fb55dc761922187b0a1bed714d3d"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "category": "Sofa",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "72-73",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 150.0,
+        "depth": 80.0,
+        "height": 111.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 2 SEATER – Ref.: 50037.0\nHeight: 111 cm / 43,7 in\nWidth: 150 cm / 59,06 in\nDepth: 80 cm / 31,5 in\nNet weight: 42,00 Kg / 92,51 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50038.0",
+      "name": "Belgravia Lounge Armchair",
+      "type": "Armchair",
+      "room": "Living room",
+      "dimensions_mm": [
+        780,
+        800,
+        1110
+      ],
+      "weight_kg": 27,
+      "source_pdf_page": 37,
+      "fabric_codes": [
+        "241.187",
+        "243.095"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.187 / 243.095",
+      "visible_details": [
+        "High straight upper back with sloping inward-curved shoulders down to the arms",
+        "Cream-white damask upholstery with large pale floral medallions",
+        "Gold interlocking beaded upper/side frame, white outer frame and dark burl lower apron insets",
+        "Gold centre crest on a dark rectangular top plaque and two small corner finials",
+        "Rolled front arm ends with round gold rosettes over tall gold acanthus front uprights",
+        "Short tapered white legs with dark burl front insets; no long gold table-style legs",
+        "One separate seat cushion and one square pale loose pillow; the isolated single-seat source has no round bolster"
+      ],
+      "reference_note": "Living lounge armchair50038.0 is a high fully upholstered side-panel chair, not the open scroll-arm dining/office50035.0.",
+      "image": {
+        "source_pdf_page": 37,
+        "source_image_xref": 198,
+        "source_native_pixels": [
+          282,
+          327
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          282,
+          327
+        ],
+        "crop_rect_pdf_points": [
+          899.7913818359375,
+          80.99771118164062,
+          1111.1810302734375,
+          325.7059326171875
+        ],
+        "source_image_file": "originals/page-037-xref-198.jpeg",
+        "source_image_sha256": "78bdd6185093260bcc49b676005ef2c44ca4cfb7a42d8eb6e08ed9d4ca0eb461",
+        "source_image_to_pdf_transform": [
+          211.38963317871094,
+          0.0,
+          -0.0,
+          244.70822143554688,
+          899.7913818359375,
+          80.99771118164062
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50038.0.jpg",
+        "source_soft_mask_xref": 197,
+        "source_soft_mask_file": "originals/page-037-mask-197.jpeg",
+        "source_soft_mask_sha256": "87e2cd9050a9c58273db3bc86143bc77af92b623f995cf631d731999ff42f7b8",
+        "output_pixels": [
+          282,
+          327
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "e00fff5ebbbeb03ed18656a3b27fe862938e5ef49b87f8bb81bf31c0b7b20cd9"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "category": "Armchair",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "72-73",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 78.0,
+        "depth": 80.0,
+        "height": 111.0
+      },
+      "source_product_text_blocks": [
+        "SOFA 1 SEATER – Ref.: 50038.0\nHeight: 111 cm / 43,7 in\nWidth: 78 cm / 30,70 in\nDepth: 80 cm / 31,5 in\nNet weight: 27,00 Kg / 59,47 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50061.0",
+      "name": "Belgravia Gilt Oval-in-Rectangle Mirror",
+      "type": "Mirror",
+      "room": "Living room",
+      "dimensions_mm": [
+        940,
+        90,
+        1380
+      ],
+      "weight_kg": 34,
+      "source_pdf_page": 37,
+      "finish": "POE (380)",
+      "materials": [
+        "Gold-coloured ornate carved frame; printed finish POE (380)",
+        "Mirrored glass"
+      ],
+      "visible_details": [
+        "Tall rectangular entirely gilt ornamental frame surrounding an OVAL mirrored centre",
+        "Broad stepped outer frame with corner acanthus scroll relief",
+        "Gilt corner spandrels between oval opening and rectangular frame",
+        "Tall upper centre crest containing leaf shell, wreath and scrolling foliage"
+      ],
+      "reference_note": "Native-density crop of original console lifestyle photo, retaining actual reflection and overlapping crystal vessel. Special printed finish POE(380), not BEL/OF white-walnut. Catalogue does not specify substrate, gilding chemistry or mirror bevel thickness. Exact ornamental carving is an interpretation of visible source detail.",
+      "image": {
+        "source_pdf_page": 37,
+        "source_image_xref": 196,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          170,
+          70,
+          575,
+          650
+        ],
+        "crop_rect_pdf_points": [
+          126.24736022949219,
+          51.309059143066406,
+          429.8783264160156,
+          486.0964660644531
+        ],
+        "source_image_file": "originals/page-037-xref-196.jpeg",
+        "source_image_sha256": "2ab92d45097bbe196900dee117c20d26fc9a85bc501cef3402a38bccb3aa0621",
+        "source_image_to_pdf_transform": [
+          597.5157470703125,
+          0.0,
+          -0.0,
+          844.0872802734375,
+          -1.2026722431182861,
+          -1.165283203125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50061.0.jpg",
+        "output_pixels": [
+          405,
+          580
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "941589d50ca4dc47afe242d948d613f1069e6f8200c9a311d3d3ba9b7381e26f"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "category": "Mirror",
+      "rooms": [
+        "Living room"
+      ],
+      "imageShared": false,
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "72-73",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 94.0,
+        "depth": 9.0,
+        "height": 138.0
+      },
+      "source_product_text_blocks": [
+        "MIRROR – Ref.: 50061.0\nHeight: 138 cm / 54,33 in\nWidth: 94 cm / 37,01 in\nDepth: 9 cm / 3,54 in\nNet weight: 34,00 Kg / 74,89 Ib\nFinish: POE (380)\n"
+      ]
+    },
+    {
+      "sku": "50050.0",
+      "name": "Belgravia Carved-leg Console",
+      "type": "Console",
+      "room": "Living room",
+      "dimensions_mm": [
+        1490,
+        450,
+        830
+      ],
+      "weight_kg": 26,
+      "source_pdf_page": 37,
+      "visible_details": [
+        "Narrow rectangular dark-burl top with fine pale perimeter edge",
+        "Long raised white pyramid-diamond apron bounded in gold and dark-burl square corner plaques",
+        "Gold carved column legs with Ionic-scroll capitals, square floral blocks, acanthus/fluted shafts and tapered lower toes",
+        "Four full-height gold carved legs",
+        "Low dark-burl shaped open stretcher link joining the feet; not a full lower storage shelf"
+      ],
+      "reference_note": "Original lifestyle crop retains vase base, baskets/boxes, wall and floor; no isolated console photo is printed. Visible lower stretcher curves in plan. Decorative objects are styling, not additional product SKUs. No drawer is evidenced.",
+      "image": {
+        "source_pdf_page": 37,
+        "source_image_xref": 196,
+        "source_native_pixels": [
+          797,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          55,
+          685,
+          690,
+          1060
+        ],
+        "crop_rect_pdf_points": [
+          40.03116226196289,
+          512.3336181640625,
+          516.094482421875,
+          793.4462280273438
+        ],
+        "source_image_file": "originals/page-037-xref-196.jpeg",
+        "source_image_sha256": "2ab92d45097bbe196900dee117c20d26fc9a85bc501cef3402a38bccb3aa0621",
+        "source_image_to_pdf_transform": [
+          597.5157470703125,
+          0.0,
+          -0.0,
+          844.0872802734375,
+          -1.2026722431182861,
+          -1.165283203125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50050.0.jpg",
+        "output_pixels": [
+          635,
+          375
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "cfddbb1f025bed43c5aff8e3bfdadba717eb31bf1239c77119f715f13221cf54"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "category": "Console",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "72-73",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 149.0,
+        "depth": 45.0,
+        "height": 83.0
+      },
+      "source_product_text_blocks": [
+        "CONSOLE  – Ref.: 50050.0\nHeight: 83 cm / 32,68in\nWidth: 149 cm / 58,66  in\nDepth: 45 cm / 17,72 in\nNet weight: 26,00 Kg / 57,27 Ib\nFinish: BEL. / OF (488/ 55)\n"
+      ]
+    },
+    {
+      "sku": "50039.0",
+      "name": "Belgravia Square Coffee Table",
+      "type": "Coffee table",
+      "room": "Living room",
+      "dimensions_mm": [
+        1160,
+        1160,
+        480
+      ],
+      "weight_kg": 51,
+      "source_pdf_page": 38,
+      "sourcePages": [
+        36,
+        38
+      ],
+      "image_source_pdf_page": 36,
+      "visible_details": [
+        "SQUARE dark polished walnut-burl top with fine pale rectangular perimeter inlay",
+        "Raised white pyramid-diamond relief around all aprons",
+        "Dark-burl corner blocks with round gilt rosettes framed in white",
+        "Gold carved column legs with Ionic-scroll capitals, square floral blocks, acanthus/fluted shafts and tapered lower toes",
+        "Four short chunky gold carved legs; no pedestal and no lower shelf"
+      ],
+      "reference_note": "Printed SKU/specification is on PDF38, while the clearest complete table photo is a native-density crop of original full-room image PDF36. Decorative bowl/boxes and nearby furnishings remain in the crop. Do not confuse with circular side table50040.0. Exact tabletop marquetry hidden by objects is not verified.",
+      "image": {
+        "source_pdf_page": 36,
+        "source_image_xref": 193,
+        "source_native_pixels": [
+          1591,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          455,
+          655,
+          1225,
+          1120
+        ],
+        "crop_rect_pdf_points": [
+          340.025146484375,
+          489.8846130371094,
+          917.3399047851562,
+          838.4969482421875
+        ],
+        "source_image_file": "originals/page-036-xref-193.jpeg",
+        "source_image_sha256": "b2c84f1262c9a9cf79200f3e413e12ae38e36948c3226efeba23aa5e3e5ea2cf",
+        "source_image_to_pdf_transform": [
+          1192.8671875,
+          0.0,
+          -0.0,
+          844.1666870117188,
+          -1.11534583568573,
+          -1.1715087890625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50039.0.jpg",
+        "output_pixels": [
+          770,
+          465
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "a653f1cafafff8b3e144c13684d28b0720d8ac8fea098b47a968768771efe167"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "category": "Coffee table",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "74-75",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 116.0,
+        "depth": 116.0,
+        "height": 48.0
+      },
+      "source_product_text_blocks": [
+        "COFFEE TABLE – Ref.: 50039.0\nHeight: 48 cm / 18,9 in\nWidth: 116 cm / 45,67 in\nDepth: 116 cm / 45,67 in\nNet weight: 51,00 Kg / 112,33 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50040.0",
+      "name": "Belgravia Round Pedestal Side Table",
+      "type": "Side table",
+      "room": "Living room",
+      "dimensions_mm": [
+        680,
+        680,
+        650
+      ],
+      "diameter_mm": 680,
+      "weight_kg": 20,
+      "source_pdf_page": 38,
+      "visible_details": [
+        "Circular polished dark-burl top with broad concentric pale inlay ring",
+        "Dark cylindrical apron with white rectangular banding and small round gold medallions",
+        "One tapering dark-burl centre column",
+        "Low circular dark-burl base with gold foliate collar around the column foot"
+      ],
+      "reference_note": "Catalogue prints diameter68cm and height65cm, not width/depth separately. Dimensions_mm uses diameter for both planar axes solely for a web/model bounding box. Tray/objects on top are styling.",
+      "image": {
+        "source_pdf_page": 38,
+        "source_image_xref": 205,
+        "source_native_pixels": [
+          237,
+          267
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          237,
+          267
+        ],
+        "crop_rect_pdf_points": [
+          120.24130249023438,
+          227.35064697265625,
+          297.6377868652344,
+          427.45306396484375
+        ],
+        "source_image_file": "originals/page-038-xref-205.jpeg",
+        "source_image_sha256": "d5c63b12b4c948c52ff86690a03d2524160bfdc5c3be76110635427127cad99b",
+        "source_image_to_pdf_transform": [
+          177.396484375,
+          0.0,
+          -0.0,
+          200.1024169921875,
+          120.24130249023438,
+          227.35064697265625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50040.0.jpg",
+        "source_soft_mask_xref": 204,
+        "source_soft_mask_file": "originals/page-038-mask-204.jpeg",
+        "source_soft_mask_sha256": "ae042f2d4cb6092b66f57ba1b5f85421513a8222acc6b9a0c959ad43ac8907b7",
+        "output_pixels": [
+          237,
+          267
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "401ca5b681888ef421dbbdfa245a420e749fa55f7b67a5b8bbfbf1956603062e"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "sourcePages": [
+        38
+      ],
+      "category": "Side table",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "74-75",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "height": 65.0,
+        "diameter": 68.0
+      },
+      "source_product_text_blocks": [
+        "SIDE TABLE – Ref.: 50040.0\nHeight: 65 cm / 25,59 in\nWidth: Ø68 cm / 26,77 in\nNet weight: 20,00 Kg / 44,05 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50194.0",
+      "name": "Belgravia TV Cabinet",
+      "type": "TV furniture",
+      "room": "Living room",
+      "dimensions_mm": [
+        2200,
+        500,
+        760
+      ],
+      "weight_kg": 108,
+      "source_pdf_page": 38,
+      "visible_details": [
+        "Long dark-burl top over broad white pyramid-diamond upper rail",
+        "Two outer solid storage fronts, each dark-burl with pale gold laurel-and-crossed-torch marquetry",
+        "Central open equipment bay divided horizontally by one white shelf into two levels",
+        "White lacquer frame, dark-burl vertical insets and four upper/lower gold rosettes",
+        "Low rectilinear plinth rather than tall carved legs"
+      ],
+      "reference_note": "Visible front seams and open centre shelf are reference evidence; hidden storage internals, opening range and AV wiring are not. Electronics/books/glasses are styling only.",
+      "image": {
+        "source_pdf_page": 38,
+        "source_image_xref": 207,
+        "source_native_pixels": [
+          618,
+          234
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          618,
+          234
+        ],
+        "crop_rect_pdf_points": [
+          42.01664733886719,
+          550.806640625,
+          504.8028564453125,
+          725.5639038085938
+        ],
+        "source_image_file": "originals/page-038-xref-207.jpeg",
+        "source_image_sha256": "c454f946f915e67437f07cb9995b1b60cc83b0a303065d79ae7a8d22930bdc82",
+        "source_image_to_pdf_transform": [
+          462.78619384765625,
+          0.0,
+          -0.0,
+          174.7572784423828,
+          42.01664733886719,
+          550.806640625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50194.0.jpg",
+        "source_soft_mask_xref": 206,
+        "source_soft_mask_file": "originals/page-038-mask-206.jpeg",
+        "source_soft_mask_sha256": "fdf3433c5a89f4475129ac7251e2241a743f2003b978640cf8284baa18395227",
+        "output_pixels": [
+          618,
+          234
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "953020def0f7e044469ea2dff3a23f20081941082a7b96f74796a6967a25e0c2"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 38,
+      "sourcePages": [
+        38
+      ],
+      "category": "TV furniture",
+      "rooms": [
+        "Living room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "74-75",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 220.0,
+        "depth": 50.0,
+        "height": 76.0
+      },
+      "source_product_text_blocks": [
+        "TV FURNITURE – Ref.: 50194.0\nHeight: 76 cm / 29,92 in\nWidth: 220 cm / 86,61 in\nDepth: 50 cm / 19,6 in\nNet weight: 108,00 Kg / 237,89 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50031.0",
+      "name": "Belgravia Twin-pedestal Dining Table",
+      "type": "Dining table",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2460,
+        1320,
+        760
+      ],
+      "weight_kg": 250,
+      "source_pdf_page": 103,
+      "visible_details": [
+        "Long rectilinear dark-burl top with softly concave clipped corners, pale inlay border and two central gold foliate marquetry emblems",
+        "White raised pyramid-diamond apron and dark-burl corner blocks",
+        "TWO substantial tapering dark-burl pedestal supports with white framing",
+        "Each pedestal sits on a white splayed four-foot base with gold claw-like toe caps and round gold medallions"
+      ],
+      "reference_note": "This250kg twin-pedestal variant differs from six-carved-leg50043.0 despite identical printed overall dimensions. Manufacturer does not dimension separate pedestal footprint or hidden fixings.",
+      "image": {
+        "source_pdf_page": 103,
+        "source_image_xref": 623,
+        "source_native_pixels": [
+          634,
+          298
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          634,
+          298
+        ],
+        "crop_rect_pdf_points": [
+          37.700775146484375,
+          100.9278564453125,
+          512.61279296875,
+          324.2296142578125
+        ],
+        "source_image_file": "originals/page-103-xref-623.jpeg",
+        "source_image_sha256": "b67a817dee2a5c627bd4ce6b5bf5fa9ccc5ea6f17683728d21ced965fae491eb",
+        "source_image_to_pdf_transform": [
+          474.9120178222656,
+          0.0,
+          -0.0,
+          223.3017578125,
+          37.700775146484375,
+          100.9278564453125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50031.0.jpg",
+        "source_soft_mask_xref": 622,
+        "source_soft_mask_file": "originals/page-103-mask-622.jpeg",
+        "source_soft_mask_sha256": "65b8f3ef51ff1e64f2d1367c3f3bc1584e0d305b9725d34c56ff71506f0dd3c4",
+        "output_pixels": [
+          634,
+          298
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "38ef4d345fddcbb0350daaa9ee87021328cf9f332e272e1a1479e4ceeb0c6bc4"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 103,
+      "sourcePages": [
+        103
+      ],
+      "category": "Dining table",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "204-205",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 246.0,
+        "depth": 132.0,
+        "height": 76.0
+      },
+      "source_product_text_blocks": [
+        "DINING TABLE – Ref.: 50031.0\nHeight: 76 cm / 29,92 in\nWidth: 246 cm / 96,85 in\nDepth: 132 cm / 51,97 in\nNet weight: 250,00 Kg / 550,66 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50043.0",
+      "name": "Belgravia Six-leg Dining Table",
+      "type": "Dining table",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2460,
+        1320,
+        760
+      ],
+      "weight_kg": 188,
+      "source_pdf_page": 103,
+      "visible_details": [
+        "Long rectilinear glossy dark-burl top with concave clipped corners, pale perimeter inlay and two central marquetry emblems",
+        "White pyramid-diamond apron with dark-burl corner plaques",
+        "Gold carved column legs with Ionic-scroll capitals, square floral blocks, acanthus/fluted shafts and tapered lower toes",
+        "SIX gold carved legs arranged as three opposed pairs, including a middle pair; not the twin-pedestal variant"
+      ],
+      "reference_note": "Same overall size as twin-pedestal50031.0 but source photo and188kg printed weight show a distinct six-leg construction. Six leg positions are visible in isolated photo. Hidden joinery is unverified.",
+      "image": {
+        "source_pdf_page": 103,
+        "source_image_xref": 625,
+        "source_native_pixels": [
+          588,
+          287
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          588,
+          287
+        ],
+        "crop_rect_pdf_points": [
+          54.836761474609375,
+          420.94512939453125,
+          495.476806640625,
+          635.562744140625
+        ],
+        "source_image_file": "originals/page-103-xref-625.jpeg",
+        "source_image_sha256": "c7791cbb2cf756a459b35a360dcb0f64b764754ad25954d9776dc78ea828741d",
+        "source_image_to_pdf_transform": [
+          440.6400451660156,
+          0.0,
+          -0.0,
+          214.6176300048828,
+          54.836761474609375,
+          420.94512939453125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50043.0.jpg",
+        "source_soft_mask_xref": 624,
+        "source_soft_mask_file": "originals/page-103-mask-624.jpeg",
+        "source_soft_mask_sha256": "59d39ac61727a6b0ce82ed85085ab904814cbcecbc5cb50ba8cd1af051bd8b2e",
+        "output_pixels": [
+          588,
+          287
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "940d47cb4eac62d5b8b6fcbb68a6f12ab5702b713b9ed27f47939727c308ed68"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 103,
+      "sourcePages": [
+        103
+      ],
+      "category": "Dining table",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "204-205",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 246.0,
+        "depth": 132.0,
+        "height": 76.0
+      },
+      "source_product_text_blocks": [
+        "DINING TABLE – Ref.: 50043.0\nHeight: 76 cm / 29,92 in\nWidth: 246 cm / 96,85 in\nDepth: 132 cm / 51,97 in\nNet weight: 188,00 Kg / 414,10 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50034.0",
+      "name": "Belgravia Dining Side Chair",
+      "type": "Dining chair",
+      "room": "Dining room",
+      "dimensions_mm": [
+        470,
+        620,
+        980
+      ],
+      "weight_kg": 10,
+      "source_pdf_page": 104,
+      "fabric_codes": [
+        "241.188"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.188",
+      "visible_details": [
+        "Armless white lacquer chair with narrow gold piping along frame and legs",
+        "Tall gently swept upholstered back with rolled top corners",
+        "Original isolated photo shows broad alternating champagne/taupe and cream vertical stripes",
+        "Short open horizontal gap under upholstered back",
+        "Upholstered seat, swept tapering front/rear legs and low white apron"
+      ],
+      "reference_note": "Original isolated side-chair photo is striped while armchair50035.0 on the same source page is floral, despite both printing241.188. Preserve this visible fabric distinction rather than assigning identical patterns solely from code. Office lifestyle PDF132 also shows striped armless chairs, not new labelled SKUs.",
+      "image": {
+        "source_pdf_page": 104,
+        "source_image_xref": 631,
+        "source_native_pixels": [
+          315,
+          442
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          315,
+          442
+        ],
+        "crop_rect_pdf_points": [
+          83.67788696289062,
+          125.96722412109375,
+          319.5455322265625,
+          457.2863464355469
+        ],
+        "source_image_file": "originals/page-104-xref-631.jpeg",
+        "source_image_sha256": "c79a89c4603d94bc4cec01ed1a3f0df455dd6aa39e1875c88f6becb6607e9009",
+        "source_image_to_pdf_transform": [
+          235.86766052246094,
+          0.0,
+          -0.0,
+          331.3191223144531,
+          83.67788696289062,
+          125.96722412109375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50034.0.jpg",
+        "source_soft_mask_xref": 630,
+        "source_soft_mask_file": "originals/page-104-mask-630.jpeg",
+        "source_soft_mask_sha256": "4dfca337822e5be87177f3bab1d875206a185e8355abdb9107e889c3c48c56e2",
+        "output_pixels": [
+          315,
+          442
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "71d3c4ad49d79bfaa516df267488045907fb2272cef32526f4da8add7822c547"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "sourcePages": [
+        104
+      ],
+      "category": "Dining chair",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "206-207",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 47.0,
+        "depth": 62.0,
+        "height": 98.0
+      },
+      "source_product_text_blocks": [
+        "CHAIR – Ref.: 50034.0\nHeight: 98 cm / 38,58 in\nWidth: 47 cm / 18,5 in\nDepth: 62 cm / 24,41 in\nNet weight: 10,00 Kg / 22,03 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50035.0",
+      "name": "Belgravia Scroll-arm Dining and Office Chair",
+      "type": "Dining armchair",
+      "room": "Dining room / Office",
+      "rooms": [
+        "Dining room",
+        "Office"
+      ],
+      "dimensions_mm": [
+        470,
+        620,
+        980
+      ],
+      "weight_kg": 12,
+      "source_pdf_page": 104,
+      "sourcePages": [
+        104,
+        133
+      ],
+      "fabric_codes": [
+        "241.188"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.188",
+      "visible_details": [
+        "White lacquer dining-height chair with gold edge piping",
+        "Open elegant curved SCROLL arms ending in gold centre rosettes above narrow front arm uprights",
+        "Cream floral-vine upholstery on seat and front of swept high back",
+        "Plain pale upholstery at rear in office lifestyle image",
+        "Four slim swept tapered white/gold legs; no wheels and no swivel base"
+      ],
+      "dimension_note": "Source explicitly prints width47cm for BOTH side chair50034.0 and armchair50035.0. This unusual armchair width is preserved verbatim, not corrected or replaced with an invented wider value.",
+      "reference_note": "Same SKU repeats in dining PDF104 and office PDF133 and is counted once. Original dining image selected; office original and rear lifestyle view retained as supporting evidence. Printed470mm width is unusual for a scroll-arm chair and is not independently verified.",
+      "image": {
+        "source_pdf_page": 104,
+        "source_image_xref": 633,
+        "source_native_pixels": [
+          344,
+          486
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          344,
+          486
+        ],
+        "crop_rect_pdf_points": [
+          241.2156219482422,
+          419.7408447265625,
+          498.89764404296875,
+          783.9349975585938
+        ],
+        "source_image_file": "originals/page-104-xref-633.jpeg",
+        "source_image_sha256": "c5dcaecdb11e56e0ce77efbd5d7aebd4496e9892ef326675ca36cca530927e50",
+        "source_image_to_pdf_transform": [
+          257.6820068359375,
+          0.0,
+          -0.0,
+          364.19415283203125,
+          241.2156219482422,
+          419.7408447265625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50035.0.jpg",
+        "source_soft_mask_xref": 632,
+        "source_soft_mask_file": "originals/page-104-mask-632.jpeg",
+        "source_soft_mask_sha256": "eac6ee7613e32027b6f6b293c02fbdf0a6d106ed08f67c4031669e90758517c8",
+        "output_pixels": [
+          344,
+          486
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "02c3bf4e21b10e9ebb381385a0704435f5af6191b4be1d2043761453a5c02ea1"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "category": "Dining armchair",
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "206-207",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 47.0,
+        "depth": 62.0,
+        "height": 98.0
+      },
+      "source_product_text_blocks": [
+        "ARMCHAIR – Ref.: 50035.0\nHeight: 98 cm / 38,58 in\nWidth: 47 cm / 18,5 in\nDepth: 62 cm / 24,41 in\nNet weight: 12,00 Kg / 26,43 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50032.0",
+      "name": "Belgravia Wide Landscape Mirror",
+      "type": "Mirror",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2120,
+        60,
+        1070
+      ],
+      "weight_kg": 52,
+      "source_pdf_page": 104,
+      "visible_details": [
+        "Wide rectangular landscape mirrored centre",
+        "Dark-burl top and bottom rails with white inner borders",
+        "White raised pyramid-diamond band along top rail",
+        "Tall dark-burl side insets in white framing with small gold oval rosettes at upper corners",
+        "Fine continuous gold beaded inside edge"
+      ],
+      "reference_note": "Landscape dining mirror is2120mm wide; bedroom50047.0 is1300mm wide. Optical bevel, backing, fixing type and exact reflection properties not specified.",
+      "image": {
+        "source_pdf_page": 104,
+        "source_image_xref": 635,
+        "source_native_pixels": [
+          541,
+          307
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          541,
+          307
+        ],
+        "crop_rect_pdf_points": [
+          732.755859375,
+          157.65478515625,
+          1137.984375,
+          387.3922119140625
+        ],
+        "source_image_file": "originals/page-104-xref-635.jpeg",
+        "source_image_sha256": "55d87f3cd8012600a36e81e21dd2c9be6e939af036f096d2a2458cc7b0890962",
+        "source_image_to_pdf_transform": [
+          405.228515625,
+          0.0,
+          -0.0,
+          229.7374267578125,
+          732.755859375,
+          157.65478515625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50032.0.jpg",
+        "source_soft_mask_xref": 634,
+        "source_soft_mask_file": "originals/page-104-mask-634.jpeg",
+        "source_soft_mask_sha256": "e541636c2c959b178f57b7e5127c0fd08d4785d1a6c8049eeb33d5566a2b05ed",
+        "output_pixels": [
+          541,
+          307
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "09372ab6fb3f9ea41402132e1c584a1f34259ee095898cd7b4423e8091821889"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "sourcePages": [
+        104
+      ],
+      "category": "Mirror",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "206-207",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 212.0,
+        "depth": 6.0,
+        "height": 107.0
+      },
+      "source_product_text_blocks": [
+        "MIRROR – Ref.: 50032.0\nHeight: 107 cm / 42,13 in\nWidth: 212 cm / 83,46 in\nDepth: 6 cm / 2,36 in\nNet weight: 52,00 Kg / 114,54 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50028.0",
+      "name": "Belgravia Three-drawer Sideboard",
+      "type": "Sideboard",
+      "room": "Dining room",
+      "dimensions_mm": [
+        2220,
+        530,
+        910
+      ],
+      "weight_kg": 158,
+      "source_pdf_page": 104,
+      "visible_details": [
+        "Wide dark-burl top with shaped projecting corners and white pyramid-diamond fascia",
+        "THREE central wide stacked drawers, each with two round dark/gold ring-like knobs",
+        "TWO outer solid doors with gold laurel-and-crossed-torch marquetry on dark-burl panels",
+        "White frame and dark-burl inset borders",
+        "Tall gold carved side columns with smaller gold carved feet beneath base"
+      ],
+      "reference_note": "Three central drawer fronts plus two side doors are visible. Interior shelving, drawer boxes, runners and mechanisms are not manufacturer-verified.",
+      "image": {
+        "source_pdf_page": 104,
+        "source_image_xref": 637,
+        "source_native_pixels": [
+          660,
+          393
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          660,
+          393
+        ],
+        "crop_rect_pdf_points": [
+          656.1590576171875,
+          392.77447509765625,
+          1150.767333984375,
+          687.1577758789062
+        ],
+        "source_image_file": "originals/page-104-xref-637.jpeg",
+        "source_image_sha256": "036a731c87edc5b6f13ae0fe4dfd9e9b52cff60b10e0e839e674a4776d351683",
+        "source_image_to_pdf_transform": [
+          494.60821533203125,
+          0.0,
+          -0.0,
+          294.38330078125,
+          656.1590576171875,
+          392.77447509765625
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50028.0.jpg",
+        "source_soft_mask_xref": 636,
+        "source_soft_mask_file": "originals/page-104-mask-636.jpeg",
+        "source_soft_mask_sha256": "444b36ec94ced1649fc064bc92bcf8e39b13022606c731fb11171490b321adc7",
+        "output_pixels": [
+          660,
+          393
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "0ac6ddb961118714182359f6a4c405fe7ce449e44fc28f8bc3e742216f353bb6"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 104,
+      "sourcePages": [
+        104
+      ],
+      "category": "Sideboard",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "206-207",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 222.0,
+        "depth": 53.0,
+        "height": 91.0
+      },
+      "source_product_text_blocks": [
+        "SIDEBOARD – Ref.: 50028.0\nHeight: 91 cm / 35,83 in\nWidth: 222 cm / 87,4 in\nDepth: 53 cm / 20,87 in\nNet weight: 158,00 Kg / 348,02 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50033.0",
+      "name": "Belgravia Glazed Display Cabinet",
+      "type": "Cabinet",
+      "room": "Dining room",
+      "dimensions_mm": [
+        1540,
+        510,
+        2100
+      ],
+      "weight_kg": 224,
+      "source_pdf_page": 105,
+      "visible_details": [
+        "Tall two-part hutch cabinet with TWO upper glass-front doors and glazed side panels",
+        "TWO visible transparent horizontal shelves create THREE display levels over the lower base",
+        "White upper-door frames with narrow gold beaded inner borders and a small paired centre pull",
+        "Dark-burl top/waist/base rails and dark vertical edge insets",
+        "White pyramid-diamond waist apron",
+        "TWO solid lower doors with dark-burl laurel-and-crossed-torch marquetry panels",
+        "Gold carved tall lower-side columns and short gold lower feet"
+      ],
+      "reference_note": "Native-density crop of original cabinet lifestyle photo; surrounding wall, window curtain and floor remain. Two internal glass shelves are visible, not four. Vases/books/tableware are staging. Hinges, opening travel, exact shelf thickness and internal lighting are not specified.",
+      "image": {
+        "source_pdf_page": 105,
+        "source_image_xref": 641,
+        "source_native_pixels": [
+          1025,
+          1126
+        ],
+        "crop_rect_native_pixels": [
+          45,
+          65,
+          755,
+          1120
+        ],
+        "crop_rect_pdf_points": [
+          32.531978607177734,
+          47.62788009643555,
+          564.9945068359375,
+          838.4937133789062
+        ],
+        "source_image_file": "originals/page-105-xref-641.jpeg",
+        "source_image_sha256": "77a986c95016a1ba468dc5fe303386856cc98211490a1339a54d05a05befd76e",
+        "source_image_to_pdf_transform": [
+          768.6958618164062,
+          0.0,
+          -0.0,
+          844.0899658203125,
+          -1.2156437635421753,
+          -1.09844970703125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50033.0.jpg",
+        "output_pixels": [
+          710,
+          1055
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "cb11bb552e50354d85c663cc6d66a0e0a2a8a6c5527da2a7d10d4e40d15d7c7b"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 105,
+      "sourcePages": [
+        105
+      ],
+      "category": "Cabinet",
+      "rooms": [
+        "Dining room"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "208-209",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 154.0,
+        "depth": 51.0,
+        "height": 210.0
+      },
+      "source_product_text_blocks": [
+        "CABINET – Ref.: 50033.0\nHeight: 210 cm / 82,68 in\nWidth: 154 cm / 60,63 in\nDepth: 51 cm / 20,08 in\nNet weight: 224,00 Kg / 493,39 Ib\nFinish: BEL. / OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50044.0",
+      "name": "Belgravia Tufted Bed",
+      "type": "Bed",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        2230,
+        2150,
+        1440
+      ],
+      "weight_kg": 120,
+      "source_pdf_page": 126,
+      "fabric_codes": [
+        "243.069"
+      ],
+      "fabric_statement": "Suggested Fabric: 243.069",
+      "visible_details": [
+        "One broad continuous cream/silver diamond-button-tufted headboard panel, not two separated panels",
+        "Tall side gold carved columns with small pinecone finials above the dark-burl crest",
+        "White raised pyramid-diamond top headboard rail",
+        "Low dark-burl side rails outlined in white and gold",
+        "White pyramid-diamond footboard fascia with dark corner blocks and small gold rosettes",
+        "Short tapered white legs with dark-burl insets",
+        "Pale duvet with natural folds, pale square pillows and one long light-taupe cylindrical head bolster"
+      ],
+      "reference_note": "Printed dimensions describe overall bed frame, not a certified mattress standard. Bedding/pillows are styling. Hidden mattress support, underside construction and tuft spacing are interpretative.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 751,
+        "source_native_pixels": [
+          576,
+          448
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          576,
+          448
+        ],
+        "crop_rect_pdf_points": [
+          53.8305549621582,
+          49.92803955078125,
+          485.48638916015625,
+          385.2028503417969
+        ],
+        "source_image_file": "originals/page-126-xref-751.jpeg",
+        "source_image_sha256": "95c39eca2979466ea5f69538efb71e1403d3285a481aa5918cb87f8206081049",
+        "source_image_to_pdf_transform": [
+          431.65582275390625,
+          0.0,
+          -0.0,
+          335.2748107910156,
+          53.8305549621582,
+          49.92803955078125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50044.0.jpg",
+        "source_soft_mask_xref": 750,
+        "source_soft_mask_file": "originals/page-126-mask-750.jpeg",
+        "source_soft_mask_sha256": "85549e05045db43a0ea04ebbfb3f3e8c344799f74171baf4a12ebefdafa888c0",
+        "output_pixels": [
+          576,
+          448
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "520a5175821d4e33f264d2dbf023d6e3ac7e7d331a1bafc9b17ce8c902b4eba3"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Bed",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 223.0,
+        "depth": 215.0,
+        "height": 144.0
+      },
+      "source_product_text_blocks": [
+        "BED – Ref.: 50044.0\nHeight: 144 cm / 56,69 in\nWidth: 223 cm / 87,8 in\nDepth: 215 cm / 84,65 in\nNet weight: 120,00 Kg / 264,32 Ib\nFinish: BEL./OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50045.0",
+      "name": "Belgravia Drawer-and-door Nightstand",
+      "type": "Nightstand",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        720,
+        450,
+        750
+      ],
+      "weight_kg": 48,
+      "source_pdf_page": 126,
+      "visible_details": [
+        "Dark-burl top over one narrow upper drawer with two round knobs",
+        "One larger lower dark-burl door panel with fine inset border, not a stack of three drawers",
+        "White lacquer cabinet frame and dark-burl side panel insets",
+        "Gold oval rosettes on upper side uprights",
+        "Dark-burl base rail over short gold carved feet"
+      ],
+      "reference_note": "One upper drawer and one lower door panel are visible. Nightstand does not carry the large white pyramid fascia seen on dressing table/bed. Drawer/door internal construction and opening mechanisms not verified.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 753,
+        "source_native_pixels": [
+          269,
+          231
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          269,
+          231
+        ],
+        "crop_rect_pdf_points": [
+          72.19954681396484,
+          378.1761474609375,
+          273.26837158203125,
+          551.08544921875
+        ],
+        "source_image_file": "originals/page-126-xref-753.jpeg",
+        "source_image_sha256": "7969b310babda83782fb1103a0b627fdcfc3bdb1e2c9008eb274f0b97c474d55",
+        "source_image_to_pdf_transform": [
+          201.06881713867188,
+          0.0,
+          -0.0,
+          172.90931701660156,
+          72.19954681396484,
+          378.1761474609375
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50045.0.jpg",
+        "source_soft_mask_xref": 752,
+        "source_soft_mask_file": "originals/page-126-mask-752.jpeg",
+        "source_soft_mask_sha256": "dbb95bb34ae496e180df56fd223b40f12c5d6280e240ea3c9b4b01c6992531ad",
+        "output_pixels": [
+          269,
+          231
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "720006a489b0cafaab8d3c16367a7afc64b1f512279d5556e3ae99183ef999b2"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Nightstand",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 72.0,
+        "depth": 45.0,
+        "height": 75.0
+      },
+      "source_product_text_blocks": [
+        "NIGHT TABLE – Ref.: 50045.0\nHeight: 75 cm / 29,53 in\nWidth: 72 cm / 28,35 in\nDepth: 45 cm / 17,72 in\nNet weight: 48,00 Kg / 105,73 Ib\nFinish: BEL./OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50048.0",
+      "name": "Belgravia Rolled-end Bedroom Bench",
+      "type": "Bench",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        1620,
+        530,
+        700
+      ],
+      "weight_kg": 26,
+      "source_pdf_page": 126,
+      "fabric_codes": [
+        "241.188"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.188",
+      "visible_details": [
+        "Long striped champagne/taupe and cream upholstered seat",
+        "Two tall outward-scrolling rolled upholstered ends above the seat level",
+        "Dark-burl external curved arm panels and gold rosettes at scroll centres",
+        "Low white frame with dark-burl front apron inset",
+        "Four short tapered white legs with dark front insets"
+      ],
+      "reference_note": "Printed700mm height includes the TWO high rolled ends, not a700mm seat. Seat height is not separately specified. Bench is not a backless flat rectangular stool.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 749,
+        "source_native_pixels": [
+          409,
+          288
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          409,
+          288
+        ],
+        "crop_rect_pdf_points": [
+          21.7410888671875,
+          534.5447998046875,
+          327.8739013671875,
+          750.161376953125
+        ],
+        "source_image_file": "originals/page-126-xref-749.jpeg",
+        "source_image_sha256": "69412ec076c349db3b3af6a102387f7a52dd4a89a99b1a487e9fabc7b15faf9b",
+        "source_image_to_pdf_transform": [
+          306.1328125,
+          0.0,
+          -0.0,
+          215.61656188964844,
+          21.7410888671875,
+          534.5447998046875
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50048.0.jpg",
+        "source_soft_mask_xref": 748,
+        "source_soft_mask_file": "originals/page-126-mask-748.jpeg",
+        "source_soft_mask_sha256": "0eace6b85d012e9acfcc4a3d898be683e79b5132dd1683a80d62406f46f75cf9",
+        "output_pixels": [
+          409,
+          288
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "d84f0da4e91bc8b2d821e800cf9f738a321ec1d1226ecdaf8424363acfb30ea0"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Bench",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 162.0,
+        "depth": 53.0,
+        "height": 70.0
+      },
+      "source_product_text_blocks": [
+        "BENCH  – Ref.: 50048.0\nHeight: 70 cm / 27,56 in\nWidth: 162 cm / 63,78 in\nDepth: 53 cm / 20,87 in\nNet weight: 26,00 Kg / 57,27 Ib\nFinish: BEL./OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50047.0",
+      "name": "Belgravia Bedroom Dressing Mirror",
+      "type": "Mirror",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        1300,
+        60,
+        1060
+      ],
+      "weight_kg": 35,
+      "source_pdf_page": 126,
+      "visible_details": [
+        "Nearly square landscape rectangular mirror rather than the tall oval living mirror",
+        "Dark-burl top and lower rails with white inner borders",
+        "White raised pyramid-diamond top band",
+        "Dark-burl side insets in white framing with small gold oval rosettes",
+        "Fine gold beaded mirror perimeter"
+      ],
+      "reference_note": "Native-density crop of original dressing-table lifestyle image retains real reflection and some overlapping peacock-feather styling. Not a synthesized isolated photograph. Width1300mm differs from the wider dining mirror50032.0.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 754,
+        "source_native_pixels": [
+          655,
+          803
+        ],
+        "crop_rect_native_pixels": [
+          145,
+          20,
+          505,
+          410
+        ],
+        "crop_rect_pdf_points": [
+          773.6357421875,
+          102.52018737792969,
+          1043.259033203125,
+          394.8937072753906
+        ],
+        "source_image_file": "originals/page-126-xref-754.jpeg",
+        "source_image_sha256": "91f3f3359ddadd3ddd714a3904aaf693c56d07806c115ca468ce522793b35ded",
+        "source_image_to_pdf_transform": [
+          490.56463623046875,
+          0.0,
+          -0.0,
+          601.9895629882812,
+          665.0374755859375,
+          87.52667236328125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50047.0.jpg",
+        "output_pixels": [
+          360,
+          390
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "494bcdae2c3be210395075dfd0ba758dbead5c6edb8e81abfad7edd1fbd289f3"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Mirror",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 130.0,
+        "depth": 6.0,
+        "height": 106.0
+      },
+      "source_product_text_blocks": [
+        "MIRROR – Ref.: 50047.0\nHeight: 106 cm / 41,73 in\nWidth: 130 cm / 51,18 in\nDepth: 6 cm / 2,36 in\nNet weight: 35,00 Kg / 77,09 Ib\nFinish: BEL./OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50046.0",
+      "name": "Belgravia Dressing Table",
+      "type": "Dressing table",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        1820,
+        520,
+        780
+      ],
+      "weight_kg": 93,
+      "source_pdf_page": 126,
+      "visible_details": [
+        "Broad dark-burl top over TWO white side storage pedestals and an open central knee recess",
+        "Each pedestal has one shallow white pyramid-fascia upper drawer with small round knob",
+        "Each pedestal lower door contains dark-burl panel with laurel-and-crossed-torch marquetry",
+        "Gold carved columns on outside fronts and short gold lower feet",
+        "No continuous lower shelf across knee opening"
+      ],
+      "reference_note": "Native-density original lifestyle crop retains overlapping stool50049.0, wall/floor and decorative objects. Stool hides part of knee space and lower edge; hidden storage/internals and mechanisms are unverified.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 754,
+        "source_native_pixels": [
+          655,
+          803
+        ],
+        "crop_rect_native_pixels": [
+          55,
+          420,
+          645,
+          790
+        ],
+        "crop_rect_pdf_points": [
+          706.2299194335938,
+          402.3904724121094,
+          1148.112548828125,
+          679.7704467773438
+        ],
+        "source_image_file": "originals/page-126-xref-754.jpeg",
+        "source_image_sha256": "91f3f3359ddadd3ddd714a3904aaf693c56d07806c115ca468ce522793b35ded",
+        "source_image_to_pdf_transform": [
+          490.56463623046875,
+          0.0,
+          -0.0,
+          601.9895629882812,
+          665.0374755859375,
+          87.52667236328125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50046.0.jpg",
+        "output_pixels": [
+          590,
+          370
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "c88191e89e8d2373f3aa578bd46154f8dccd362309896b32ccc840afc45ae0a2"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Dressing table",
+      "rooms": [
+        "Bedroom"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 182.0,
+        "depth": 52.0,
+        "height": 78.0
+      },
+      "source_product_text_blocks": [
+        "DRESSING TABLE – Ref.: 50046.0\nHeight: 78 cm / 30,71 in\nWidth: 182 cm / 71,65 in\nDepth: 52 cm / 20,47 in\nNet weight: 93,00 Kg / 204,85 Ib\nFinish: BEL./OF (488/55)\n"
+      ]
+    },
+    {
+      "sku": "50049.0",
+      "name": "Belgravia Skirted Vanity Stool Chair",
+      "type": "Stool",
+      "room": "Bedroom",
+      "dimensions_mm": [
+        500,
+        520,
+        800
+      ],
+      "weight_kg": 17,
+      "source_pdf_page": 126,
+      "finish": "BEL (488)",
+      "fabric_codes": [
+        "241.188"
+      ],
+      "fabric_statement": "Suggested Fabric: 241.188",
+      "visible_details": [
+        "Compact armless vanity seat with a HIGH gently rounded upholstered back",
+        "Plain pale silver/taupe upholstery visible on rear and seat",
+        "Decorative studded horizontal fabric band around waist/base of back",
+        "Floor-length gathered/pleated fabric skirt concealing the legs"
+      ],
+      "dimension_note": "Source calls this item STOOL but prints height80cm; original photo shows a high-back fully skirted vanity chair. Overall800mm height is retained; do not model as a backless800mm bar stool or invent a lower stated height.",
+      "reference_note": "Original source calls50049.0 a stool despite clear high chair-back silhouette. Native-density lifestyle crop preserves actual view from behind and surrounding dressing table. Front upholstery details, concealed legs and exact seat height not visible and remain interpretative.",
+      "image": {
+        "source_pdf_page": 126,
+        "source_image_xref": 754,
+        "source_native_pixels": [
+          655,
+          803
+        ],
+        "crop_rect_native_pixels": [
+          325,
+          450,
+          575,
+          803
+        ],
+        "crop_rect_pdf_points": [
+          908.4473876953125,
+          424.8807373046875,
+          1095.685791015625,
+          689.5162353515625
+        ],
+        "source_image_file": "originals/page-126-xref-754.jpeg",
+        "source_image_sha256": "91f3f3359ddadd3ddd714a3904aaf693c56d07806c115ca468ce522793b35ded",
+        "source_image_to_pdf_transform": [
+          490.56463623046875,
+          0.0,
+          -0.0,
+          601.9895629882812,
+          665.0374755859375,
+          87.52667236328125
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50049.0.jpg",
+        "output_pixels": [
+          250,
+          353
+        ],
+        "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+        "sha256": "3bd4e36aab5da04ae46475c3e336ae41fe8435077183496ec386cce0ccd39a96"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 126,
+      "sourcePages": [
+        126
+      ],
+      "category": "Stool",
+      "rooms": [
+        "Bedroom"
+      ],
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments",
+        "Upholstery with original printed fabric codes recorded separately"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "250-251",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 50.0,
+        "depth": 52.0,
+        "height": 80.0
+      },
+      "source_product_text_blocks": [
+        "STOOL – Ref.: 50049.0\nHeight: 80 cm / 31,5 in\nWidth: 50 cm / 19,69 in\nDepth: 52 cm / 20,47 in\nNet weight: 17,00 Kg / 37,44 Ib\nFinish: BEL (488)\n"
+      ]
+    },
+    {
+      "sku": "50051.0",
+      "name": "Belgravia Carved-leg Writing Desk",
+      "type": "Desk",
+      "room": "Office",
+      "dimensions_mm": [
+        1720,
+        800,
+        790
+      ],
+      "weight_kg": 70,
+      "source_pdf_page": 133,
+      "visible_details": [
+        "Rectangular dark-burl top with broad pale inlay border and dark central writing surface",
+        "White raised pyramid-diamond apron on the original isolated desk front",
+        "Dark-burl square corner blocks and fine gold beaded edges",
+        "Gold carved column legs with Ionic-scroll capitals, square floral blocks, acanthus/fluted shafts and tapered lower toes",
+        "FOUR gold carved column legs; no enclosed lower pedestals and no centre stretcher",
+        "Original office lifestyle image shows dark-burl panels and round pull details on the reverse face"
+      ],
+      "reference_note": "Printed1720x800x790mm overall dimensions retained exactly. Original isolated view shows diamond apron face; office lifestyle PDF132 shows the opposite dark-burl drawer-panel face. Reverse-face drawer count is visually three panels but opening construction is unverified; no functioning drawer mechanism is claimed. Lamp/books are styling.",
+      "image": {
+        "source_pdf_page": 133,
+        "source_image_xref": 789,
+        "source_native_pixels": [
+          476,
+          300
+        ],
+        "crop_rect_native_pixels": [
+          0,
+          0,
+          476,
+          300
+        ],
+        "crop_rect_pdf_points": [
+          809.1495361328125,
+          172.7307891845703,
+          1166.0322265625,
+          397.2833251953125
+        ],
+        "source_image_file": "originals/page-133-xref-789.jpeg",
+        "source_image_sha256": "d253edde315fcd67098cb0e8f42ac3b179d1e6d80982c831a672b5c09ae10fe5",
+        "source_image_to_pdf_transform": [
+          356.8827209472656,
+          0.0,
+          -0.0,
+          224.5525360107422,
+          809.1495361328125,
+          172.7307891845703
+        ],
+        "source_pdf_horizontal_mirror": false,
+        "orientation_note": "Original embedded image orientation matches the source PDF display.",
+        "file": "catalogue/50051.0.jpg",
+        "source_soft_mask_xref": 788,
+        "source_soft_mask_file": "originals/page-133-mask-788.jpeg",
+        "source_soft_mask_sha256": "7cab025efa7024077a8aa9c3bf9db60f43bde5fb63913513cb0cca6269d6e7a9",
+        "output_pixels": [
+          476,
+          300
+        ],
+        "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+        "sha256": "348319ddf987a803727ffb205e7ada966b23b39163538aa8ab3c896628c3601b"
+      },
+      "collection": "BELGRAVIA",
+      "catalogue_brand": "MARINER",
+      "sourceCatalogue": "CLASSIC FURNITURE CATALOG 2023",
+      "sourceBrand": "MARINER",
+      "sourcePage": 133,
+      "sourcePages": [
+        133
+      ],
+      "category": "Desk",
+      "rooms": [
+        "Office"
+      ],
+      "finish": "BEL. / OF (488/55)",
+      "imageShared": false,
+      "materials": [
+        "Walnut burl veneer",
+        "White lacquer",
+        "Sycamore marquetry inlays",
+        "Hand-carved wood columns",
+        "Cast bronze ornaments"
+      ],
+      "dimensions_order": "width, depth, height",
+      "source_printed_pages": "264-265",
+      "image_classification": "Original catalogue image; not independently verified product photography",
+      "source_printed_dimensions_cm": {
+        "width": 172.0,
+        "depth": 80.0,
+        "height": 79.0
+      },
+      "source_product_text_blocks": [
+        "Desk Ref.: 50051.0\nHeight: 79 cm / 31,1”\nWidth: 172 cm / 67,72”\nDepth: 80 cm / 31,5”\nNet weight: 70,00 Kg / 154,19 Lb\nFinish: BEL.OF (488/55)\n"
+      ]
+    }
+  ],
+  "supporting_images": [
+    {
+      "source_pdf_page": 36,
+      "source_image_xref": 193,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.11534583568573,
+        -1.1715087890625,
+        1191.7518310546875,
+        842.9951782226562
+      ],
+      "source_image_file": "originals/page-036-xref-193.jpeg",
+      "source_image_sha256": "b2c84f1262c9a9cf79200f3e413e12ae38e36948c3226efeba23aa5e3e5ea2cf",
+      "source_image_to_pdf_transform": [
+        1192.8671875,
+        0.0,
+        -0.0,
+        844.1666870117188,
+        -1.11534583568573,
+        -1.1715087890625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-living.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "b2c84f1262c9a9cf79200f3e413e12ae38e36948c3226efeba23aa5e3e5ea2cf",
+      "room": "Living room",
+      "description": "Original grey-walled living room with white damask seating, arched tall windows, cream curtains, grey timber floor and taupe shag rug"
+    },
+    {
+      "source_pdf_page": 37,
+      "source_image_xref": 196,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.2026722431182861,
+        -1.165283203125,
+        596.3130493164062,
+        842.9219970703125
+      ],
+      "source_image_file": "originals/page-037-xref-196.jpeg",
+      "source_image_sha256": "2ab92d45097bbe196900dee117c20d26fc9a85bc501cef3402a38bccb3aa0621",
+      "source_image_to_pdf_transform": [
+        597.5157470703125,
+        0.0,
+        -0.0,
+        844.0872802734375,
+        -1.2026722431182861,
+        -1.165283203125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-living-console-and-gilt-mirror.jpg",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "2ab92d45097bbe196900dee117c20d26fc9a85bc501cef3402a38bccb3aa0621",
+      "room": "Living room",
+      "description": "Original50050.0 console and special POE380 oval-in-rectangle gilt mirror50061.0"
+    },
+    {
+      "source_pdf_page": 38,
+      "source_image_xref": 208,
+      "source_native_pixels": [
+        797,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        797,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        594.2359619140625,
+        -1.15997314453125,
+        1191.6295166015625,
+        843.0640869140625
+      ],
+      "source_image_file": "originals/page-038-xref-208.jpeg",
+      "source_image_sha256": "7e3a5e371a655827d661ed7f150f7e8029124f8177e0e414cca341e3a6316bc7",
+      "source_image_to_pdf_transform": [
+        597.3935546875,
+        0.0,
+        -0.0,
+        844.2240600585938,
+        594.2359619140625,
+        -1.15997314453125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-living-seating-detail.jpg",
+      "output_pixels": [
+        797,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "7e3a5e371a655827d661ed7f150f7e8029124f8177e0e414cca341e3a6316bc7",
+      "room": "Living room",
+      "description": "Original right-half close-up of white damask sofa, armchairs, side table and square coffee table"
+    },
+    {
+      "source_pdf_page": 39,
+      "source_image_xref": 212,
+      "source_native_pixels": [
+        1591,
+        978
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        978
+      ],
+      "crop_rect_pdf_points": [
+        -1.1803628206253052,
+        72.70465087890625,
+        1191.9437255859375,
+        806.1333618164062
+      ],
+      "source_image_file": "originals/page-039-xref-212.jpeg",
+      "source_image_sha256": "6a02cd69819222c14c24114489b92ac06e7a3a760cc646675471cc7f831fc7d0",
+      "source_image_to_pdf_transform": [
+        1193.1241455078125,
+        0.0,
+        -0.0,
+        733.4287109375,
+        -1.1803628206253052,
+        72.70465087890625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-living-navy-installation.jpg",
+      "output_pixels": [
+        1591,
+        978
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "6a02cd69819222c14c24114489b92ac06e7a3a760cc646675471cc7f831fc7d0",
+      "room": "Living room",
+      "description": "Original alternate navy-upholstery palace installation, white/gold coffered ceiling, blue drapes and floral marble floor; no extra variant SKU is printed"
+    },
+    {
+      "source_pdf_page": 102,
+      "source_image_xref": 619,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0098035335540771,
+        -1.1551513671875,
+        1191.608642578125,
+        843.0064086914062
+      ],
+      "source_image_file": "originals/page-102-xref-619.jpeg",
+      "source_image_sha256": "34415ae12e8f73835a511b7c96fd57a7a7734ccd3414151ffd60b3eb55c07f09",
+      "source_image_to_pdf_transform": [
+        1192.618408203125,
+        0.0,
+        -0.0,
+        844.1615600585938,
+        -1.0098035335540771,
+        -1.1551513671875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-dining.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "34415ae12e8f73835a511b7c96fd57a7a7734ccd3414151ffd60b3eb55c07f09",
+      "room": "Dining room",
+      "description": "Original grey-walled dining room with six-leg table, ivory/floral chairs, arched windows, cream curtains, grey timber floor and pale shag rug"
+    },
+    {
+      "source_pdf_page": 103,
+      "source_image_xref": 626,
+      "source_native_pixels": [
+        798,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        798,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        593.8048706054688,
+        -1.12457275390625,
+        1191.73681640625,
+        843.0147705078125
+      ],
+      "source_image_file": "originals/page-103-xref-626.jpeg",
+      "source_image_sha256": "c4ae356f064352d82af1a0994008a38f1149071295021394b3293304320255a9",
+      "source_image_to_pdf_transform": [
+        597.9320068359375,
+        0.0,
+        -0.0,
+        844.1393432617188,
+        593.8048706054688,
+        -1.12457275390625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-dining-table-cabinet-detail.jpg",
+      "output_pixels": [
+        798,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "c4ae356f064352d82af1a0994008a38f1149071295021394b3293304320255a9",
+      "room": "Dining room",
+      "description": "Original dining-table and scroll-arm chair close-up with cabinet behind"
+    },
+    {
+      "source_pdf_page": 105,
+      "source_image_xref": 641,
+      "source_native_pixels": [
+        1025,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1025,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.2156437635421753,
+        -1.09844970703125,
+        767.480224609375,
+        842.9915161132812
+      ],
+      "source_image_file": "originals/page-105-xref-641.jpeg",
+      "source_image_sha256": "77a986c95016a1ba468dc5fe303386856cc98211490a1339a54d05a05befd76e",
+      "source_image_to_pdf_transform": [
+        768.6958618164062,
+        0.0,
+        -0.0,
+        844.0899658203125,
+        -1.2156437635421753,
+        -1.09844970703125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-cabinet-lifestyle.jpg",
+      "output_pixels": [
+        1025,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "77a986c95016a1ba468dc5fe303386856cc98211490a1339a54d05a05befd76e",
+      "room": "Dining room",
+      "description": "Original complete glazed cabinet lifestyle with exactly two visible upper glass shelves"
+    },
+    {
+      "source_pdf_page": 125,
+      "source_image_xref": 745,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.0109001398086548,
+        -1.00018310546875,
+        1191.572509765625,
+        842.9061889648438
+      ],
+      "source_image_file": "originals/page-125-xref-745.jpeg",
+      "source_image_sha256": "77311df3eac65a38143edd008c0658d72cf7ca138172c245347bf08ba36709a9",
+      "source_image_to_pdf_transform": [
+        1192.5833740234375,
+        0.0,
+        -0.0,
+        843.9063720703125,
+        -1.0109001398086548,
+        -1.00018310546875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-bedroom.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "77311df3eac65a38143edd008c0658d72cf7ca138172c245347bf08ba36709a9",
+      "room": "Bedroom",
+      "description": "Original cream panel-moulded bedroom, pale carpet, gold floral rug, cream curtains, crystal chandelier and twin-arm wall sconces"
+    },
+    {
+      "source_pdf_page": 126,
+      "source_image_xref": 754,
+      "source_native_pixels": [
+        655,
+        803
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        655,
+        803
+      ],
+      "crop_rect_pdf_points": [
+        665.0374755859375,
+        87.52667236328125,
+        1155.60205078125,
+        689.5162353515625
+      ],
+      "source_image_file": "originals/page-126-xref-754.jpeg",
+      "source_image_sha256": "91f3f3359ddadd3ddd714a3904aaf693c56d07806c115ca468ce522793b35ded",
+      "source_image_to_pdf_transform": [
+        490.56463623046875,
+        0.0,
+        -0.0,
+        601.9895629882812,
+        665.0374755859375,
+        87.52667236328125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-dressing-table-mirror-and-skirted-stool.jpg",
+      "output_pixels": [
+        655,
+        803
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "91f3f3359ddadd3ddd714a3904aaf693c56d07806c115ca468ce522793b35ded",
+      "room": "Bedroom",
+      "description": "Original dressing table50046.0, mirror50047.0 and high-back skirted stool50049.0 composition"
+    },
+    {
+      "source_pdf_page": 132,
+      "source_image_xref": 784,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1591,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.2615413665771484,
+        -1.052490234375,
+        1191.8125,
+        843.0715942382812
+      ],
+      "source_image_file": "originals/page-132-xref-784.jpeg",
+      "source_image_sha256": "52c7b2f935a8876f65265290527f7b696d41369dc1a99f61c0b2c2d4a96ccbea",
+      "source_image_to_pdf_transform": [
+        1193.0740966796875,
+        0.0,
+        -0.0,
+        844.1240844726562,
+        -1.2615413665771484,
+        -1.052490234375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "room-office.jpg",
+      "output_pixels": [
+        1591,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "52c7b2f935a8876f65265290527f7b696d41369dc1a99f61c0b2c2d4a96ccbea",
+      "room": "Office",
+      "description": "Original cream panelled office with shuttered window, olive-brown drapes, marble fireplace, fluted pilasters and cream/gold floral rug"
+    },
+    {
+      "source_pdf_page": 133,
+      "source_image_xref": 787,
+      "source_native_pixels": [
+        1033,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        1033,
+        1126
+      ],
+      "crop_rect_pdf_points": [
+        -1.2271286249160767,
+        -1.01446533203125,
+        773.4755859375,
+        842.9933471679688
+      ],
+      "source_image_file": "originals/page-133-xref-787.jpeg",
+      "source_image_sha256": "988f6beb36b37fad6623e75446e6dbc79462f5ab9a74c39fd33767ee3d6da075",
+      "source_image_to_pdf_transform": [
+        774.7026977539062,
+        0.0,
+        -0.0,
+        844.0078125,
+        -1.2271286249160767,
+        -1.01446533203125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-office-desk-reverse-and-chair-rear.jpg",
+      "output_pixels": [
+        1033,
+        1126
+      ],
+      "transformation": "Exact original embedded JPEG bytes, no resizing or visual modification",
+      "sha256": "988f6beb36b37fad6623e75446e6dbc79462f5ab9a74c39fd33767ee3d6da075",
+      "room": "Office",
+      "description": "Original diamond-apron desk face and plain cream chair back at marble fireplace"
+    },
+    {
+      "source_pdf_page": 133,
+      "source_image_xref": 791,
+      "source_native_pixels": [
+        238,
+        336
+      ],
+      "crop_rect_native_pixels": [
+        0,
+        0,
+        238,
+        336
+      ],
+      "crop_rect_pdf_points": [
+        982.0119018554688,
+        416.6561584472656,
+        1160.027587890625,
+        668.0570068359375
+      ],
+      "source_image_file": "originals/page-133-xref-791.jpeg",
+      "source_image_sha256": "7a5badd49f919a038945763c2ae339369a52b24f9012ac5eaccdcfd76dcc2be8",
+      "source_image_to_pdf_transform": [
+        178.0157470703125,
+        0.0,
+        -0.0,
+        251.40084838867188,
+        982.0119018554688,
+        416.6561584472656
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "original-office-armchair.jpg",
+      "source_soft_mask_xref": 790,
+      "source_soft_mask_file": "originals/page-133-mask-790.jpeg",
+      "source_soft_mask_sha256": "9d596c12ea999045c97014c2c46e8ba2d9ccfb077346c5f3a924150ff2954128",
+      "output_pixels": [
+        238,
+        336
+      ],
+      "transformation": "original embedded JPEG with its original PDF soft mask faithfully composited over the original white page background; no new segmentation, upscaling or subject alteration",
+      "sha256": "a859800a660ef5688434d5b16bfea6fb5d2c8ecd0837ad1c2d76df3fb5843d6f",
+      "room": "Office",
+      "description": "Original second isolated photo of repeated dining/office armchair50035.0"
+    },
+    {
+      "source_pdf_page": 36,
+      "source_image_xref": 193,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        460,
+        745,
+        1200,
+        1120
+      ],
+      "crop_rect_pdf_points": [
+        343.7739562988281,
+        557.3579711914062,
+        898.5958862304688,
+        838.4969482421875
+      ],
+      "source_image_file": "originals/page-036-xref-193.jpeg",
+      "source_image_sha256": "b2c84f1262c9a9cf79200f3e413e12ae38e36948c3226efeba23aa5e3e5ea2cf",
+      "source_image_to_pdf_transform": [
+        1192.8671875,
+        0.0,
+        -0.0,
+        844.1666870117188,
+        -1.11534583568573,
+        -1.1715087890625
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-coffee-diamond-apron-and-column.jpg",
+      "output_pixels": [
+        740,
+        375
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "038cbc180e1b7d3a4587ce756169a2335ddc915699082df0f927e6b070dacde3",
+      "room": "Living room",
+      "description": "Native original crop of white raised pyramid-diamond apron, gold beaded borders, rosettes and short carved columns"
+    },
+    {
+      "source_pdf_page": 105,
+      "source_image_xref": 641,
+      "source_native_pixels": [
+        1025,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        165,
+        685,
+        430,
+        990
+      ],
+      "crop_rect_pdf_points": [
+        122.525634765625,
+        512.402099609375,
+        321.2616271972656,
+        741.041015625
+      ],
+      "source_image_file": "originals/page-105-xref-641.jpeg",
+      "source_image_sha256": "77a986c95016a1ba468dc5fe303386856cc98211490a1339a54d05a05befd76e",
+      "source_image_to_pdf_transform": [
+        768.6958618164062,
+        0.0,
+        -0.0,
+        844.0899658203125,
+        -1.2156437635421753,
+        -1.09844970703125
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-laurel-torch-marquetry.jpg",
+      "output_pixels": [
+        265,
+        305
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "239efd0b446b1aec8a51bd096058b7a71ff99c9dda207455a0729d14646b0494",
+      "room": "Dining room",
+      "description": "Native original crop of lower cabinet walnut-burl panel with laurel-and-crossed-torch marquetry"
+    },
+    {
+      "source_pdf_page": 125,
+      "source_image_xref": 745,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        755,
+        375,
+        1270,
+        665
+      ],
+      "crop_rect_pdf_points": [
+        564.9227294921875,
+        280.0520935058594,
+        950.9569702148438,
+        497.3992004394531
+      ],
+      "source_image_file": "originals/page-125-xref-745.jpeg",
+      "source_image_sha256": "77311df3eac65a38143edd008c0658d72cf7ca138172c245347bf08ba36709a9",
+      "source_image_to_pdf_transform": [
+        1192.5833740234375,
+        0.0,
+        -0.0,
+        843.9063720703125,
+        -1.0109001398086548,
+        -1.00018310546875
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-headboard-tufting.jpg",
+      "output_pixels": [
+        515,
+        290
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "52ef21bbe9d82104699ffe3554f767a7ef383ea16d88b07c21560054fd18cafe",
+      "room": "Bedroom",
+      "description": "Native original crop of single tufted headboard panel and tall gold columns"
+    },
+    {
+      "source_pdf_page": 132,
+      "source_image_xref": 784,
+      "source_native_pixels": [
+        1591,
+        1126
+      ],
+      "crop_rect_native_pixels": [
+        490,
+        505,
+        1210,
+        715
+      ],
+      "crop_rect_pdf_points": [
+        366.1842956542969,
+        377.5289306640625,
+        906.1046752929688,
+        534.9588012695312
+      ],
+      "source_image_file": "originals/page-132-xref-784.jpeg",
+      "source_image_sha256": "52c7b2f935a8876f65265290527f7b696d41369dc1a99f61c0b2c2d4a96ccbea",
+      "source_image_to_pdf_transform": [
+        1193.0740966796875,
+        0.0,
+        -0.0,
+        844.1240844726562,
+        -1.2615413665771484,
+        -1.052490234375
+      ],
+      "source_pdf_horizontal_mirror": false,
+      "orientation_note": "Original embedded image orientation matches the source PDF display.",
+      "file": "details/original-office-drawer-face.jpg",
+      "output_pixels": [
+        720,
+        210
+      ],
+      "transformation": "Native-density rectangular crop; original embedded JPEG rendered at native pixel density; no upscaling or subject alteration",
+      "sha256": "8fd6ce44ec743ae99a08ffdcfa23256389a33a2eea8dbea6f2e2ae9131136f04",
+      "room": "Office",
+      "description": "Native original crop of opposite desk face with dark-burl rectangular panels and two visible round pulls"
+    }
+  ]
+}

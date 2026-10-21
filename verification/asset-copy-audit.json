@@ -43,6 +43,12 @@
       "products": 22,
       "placements": 35,
       "movingParts": 0
+    },
+    {
+      "id": "belgravia",
+      "products": 22,
+      "placements": 36,
+      "movingParts": 0
     }
   ],
   "files": [
