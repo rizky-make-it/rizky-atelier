@@ -1,0 +1,272 @@
+{
+  "ok": true,
+  "siteUrl": "http://127.0.0.1:4177/",
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/"
+    },
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/products"
+    },
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/collections"
+    },
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/studio"
+    },
+    {
+      "width": 1440,
+      "height": 960,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/products"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/collections"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/studio"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/products"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/collections"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/studio"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/products"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/collections"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/studio"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/products"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/collections"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/studio"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/products"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/collections"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/studio"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/products"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/collections"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/studio"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/gallery/belgravia"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/products"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/collections"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/materials/belgravia"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/studio"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "route": "/gallery/belgravia"
+    }
+  ],
+  "filterReturn": true,
+  "filterReload": true,
+  "tabletKeyboard": true,
+  "mobileTouchNavigation": true,
+  "referenceContact": true,
+  "whatsappSent": false,
+  "screenshots": [
+    "home-1440.png",
+    "catalogue-1440.png",
+    "home-1024.png",
+    "catalogue-1024.png",
+    "home-768.png",
+    "catalogue-768.png",
+    "home-320.png",
+    "catalogue-320.png",
+    "home-360.png",
+    "catalogue-360.png",
+    "home-390.png",
+    "catalogue-390.png",
+    "home-430.png",
+    "catalogue-430.png",
+    "home-844.png",
+    "catalogue-844.png",
+    "product-desktop.png"
+  ],
+  "errors": []
+}

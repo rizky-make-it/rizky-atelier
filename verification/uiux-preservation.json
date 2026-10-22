@@ -1,0 +1,15 @@
+{
+  "baseCommit": "97e1b711e3c15d5e70dce1a996e72703cbe71bfe",
+  "preservedAssets": 390,
+  "changedAssets": [],
+  "totalBytes": 973913706,
+  "files": 402,
+  "maxFileBytes": 62486911,
+  "within1GB": true,
+  "allFilesBelow95MiB": true,
+  "collections": 8,
+  "manifestSHA256": "2a09fc833e9594fe9f6757df8572dbbf89b51f651c2700aa5c916bc6fc6182ad",
+  "workingTreeBytes": 973913706,
+  "publishedBytes": 973913328,
+  "publishedFiles": 402
+}
